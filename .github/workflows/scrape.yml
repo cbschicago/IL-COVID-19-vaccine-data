@@ -1,0 +1,17 @@
+on:
+  schedule:
+    - cron: "0 */8 * * *"
+name: Scrape Data
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+      - name: Build
+        uses: uses actions/setup-python@v2.0.0
+        with:
+          python-version: "3.7"
+      - name: Run scraper
+        run: python scrape_idph.py
