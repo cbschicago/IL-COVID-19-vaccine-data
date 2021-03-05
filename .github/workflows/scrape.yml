@@ -1,8 +1,7 @@
 name: Scrape Data
 on:
   schedule:
-    #     - cron: "0 */8 * * *"
-    - cron: "15 20 * * *"
+    - cron: "0 * * * *"
 jobs:
   scrape-latest:
     runs-on: ubuntu-latest
