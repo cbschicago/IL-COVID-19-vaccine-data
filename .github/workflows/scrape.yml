@@ -2,7 +2,7 @@ name: Scrape Data
 on:
   schedule:
 #     - cron: "0 */8 * * *"
-      - cron: "0 19 * * *"
+      - cron: "47 18 * * *"
 jobs:
   build:
     name: Build
