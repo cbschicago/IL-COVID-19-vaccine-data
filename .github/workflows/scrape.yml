@@ -1,18 +1,32 @@
 name: Scrape Data
 on:
   schedule:
-#     - cron: "0 */8 * * *"
-      - cron: "47 18 * * *"
+    - cron: "48 19 * * *"
 jobs:
-  build:
-    name: Build
+  scrape-latest:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
+      - name: checkout repo
         uses: actions/checkout@v2
-      - name: Build
-        uses: uses actions/setup-python@v2.0.0
+      - name: set up python
+        uses: actions/setup-python@v2.0.0
         with:
           python-version: "3.7"
-      - name: Run scraper
+      - name: install requirements
+        run: pip install -r requirements.txt
+      - name: set env vars
+        run: |
+          echo "DATE=$(python -c 'import datetime as dt; print((dt.datetime.now() - dt.timedelta(days=3)).date())')" >> $GITHUB_ENV
+      - name: run scraper
         run: python scrape_idph.py
+      - name: commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add output/
+          git commit -m "Add data for $DATE"
+      - name: push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
