@@ -23,8 +23,10 @@ else:
 
 if last_updated_date > last_archived_date:
     df = pd.DataFrame(data["VaccineAdministration"])
-    df.columns = df.columns.str.replace(r"(?<!^)(?<!_)(?=[A-Z])", "_").str.lower()
+    df.columns = df.columns.str.replace(
+        r"(?<!^)(?<!_)(?=[A-Z])", "_", regex=True
+    ).str.lower()
     df["update_date"] = last_updated_date
     df["administered_doses_per_100k"] = df.administered_count / df.population * 100_000
-    out = archive_data.append(df)
+    out = archive_data.append(df).sort_values("update_date")
     out.to_csv(archive_file, index=False)
