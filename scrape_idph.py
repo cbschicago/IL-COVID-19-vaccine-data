@@ -1,7 +1,6 @@
 import os
 import requests
 import pandas as pd
-import time
 
 
 resp = requests.get(
