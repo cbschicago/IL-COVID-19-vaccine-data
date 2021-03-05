@@ -1,0 +1,1 @@
+[![Scrape Data](https://github.com/hackerlikecomputer/IL-COVID-19-vaccine-data-scraper/actions/workflows/scrape.yml/badge.svg)](https://github.com/hackerlikecomputer/IL-COVID-19-vaccine-data-scraper/actions/workflows/scrape.yml)
