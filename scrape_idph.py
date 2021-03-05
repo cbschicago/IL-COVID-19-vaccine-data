@@ -27,4 +27,4 @@ if last_updated_date > last_archived_date:
     df["update_date"] = last_updated_date
     df["administered_doses_per_100k"] = df.administered_count / df.population * 100_000
     out = archive_data.append(df)
-    out.to_csv(archive_file)
+    out.to_csv(archive_file, index=False)
