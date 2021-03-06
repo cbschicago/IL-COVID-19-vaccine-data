@@ -22,12 +22,14 @@ jobs:
       - name: run scraper
         run: python scrape_idph.py
       - name: commit files
+        if: git ls-files -m | grep -P "^output/idph_vaccine_administration_data.csv$"
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add output/
           git commit -m "Add data for $DATE"
       - name: push changes
+        if: git ls-files -m | grep -P "^output/idph_vaccine_administration_data.csv$"
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
