@@ -15,26 +15,22 @@ last_updated_date = pd.Timestamp(**data["lastUpdatedDate"])
 archive_file = "output/idph_vaccine_administration_data_daily_by_county.csv"
 if os.path.exists(archive_file):
     archive_data = pd.read_csv(archive_file)
-    archive_data["update_date"] = pd.to_datetime(archive_data.update_date)
-    last_archived_date = archive_data.update_date.max()
+    archive_data["report_date"] = pd.to_datetime(archive_data.report_date)
 else:
     archive_data = pd.DataFrame()
-    last_archived_date = pd.Timestamp(1900, 1, 1)
 
 new_data = pd.DataFrame(data["VaccineAdministration"])
 new_data.columns = new_data.columns.str.replace(
     r"(?<!^)(?<!_)(?=[A-Z])", "_", regex=True
 ).str.lower()
-new_data["update_date"] = last_updated_date
+new_data["report_date"] = pd.to_datetime(new_data.report_date)
 new_data["administered_doses_per_100k"] = (
     new_data.administered_count / new_data.population * 100_000
 )
 # datawrapper needs percents, not decimals
 new_data["pct_vaccinated_population"] = new_data.pct_vaccinated_population * 100
 
-new_data = new_data.drop_duplicates().sort_values(
-    "pct_vaccinated_population", ascending=False
-)
+new_data = new_data.drop_duplicates()
 
 ############### OUTPUT ###############
 
@@ -59,6 +55,8 @@ new_data.to_csv(
 
 # CURRENT STATEWIDE
 new_data_statewide = new_data[new_data.county_name == "Illinois"]
-new_data_statewide.to_csv(
+
+# sort by vax rate to set the default datawrapper sort view
+new_data_statewide.sort_values("pct_vaccinated_population", ascending=False).to_csv(
     "output/idph_vaccine_administration_data_current_statewide.csv", index=False
 )
