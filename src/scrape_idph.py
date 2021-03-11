@@ -55,7 +55,15 @@ outfile = new_data[new_data.county_name == "Illinois"].append(
     new_data[new_data.county_name != "Illinois"].sort_values(
         "pct_vaccinated_population", ascending=False
     )
-)
+)[
+    [
+        "county_name",
+        "administered_count",
+        "administered_count_roll_avg",
+        "persons_fully_vaccinated",
+        "pct_vaccinated_population",
+    ]
+]
 outfile.to_csv(
     "output/idph_vaccine_administration_data_current_by_county.csv", index=False
 )
