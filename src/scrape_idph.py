@@ -49,7 +49,14 @@ new_data["census_county_name"] = new_data.county_name.apply(lambda n: f"{n} Coun
 new_data = new_data[
     ["census_county_name"] + [c for c in new_data if c != "census_county_name"]
 ]
-new_data.to_csv(
+# ensure statewide number is top row for datawrapper
+# then sort by vax rate to set the default datawrapper sort view
+outfile = new_data[new_data.county_name == "Illinois"].append(
+    new_data[new_data.county_name != "Illinois"].sort_values(
+        "pct_vaccinated_population", ascending=False
+    )
+)
+outfile.to_csv(
     "output/idph_vaccine_administration_data_current_by_county.csv", index=False
 )
 
