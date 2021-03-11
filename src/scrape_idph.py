@@ -57,6 +57,7 @@ outfile = new_data[new_data.county_name == "Illinois"].append(
     )
 )[
     [
+        "census_county_name",
         "county_name",
         "administered_count",
         "administered_count_roll_avg",
