@@ -32,13 +32,9 @@ new_data["administered_doses_per_100k"] = (
 # datawrapper needs percents, not decimals
 new_data["pct_vaccinated_population"] = new_data.pct_vaccinated_population * 100
 
-archive = archive_data.append(new_data).sort_values("update_date").drop_duplicates()
-archive.to_csv(archive_file, index=False)
-
-statewide_archive = archive[archive.county_name == "Illinois"]
-statewide_archive.to_csv(
-    "output/idph_vaccine_administration_data_daily_statewide.csv", index=False
-)
+if last_updated_date > last_archived_date:
+    archive = archive_data.append(new_data).sort_values("update_date")
+    archive.drop_duplicates().to_csv(archive_file, index=False)
 
 # write daily data anyway
 new_data["census_county_name"] = new_data.county_name.apply(lambda n: f"{n} County, IL")
