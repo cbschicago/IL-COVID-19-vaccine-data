@@ -12,7 +12,7 @@ data = resp.json()
 
 last_updated_date = pd.Timestamp(**data["lastUpdatedDate"])
 
-archive_file = "output/idph_vaccine_administration_data.csv"
+archive_file = "output/idph_vaccine_administration_data_daily_by_county.csv"
 if os.path.exists(archive_file):
     archive_data = pd.read_csv(archive_file)
     archive_data["update_date"] = pd.to_datetime(archive_data.update_date)
@@ -22,11 +22,18 @@ else:
     last_archived_date = pd.Timestamp(1900, 1, 1)
 
 if last_updated_date > last_archived_date:
-    df = pd.DataFrame(data["VaccineAdministration"])
-    df.columns = df.columns.str.replace(
+    new_data = pd.DataFrame(data["VaccineAdministration"])
+    new_data.columns = new_data.columns.str.replace(
         r"(?<!^)(?<!_)(?=[A-Z])", "_", regex=True
     ).str.lower()
-    df["update_date"] = last_updated_date
-    df["administered_doses_per_100k"] = df.administered_count / df.population * 100_000
-    out = archive_data.append(df).sort_values("update_date")
-    out.to_csv(archive_file, index=False)
+    new_data["update_date"] = last_updated_date
+    new_data["administered_doses_per_100k"] = (
+        new_data.administered_count / new_data.population * 100_000
+    )
+
+    new_data.drop_duplicates().to_csv(
+        "output/idph_vaccine_administration_data_current_by_county.csv", index=False
+    )
+
+    archive = archive_data.append(new_data).sort_values("update_date")
+    archive.drop_duplicates().to_csv(archive_file, index=False)
