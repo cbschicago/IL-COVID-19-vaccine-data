@@ -3,6 +3,12 @@ import requests
 import pandas as pd
 
 
+def sort_pin_statewide(df, by, ascending=False):
+    return df[df.county_name == "Illinois"].append(
+        df[df.county_name != "Illinois"].sort_values(by, ascending=ascending)
+    )
+
+
 resp = requests.get(
     "https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/"
     "getVaccineAdministrationCurrent"
@@ -60,11 +66,7 @@ new_data = new_data[
 ]
 # ensure statewide number is top row for datawrapper
 # then sort by vax rate to set the default datawrapper sort view
-out = new_data[new_data.county_name == "Illinois"].append(
-    new_data[new_data.county_name != "Illinois"].sort_values(
-        "pct_vaccinated_population", ascending=False
-    )
-)[table_cols]
+out = sort_pin_statewide(new_data, "pct_vaccinated_population")[table_cols]
 out.to_csv("output/idph_vaccine_administration_data_current_by_county.csv", index=False)
 
 # CURRENT STATEWIDE
@@ -91,6 +93,7 @@ out = new_data[
         "longitude",
     ]
 ]
+out = sort_pin_statewide(out, "total_inventory_per_100k")
 out.to_csv(
     "output/idph_vaccine_administration_data_current_inventory_by_county.csv",
     index=False,
