@@ -44,6 +44,15 @@ statewide_archive.to_csv(
     "output/idph_vaccine_administration_data_daily_statewide.csv", index=False
 )
 
+table_cols = [
+    "census_county_name",
+    "county_name",
+    "administered_count",
+    "administered_count_roll_avg",
+    "persons_fully_vaccinated",
+    "pct_vaccinated_population",
+]
+
 # CURRENT BY COUNTY
 new_data["census_county_name"] = new_data.county_name.apply(lambda n: f"{n} County, IL")
 new_data = new_data[
@@ -55,22 +64,13 @@ outfile = new_data[new_data.county_name == "Illinois"].append(
     new_data[new_data.county_name != "Illinois"].sort_values(
         "pct_vaccinated_population", ascending=False
     )
-)[
-    [
-        "census_county_name",
-        "county_name",
-        "administered_count",
-        "administered_count_roll_avg",
-        "persons_fully_vaccinated",
-        "pct_vaccinated_population",
-    ]
-]
+)[table_cols]
 outfile.to_csv(
     "output/idph_vaccine_administration_data_current_by_county.csv", index=False
 )
 
 # CURRENT STATEWIDE
-new_data_statewide = new_data[new_data.county_name == "Illinois"]
+new_data_statewide = new_data[new_data.county_name == "Illinois"][table_cols]
 
 # sort by vax rate to set the default datawrapper sort view
 new_data_statewide.sort_values("pct_vaccinated_population", ascending=False).to_csv(
