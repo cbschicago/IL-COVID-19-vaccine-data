@@ -20,7 +20,9 @@ jobs:
         run: |
           echo "DATE=$(python -c 'import datetime as dt; print(dt.datetime.now().date())')" >> $GITHUB_ENV
       - name: run scraper
-        run: python src/scrape_idph.py
+        run: |
+          python src/scrape_idph.py
+          python src/scrape_cdph.py
       - name: commit files
         run: |
           git config --local user.email "action@github.com"
