@@ -16,6 +16,29 @@ df[["date", "total_doses_daily", "total_doses_7day_avg"]].to_csv(
 df = pd.read_csv("https://data.cityofchicago.org/resource/553k-3xzc.csv?$limit=10000")
 df["date"] = pd.to_datetime(df.date)
 
+# get daily citywide data to pin to top of end table
+citywide = (
+    df.groupby(["date"])[
+        [
+            "total_doses_cumulative",
+            "total_doses_daily",
+            "vaccine_series_completed_cumulative",
+        ]
+    ]
+    .sum()
+    .reset_index()
+)
+citywide["zip_code"] = "Chicago"
+chicago_population = int(
+    pd.read_html(
+        "https://www.census.gov/quickfacts/fact/table/chicagocityillinois,US/PST045219"
+    )[1].iloc[0][1]
+)
+citywide["vaccine_series_completed_percent_population"] = (
+    citywide.vaccine_series_completed_cumulative / chicago_population
+)
+df = df.append(citywide).sort_values("date")
+
 # get 7day avg for each zip code
 dfs = []
 for z in df.zip_code.unique():
@@ -28,7 +51,6 @@ for z in df.zip_code.unique():
 df = df.merge(
     pd.concat(dfs).drop_duplicates(), on=["zip_code", "date", "total_doses_daily"]
 )
-
 
 df = df[df.date == df.date.max()].fillna(
     "NULL"
@@ -47,6 +69,13 @@ df = df[
         "vaccine_series_completed_percent_population",
     ]
 ]
+
+df = df[df.zip_code == "Chicago"].append(
+    df[df.zip_code != "Chicago"].sort_values(
+        "vaccine_series_completed_percent_population", ascending=False
+    )
+)
+
 df.to_csv(
     "output/chicago_covid_vaccine_data_total_doses_zip_code_current.csv", index=False
 )
