@@ -86,5 +86,10 @@ out = new_data[
         "latitude",
         "longitude",
     ]
-]
+].rename(
+    columns={
+        "latitude": "Lat",
+        "longitude": "Long",
+    }
+)
 out.to_csv("output/idph_vaccine_administration_data_current_inventory_by_county.csv")
