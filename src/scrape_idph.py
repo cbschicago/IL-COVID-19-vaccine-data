@@ -76,6 +76,9 @@ new_data_statewide.sort_values("pct_vaccinated_population", ascending=False).to_
 )
 
 # INVENTORY POINTS FOR MAP
+new_data["total_inventory_per_100k"] = (
+    new_data.total_reported_inventory / new_data.population * 100_000
+)
 out = new_data[
     [
         "census_county_name",
@@ -83,15 +86,11 @@ out = new_data[
         "l_h_d_reported_inventory",
         "community_reported_inventory",
         "total_reported_inventory",
+        "total_inventory_per_100k",
         "latitude",
         "longitude",
     ]
-].rename(
-    columns={
-        "latitude": "Lat",
-        "longitude": "Long",
-    }
-)
+]
 out.to_csv(
     "output/idph_vaccine_administration_data_current_inventory_by_county.csv",
     index=False,
