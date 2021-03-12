@@ -60,14 +60,12 @@ new_data = new_data[
 ]
 # ensure statewide number is top row for datawrapper
 # then sort by vax rate to set the default datawrapper sort view
-outfile = new_data[new_data.county_name == "Illinois"].append(
+out = new_data[new_data.county_name == "Illinois"].append(
     new_data[new_data.county_name != "Illinois"].sort_values(
         "pct_vaccinated_population", ascending=False
     )
 )[table_cols]
-outfile.to_csv(
-    "output/idph_vaccine_administration_data_current_by_county.csv", index=False
-)
+out.to_csv("output/idph_vaccine_administration_data_current_by_county.csv", index=False)
 
 # CURRENT STATEWIDE
 new_data_statewide = new_data[new_data.county_name == "Illinois"][table_cols]
@@ -76,3 +74,17 @@ new_data_statewide = new_data[new_data.county_name == "Illinois"][table_cols]
 new_data_statewide.sort_values("pct_vaccinated_population", ascending=False).to_csv(
     "output/idph_vaccine_administration_data_current_statewide.csv", index=False
 )
+
+# INVENTORY POINTS FOR MAP
+out = new_data[
+    [
+        "census_county_name",
+        "county_name",
+        "l_h_d_reported_inventory",
+        "community_reported_inventory",
+        "total_reported_inventory",
+        "latitude",
+        "longitude",
+    ]
+]
+out.to_csv("output/idph_vaccine_administration_data_current_inventory_by_county.csv")
