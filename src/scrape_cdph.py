@@ -15,4 +15,6 @@ df[["date", "total_doses_daily", "total_doses_7day_avg"]].to_csv(
 df = pd.read_csv("https://data.cityofchicago.org/resource/553k-3xzc.csv?$limit=10000")
 df["date"] = pd.to_datetime(df.date)
 df = df[df.date == df.date.max()]
-df.to_csv("output/chicago_covid_vaccine_data_total_doses_zip_code.csv", index=False)
+df.to_csv(
+    "output/chicago_covid_vaccine_data_total_doses_zip_code_current.csv", index=False
+)
