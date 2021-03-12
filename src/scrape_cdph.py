@@ -5,7 +5,7 @@ df["date"] = pd.to_datetime(df.date)
 
 # citywide overall by day
 df = df.sort_values("date", ascending=True)
-df["total_doses_7day_avg"] = df.total_doses_daily.rolling(7, min_periods=7).mean()
+df["total_doses_7day_avg"] = df.total_doses_daily.rolling(7, min_periods=1).mean()
 df[["date", "total_doses_daily", "total_doses_7day_avg"]].to_csv(
     "output/chicago_covid_vaccine_data_total_doses_daily.csv", index=False
 )
