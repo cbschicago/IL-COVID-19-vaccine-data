@@ -92,4 +92,7 @@ out = new_data[
         "longitude": "Long",
     }
 )
-out.to_csv("output/idph_vaccine_administration_data_current_inventory_by_county.csv")
+out.to_csv(
+    "output/idph_vaccine_administration_data_current_inventory_by_county.csv",
+    index=False,
+)
