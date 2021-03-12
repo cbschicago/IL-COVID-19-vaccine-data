@@ -17,6 +17,9 @@ df["date"] = pd.to_datetime(df.date)
 df = df[df.date == df.date.max()].fillna(
     "NULL"
 )  # datawrapper breaks if there is a null value for some reason
+df["vaccine_series_completed_percent_population"] = (
+    df.vaccine_series_completed_percent_population * 100
+)  # dw won't let me change it
 df.to_csv(
     "output/chicago_covid_vaccine_data_total_doses_zip_code_current.csv", index=False
 )
