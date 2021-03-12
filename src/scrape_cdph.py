@@ -1,6 +1,6 @@
 import pandas as pd
 
-# citywide by day
+# CITYWIDE BY DAY
 
 df = pd.read_csv("https://data.cityofchicago.org/resource/2vhs-cf6b.csv")
 df["date"] = pd.to_datetime(df.date)
@@ -11,7 +11,8 @@ df[["date", "total_doses_daily", "total_doses_7day_avg"]].to_csv(
     "output/chicago_covid_vaccine_data_total_doses_daily.csv", index=False
 )
 
-# by zip code, current
+# CURRENT BY ZIP CODE
+
 df = pd.read_csv("https://data.cityofchicago.org/resource/553k-3xzc.csv?$limit=10000")
 df["date"] = pd.to_datetime(df.date)
 
@@ -37,6 +38,15 @@ df["vaccine_series_completed_percent_population"] = (
     df.vaccine_series_completed_percent_population
     * 100
 )
+df = df[
+    [
+        "zip_code",
+        "total_doses_cumulative",
+        "7_day_avg",
+        "vaccine_series_completed_cumulative",
+        "vaccine_series_completed_percent_population",
+    ]
+]
 df.to_csv(
     "output/chicago_covid_vaccine_data_total_doses_zip_code_current.csv", index=False
 )
