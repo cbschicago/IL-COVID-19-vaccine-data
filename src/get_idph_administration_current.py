@@ -1,3 +1,4 @@
+import json
 import os
 import requests
 import pandas as pd
@@ -9,44 +10,45 @@ def sort_pin_statewide(df, by, ascending=False):
     )
 
 
-resp = requests.get(
-    "https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/"
-    "getVaccineAdministrationCurrent"
-)
-assert resp.status_code == 200, f"request failed with status code {resp.status_code}"
-data = resp.json()
+with open("input/il_counties.json", "r") as f:
+    counties = json.load(f)
 
-last_updated_date = pd.Timestamp(**data["lastUpdatedDate"])
+dfs = []
+for county in counties:
+    url = (
+        "https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/"
+        f"getVaccineAdministration?countyName={county}"
+    )
+    resp = requests.get(url)
+    assert (
+        resp.status_code == 200
+    ), f"request failed with status code {resp.status_code}"
+    data = resp.json()
+    df = pd.DataFrame(data["VaccineAdministration"])
+    df.columns = (
+        df.columns.str.replace(r"(?<!^)(?=[A-Z])", "_", regex=True)
+        .str.lower()
+        .str.replace("_+", "_")
+    )
+    df["report_date"] = pd.to_datetime(df.report_date)
+    df["administered_doses_per_100k"] = df.administered_count / df.population * 100_000
+    # datawrapper needs percents, not decimals
+    df["pct_vaccinated_population"] = df.pct_vaccinated_population * 100
+    dfs.append(df)
 
-archive_file = "output/idph_vaccine_administration_data_daily_by_county.csv"
-if os.path.exists(archive_file):
-    archive_data = pd.read_csv(archive_file)
-    archive_data["report_date"] = pd.to_datetime(archive_data.report_date)
-else:
-    archive_data = pd.DataFrame()
-
-new_data = pd.DataFrame(data["VaccineAdministration"])
-new_data.columns = new_data.columns.str.replace(
-    r"(?<!^)(?<!_)(?=[A-Z])", "_", regex=True
-).str.lower()
-new_data["report_date"] = pd.to_datetime(new_data.report_date)
-new_data["administered_doses_per_100k"] = (
-    new_data.administered_count / new_data.population * 100_000
-)
-# datawrapper needs percents, not decimals
-new_data["pct_vaccinated_population"] = new_data.pct_vaccinated_population * 100
-
-new_data = new_data.drop_duplicates()
+df = pd.concat(dfs)
+latest = df[df.report_date == df.report_date.max()].copy()
 
 ############### OUTPUT ###############
 
 # DAILY BY COUNTY
-archive = archive_data.append(new_data).sort_values("update_date")
-archive.drop_duplicates().to_csv(archive_file, index=False)
+df.drop_duplicates().to_csv(
+    "output/idph_vaccine_administration_data_daily_by_county.csv", index=False
+)
 
 # DAILY STATEWIDE
-statewide_archive = archive[archive.county_name == "Illinois"]
-statewide_archive.to_csv(
+statewide_df = df[df.county_name == "Illinois"]
+statewide_df.to_csv(
     "output/idph_vaccine_administration_data_daily_statewide.csv", index=False
 )
 
@@ -60,28 +62,28 @@ table_cols = [
 ]
 
 # CURRENT BY COUNTY
-new_data["census_county_name"] = new_data.county_name.apply(lambda n: f"{n} County, IL")
-new_data = new_data[
-    ["census_county_name"] + [c for c in new_data if c != "census_county_name"]
+latest["census_county_name"] = latest.county_name.apply(lambda n: f"{n} County, IL")
+latest = latest[
+    ["census_county_name"] + [c for c in latest if c != "census_county_name"]
 ]
 # ensure statewide number is top row for datawrapper
 # then sort by vax rate to set the default datawrapper sort view
-out = sort_pin_statewide(new_data, "pct_vaccinated_population")[table_cols]
+out = sort_pin_statewide(latest, "pct_vaccinated_population")[table_cols]
 out.to_csv("output/idph_vaccine_administration_data_current_by_county.csv", index=False)
 
 # CURRENT STATEWIDE
-new_data_statewide = new_data[new_data.county_name == "Illinois"][table_cols]
+latest_statewide = latest[latest.county_name == "Illinois"][table_cols]
 
 # sort by vax rate to set the default datawrapper sort view
-new_data_statewide.sort_values("pct_vaccinated_population", ascending=False).to_csv(
+latest_statewide.sort_values("pct_vaccinated_population", ascending=False).to_csv(
     "output/idph_vaccine_administration_data_current_statewide.csv", index=False
 )
 
 # INVENTORY POINTS FOR MAP
-new_data["total_inventory_per_100k"] = (
-    new_data.total_reported_inventory / new_data.population * 100_000
+latest["total_inventory_per_100k"] = (
+    latest.total_reported_inventory / latest.population * 100_000
 )
-out = new_data[
+out = latest[
     [
         "census_county_name",
         "county_name",
