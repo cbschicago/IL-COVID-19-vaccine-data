@@ -74,6 +74,7 @@ for df_name in dfs:
     outfile = outfiles[df_name] + "_daily.csv"
     if os.path.exists(outfile):
         archive = pd.read_csv(outfile)
+        archive["report_date"] = pd.to_datetime(archive.report_date)
     else:
         archive = pd.DataFrame()
     df = df.append(archive)
