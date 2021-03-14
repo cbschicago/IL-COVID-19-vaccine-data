@@ -2,6 +2,7 @@ import json
 import os
 import requests
 import pandas as pd
+from common import get_with_retry, idph_vaccine_request_headers
 
 with open("input/il_counties.json", "r") as f:
     counties = json.load(f)
@@ -30,10 +31,7 @@ county_vax_current["report_date"] = pd.to_datetime(county_vax_current.report_dat
 
 for county in counties:
     url = f"https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/getVaccineAdministrationDemos?countyname={county}"
-    resp = requests.get(url)
-    assert (
-        resp.status_code == 200
-    ), f"request failed with status code {resp.status_code}"
+    resp = get_with_retry(url, headers=idph_vaccine_request_headers)
     data = resp.json()
     for df_name in data.keys():
         df = pd.DataFrame(data[df_name])

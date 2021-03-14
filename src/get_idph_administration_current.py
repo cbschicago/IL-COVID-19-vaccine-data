@@ -1,7 +1,6 @@
 import json
-import os
-import requests
 import pandas as pd
+from common import get_with_retry, idph_vaccine_request_headers
 
 
 def sort_pin_statewide(df, by, ascending=False):
@@ -19,10 +18,7 @@ for county in counties:
         "https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/"
         f"getVaccineAdministration?countyName={county}"
     )
-    resp = requests.get(url)
-    assert (
-        resp.status_code == 200
-    ), f"request failed with status code {resp.status_code}"
+    resp = get_with_retry(url, headers=idph_vaccine_request_headers)
     data = resp.json()
     df = pd.DataFrame(data["VaccineAdministration"])
     df.columns = (
