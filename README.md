@@ -1,3 +1,3 @@
-Simple script to fetch COVID-19 vaccine administration data from the Illinois Department of Public Health using GitHub Actions.
+[![run-workflow](https://github.com/hackerlikecomputer/IL-COVID-19-vaccine-data-scraper/actions/workflows/run.yml/badge.svg)](https://github.com/hackerlikecomputer/IL-COVID-19-vaccine-data-scraper/actions/workflows/run.yml)
 
-Output files are connected to live datawrapper visualizations.
+Scripts to fetch data from the Chicago and Illinois departments of public health. Visualizations connected to csv files in output/ and updated after each run. Runs entirely on Github actions.
