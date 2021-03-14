@@ -1,7 +1,7 @@
 name: run-workflow
 on:
   schedule:
-    - cron: "40 23 * * *"
+    - cron: "0 23 * * *"
   workflow_dispatch:
     inputs:
 env:
