@@ -5,15 +5,14 @@ import requests
 def get_with_retry(url, headers, max_tries=5):
     tries = 0
     while tries < max_tries:
-        resp = requests.get(url, headers=headers)
-        if resp.status_code != 200:
+        try:
+            resp = requests.get(url, headers=headers)
+        except Exception:
             time.sleep(300)
         else:
             return resp
     else:
-        raise requests.RequestException(
-            f"request to {url} failed with status code {resp.status_code}"
-        )
+        raise requests.RequestException(f"request to {url} failed")
 
 
 idph_vaccine_request_headers = {
