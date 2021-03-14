@@ -4,6 +4,10 @@ on:
     - cron: "40 23 * * *"
   workflow_dispatch:
     inputs:
+      foo:
+        description: "foo"
+        required: false
+        default: "bar"
 env:
   ACTIONS_ALLOW_UNSECURE_COMMANDS: true
 jobs:
