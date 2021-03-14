@@ -1,4 +1,4 @@
-name: Scrape Data
+name: run-workflow
 on:
   schedule:
     - cron: "40 23 * * *"
@@ -25,12 +25,13 @@ jobs:
       - name: set env vars
         run: |
           echo "DATE=$(python -c 'import datetime as dt; print(dt.datetime.now().date())')" >> $GITHUB_ENV
+          echo ""
       - name: run scraper
         run: |
-          python src/get_cdph_citywide_by_day.py
-          python src/get_cdph_zip_code_current.py
-          python src/get_idph_administration_current.py
-          python src/get_idph_demographics.py
+          python src/scrapers/get_cdph_citywide_by_day.py
+          python src/scrapers/get_cdph_zip_code_current.py
+          python src/scrapers/get_idph_administration_current.py
+          python src/scrapers/get_idph_demographics.py
       - name: commit files
         run: |
           git config --local user.email "action@github.com"
@@ -42,3 +43,8 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
+      - name: force datawrapper refresh
+        run: |
+          python src/update_graphics.py
+        env: |
+          DATAWRAPPER_API_TOKEN: ${{ secrets.DATAWRAPPER_API_TOKEN }}
