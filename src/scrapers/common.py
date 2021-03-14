@@ -8,6 +8,7 @@ def get_with_retry(url, headers, max_tries=5):
         try:
             resp = requests.get(url, headers=headers)
         except Exception:
+            print(f"request to url {url} failed. retrying [{tries + 1}/max_tries")
             time.sleep(300)
         else:
             return resp
