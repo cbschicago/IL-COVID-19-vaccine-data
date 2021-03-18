@@ -43,6 +43,18 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
+      - name: create release
+        uses: "marvinpinto/action-automatic-releases@latest"
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          automatic_release_tag: "latest"
+          prerelease: false
+          title: ${{ env.DATE }}
+          files: |
+            python src/scrapers/get_cdph_citywide_by_day.py
+            python src/scrapers/get_cdph_zip_code_current.py
+            python src/scrapers/get_idph_administration_current.py
+            python src/scrapers/get_idph_demographics.py
       - name: force datawrapper refresh
         run: |
           python src/update_graphics.py
