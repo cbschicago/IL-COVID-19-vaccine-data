@@ -28,9 +28,13 @@ jobs:
           echo ""
       - name: run scraper
         run: |
+          echo scraping CDPH [1/2]
           python src/scrapers/get_cdph_citywide_by_day.py
+          echo scraping CDPH [2/2]
           python src/scrapers/get_cdph_zip_code_current.py
+          echo scraping IDPH [1//2]
           python src/scrapers/get_idph_administration_current.py
+          echo scraping IDPH [2/2]
           python src/scrapers/get_idph_demographics.py
       - name: commit files
         run: |
