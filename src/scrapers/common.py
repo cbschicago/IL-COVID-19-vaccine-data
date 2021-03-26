@@ -10,7 +10,7 @@ def get_with_retry(url, headers, max_tries=5):
         try:
             resp = requests.get(url, headers=headers)
         except Exception as e:
-            warnings.warn(
+            print(
                 f"request to url {url} failed. retrying [{tries + 1}/{max_tries}]\nError was {str(e)}"
             )
             time.sleep(300)
