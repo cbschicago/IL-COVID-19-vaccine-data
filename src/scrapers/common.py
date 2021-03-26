@@ -4,6 +4,7 @@ import warnings
 
 
 def get_with_retry(url, headers, max_tries=5):
+    time.sleep(1)  # always delay
     tries = 0
     while tries < max_tries:
         try:
