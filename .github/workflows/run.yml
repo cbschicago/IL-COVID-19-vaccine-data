@@ -41,7 +41,6 @@ jobs:
           python src/scrapers/get_idph_demographics.py
       - name: Prepare Selenium
         uses: nanasess/setup-chromedriver@master
-      - name: Launch browser
       - name: Start XVFB
         run: |
           google-chrome --version
