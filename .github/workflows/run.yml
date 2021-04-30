@@ -4,6 +4,8 @@ on:
     - cron: "0 17 * * *"
   workflow_dispatch:
     inputs:
+      msg:
+        description: run
 env:
   ACTIONS_ALLOW_UNSECURE_COMMANDS: true
 jobs:
