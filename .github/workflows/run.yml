@@ -9,6 +9,9 @@ env:
 jobs:
   scrape-latest:
     runs-on: ubuntu-latest
+    services:
+      selenium:
+        image: selenium/standalone-chrome
     steps:
       - name: checkout repo
         uses: actions/checkout@v2
@@ -36,6 +39,20 @@ jobs:
           python src/scrapers/get_idph_administration_current.py
           echo scraping IDPH [2/2]
           python src/scrapers/get_idph_demographics.py
+      - name: Prepare Selenium
+       # https://github.com/marketplace/actions/setup-chromedriver
+       uses: nanasess/setup-chromedriver@master
+      - name: Launch browser
+      - name: Start XVFB
+        run: |
+           google-chrome --version
+           export DISPLAY=:99
+           chromedriver --url-base=/wd/hub &
+          sudo Xvfb -ac :99 -screen 0 1280x1024x24 > /dev/null 2>&1 & # optional, disables headless mode
+      - name: download-svg
+        run: python src/svg_crowbar.py
+        env:
+          DISPLAY: :99
       - name: commit files
         run: |
           git config --local user.email "action@github.com"
