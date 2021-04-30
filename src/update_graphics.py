@@ -2,18 +2,25 @@ import os
 import warnings
 from datawrapper import Datawrapper
 import dotenv
-from util import load_config
 
-config = load_config()
 dotenv.load_dotenv()
 
 dw_api_token = os.getenv("DATAWRAPPER_API_TOKEN")
 assert dw_api_token, "couldn't locate datawrapper api token"
 dw = Datawrapper(access_token=dw_api_token)
 
-chart_ids = [c["id"] for c in config["charts"]]
+charts = [
+    "g7EuE",
+    "GvEK6",
+    "TIIA3",
+    "xl8sT",
+    "qV77i",
+    "Hq3Ai",
+    "bvbM8",
+    "Cf9Pv",
+]
 
-for chart_id in chart_ids:
+for chart_id in charts:
     resp = dw.refresh_data(chart_id)
     if resp.status_code == 204:
         print(f"refreshed data for chart with id {chart_id}")
