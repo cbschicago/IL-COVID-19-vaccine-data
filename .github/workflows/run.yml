@@ -40,8 +40,7 @@ jobs:
           echo scraping IDPH [2/2]
           python src/scrapers/get_idph_demographics.py
       - name: Prepare Selenium
-       # https://github.com/marketplace/actions/setup-chromedriver
-       uses: nanasess/setup-chromedriver@master
+        uses: nanasess/setup-chromedriver@master
       - name: Launch browser
       - name: Start XVFB
         run: |
