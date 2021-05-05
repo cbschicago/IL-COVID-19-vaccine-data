@@ -1,1 +1,1 @@
-[![run-workflow](https://github.com/hackerlikecomputer/IL-COVID-19-vaccine-data-scraper/actions/workflows/run.yml/badge.svg)](https://github.com/hackerlikecomputer/IL-COVID-19-vaccine-data-scraper/actions/workflows/run.yml)
+[![run-workflow](https://github.com/hackerlikecomputer/IL-COVID-19-vaccine-data/actions/workflows/run.yml/badge.svg)](https://github.com/hackerlikecomputer/IL-COVID-19-vaccine-data/actions/workflows/run.yml)
