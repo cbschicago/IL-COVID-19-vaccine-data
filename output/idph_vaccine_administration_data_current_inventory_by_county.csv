@@ -1,5 +1,5 @@
 census_county_name,county_name,l_h_d_reported_inventory,community_reported_inventory,total_reported_inventory,total_inventory_per_100k,latitude,longitude
-"Illinois County, IL",Illinois,541446,442165,996623,7822.1233992722755,39.839888,-89.510168
+"Illinois County, IL",Illinois,541446,442125,996583,7821.809454143605,39.839888,-89.510168
 "Pulaski County, IL",Pulaski,7425,0,7425,135914.33278418452,37.2512,-89.1325
 "De Witt County, IL",De Witt,5230,0,5230,33166.339019595405,40.181,-88.9031
 "Ford County, IL",Ford,275,3670,3945,29742.159227985525,40.4989,-88.2072
@@ -54,8 +54,8 @@ census_county_name,county_name,l_h_d_reported_inventory,community_reported_inven
 "McLean County, IL",McLean,8482,1918,10400,6017.543453607054,40.5478,-88.8647
 "Iroquois County, IL",Iroquois,240,1415,1655,5995.507897406173,40.774,-87.6976
 "Whiteside County, IL",Whiteside,1976,1330,3306,5943.263941322403,41.7606,-89.8505
-"Jefferson County, IL",Jefferson,940,1256,2196,5806.451612903226,38.2267,-88.8647
 "Ogle County, IL",Ogle,1565,1380,2945,5783.241364412937,41.997,-89.3227
+"Jefferson County, IL",Jefferson,940,1216,2156,5700.687466948704,38.2267,-88.8647
 "Morgan County, IL",Morgan,1928,0,1928,5674.593830939487,39.7341,-90.2245
 "Monroe County, IL",Monroe,1925,0,1925,5606.523955147808,38.2743,-90.187
 "Wayne County, IL",Wayne,340,565,905,5541.2686749938775,38.39,-88.4016
