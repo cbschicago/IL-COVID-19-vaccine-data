@@ -47,6 +47,10 @@ df["vaccine_series_completed_percent_population"] = (
     df.vaccine_series_completed_percent_population
     * 100
 )
+# census data lower than values for some zips, so don't go over 100
+df["vaccine_series_completed_percent_population"] = df.vaccine_series_completed_percent_population.apply(
+    lambda pct: pct if pct <= 100 else 100
+)
 df = df[
     [
         "zip_code",
