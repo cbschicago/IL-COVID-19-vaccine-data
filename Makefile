@@ -14,5 +14,4 @@ all: \
 	do \
 		echo $$SCRIPT >> $$log ; \
 		python $$SCRIPT >> $$log ; \
-		echo >> $$log;
 	done ;
