@@ -1,6 +1,5 @@
 import time
 import requests
-import warnings
 
 
 idph_vaccine_request_headers = {
