@@ -46,7 +46,9 @@ jobs:
           automatic_release_tag: "latest"
           prerelease: false
           title: ${{ env.DATE }}
-          files: output/*
+          files: |
+            output/*
+            output/img/*
       - name: force datawrapper refresh
         run: |
           python src/update_graphics.py
