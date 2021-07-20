@@ -1,4 +1,8 @@
-2021-07-20T16:12:08.475648
+2021-07-20T21:26:23.961116
 
 src/scrapers/get_cdph_citywide_by_day.py
 src/scrapers/get_cdph_zip_code_current.py
+src/scrapers/get_idph_administration_current.py
+src/scrapers/get_idph_cumulative_daily.py
+src/scrapers/get_idph_demographics.py
+src/scrapers/get_indiana_dph_cumulative_daily.py
