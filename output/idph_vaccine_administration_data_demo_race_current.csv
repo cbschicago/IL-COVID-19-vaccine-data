@@ -12569,566 +12569,1404 @@
 11729,Alexander,Hispanic or Latino,14,14,0,1,<10,2021-07-19,0.0075880758807588,0.0011074197120708
 11730,Alexander,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,0.0005420054200542,0.0011074197120708
 11731,Alexander,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,0.0005420054200542,0.0011074197120708
-12007,Iroquois,White,16746,16746,0,8504,8504,2021-07-19,,
-12008,Iroquois,Hispanic or Latino,1177,1177,0,598,598,2021-07-19,,
-12009,Iroquois,Unknown,448,448,0,223,223,2021-07-19,,
-12010,Iroquois,Other race,264,264,0,138,138,2021-07-19,,
-12011,Iroquois,Black or African-American,164,164,0,82,82,2021-07-19,,
-12012,Iroquois,Asian,145,145,0,69,69,2021-07-19,,
-12013,Iroquois,American Indian or Alaska Nati,16,16,0,1,<10,2021-07-19,,
-12014,Iroquois,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
-12015,Saline,White,13850,13850,0,7252,7252,2021-07-19,,
-12016,Saline,Black or African-American,345,345,0,168,168,2021-07-19,,
-12017,Saline,Unknown,297,297,0,140,140,2021-07-19,,
-12018,Saline,Hispanic or Latino,150,150,0,76,76,2021-07-19,,
-12019,Saline,Other race,113,113,0,59,59,2021-07-19,,
-12020,Saline,Asian,108,108,0,52,52,2021-07-19,,
-12021,Saline,American Indian or Alaska Nati,15,15,0,1,<10,2021-07-19,,
-12022,Saline,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
-12023,Hardin,White,1891,1891,0,941,941,2021-07-19,,
-12024,Hardin,Unknown,32,32,0,14,14,2021-07-19,,
-12025,Hardin,Other race,20,20,0,10,10,2021-07-19,,
-12026,Hardin,Hispanic or Latino,19,19,0,10,10,2021-07-19,,
-12027,Hardin,Asian,16,16,0,1,<10,2021-07-19,,
-12028,Hardin,Black or African-American,1,<10,0,1,<10,2021-07-19,,
-12029,Hardin,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,,
-12030,McDonough,White,19132,19132,0,9998,9998,2021-07-19,,
-12031,McDonough,Unknown,759,759,0,362,362,2021-07-19,,
-12032,McDonough,Black or African-American,668,668,0,328,328,2021-07-19,,
-12033,McDonough,Asian,524,524,0,268,268,2021-07-19,,
-12034,McDonough,Other race,327,327,0,160,160,2021-07-19,,
-12035,McDonough,Hispanic or Latino,317,317,0,156,156,2021-07-19,,
-12036,McDonough,American Indian or Alaska Nati,57,57,0,31,31,2021-07-19,,
-12037,McDonough,Native Hawaiian or Other Pacif,15,15,0,1,<10,2021-07-19,,
-12038,Mercer,White,12154,12154,0,6109,6109,2021-07-19,,
-12039,Mercer,Unknown,451,451,0,223,223,2021-07-19,,
-12040,Mercer,Hispanic or Latino,188,188,0,89,89,2021-07-19,,
-12041,Mercer,Other race,120,120,0,58,58,2021-07-19,,
-12042,Mercer,Black or African-American,64,64,0,33,33,2021-07-19,,
-12043,Mercer,Asian,39,39,0,20,20,2021-07-19,,
-12044,Mercer,American Indian or Alaska Nati,14,14,0,1,<10,2021-07-19,,
-12045,Mercer,Native Hawaiian or Other Pacif,12,12,0,1,<10,2021-07-19,,
-12046,Jasper,White,5955,5955,0,2977,2977,2021-07-19,,
-12047,Jasper,Unknown,48,48,0,25,25,2021-07-19,,
-12048,Jasper,Other race,37,37,0,17,17,2021-07-19,,
-12049,Jasper,Hispanic or Latino,27,27,0,13,13,2021-07-19,,
-12050,Jasper,Asian,15,15,0,1,<10,2021-07-19,,
-12051,Jasper,Black or African-American,15,15,0,1,<10,2021-07-19,,
-12052,Jasper,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,,
-12053,Jasper,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
-12054,Henry,White,39164,39164,0,19699,19699,2021-07-19,,
-12055,Henry,Hispanic or Latino,1509,1509,0,741,741,2021-07-19,,
-12056,Henry,Unknown,1454,1454,0,649,649,2021-07-19,,
-12057,Henry,Other race,591,591,0,295,295,2021-07-19,,
-12058,Henry,Black or African-American,490,490,0,234,234,2021-07-19,,
-12059,Henry,Asian,230,230,0,113,113,2021-07-19,,
-12060,Henry,American Indian or Alaska Nati,65,65,0,34,34,2021-07-19,,
-12061,Henry,Native Hawaiian or Other Pacif,19,19,0,11,11,2021-07-19,,
-12062,Clay,White,6906,6906,0,3556,3556,2021-07-19,,
-12063,Clay,Hispanic or Latino,90,90,0,50,50,2021-07-19,,
-12064,Clay,Asian,78,78,0,40,40,2021-07-19,,
-12065,Clay,Black or African-American,52,52,0,26,26,2021-07-19,,
-12066,Clay,Unknown,45,45,0,21,21,2021-07-19,,
-12067,Clay,Other race,22,22,0,13,13,2021-07-19,,
-12068,Clay,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,,
-12069,Clay,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
-12070,Logan,White,19848,19848,0,10475,10475,2021-07-19,,
-12071,Logan,Unknown,1017,1017,0,521,521,2021-07-19,,
-12072,Logan,Other race,782,782,0,376,376,2021-07-19,,
-12073,Logan,Black or African-American,663,663,0,339,339,2021-07-19,,
-12074,Logan,Hispanic or Latino,335,335,0,180,180,2021-07-19,,
-12075,Logan,Asian,206,206,0,98,98,2021-07-19,,
-12076,Logan,American Indian or Alaska Nati,43,43,0,23,23,2021-07-19,,
-12077,Logan,Native Hawaiian or Other Pacif,34,34,0,16,16,2021-07-19,,
-12078,Cumberland,White,5833,5833,0,3041,3041,2021-07-19,,
-12079,Cumberland,Unknown,51,51,0,26,26,2021-07-19,,
-12080,Cumberland,Hispanic or Latino,40,40,0,22,22,2021-07-19,,
-12081,Cumberland,Other race,29,29,0,16,16,2021-07-19,,
-12082,Cumberland,Asian,16,16,0,1,<10,2021-07-19,,
-12083,Cumberland,Black or African-American,11,11,0,1,<10,2021-07-19,,
-12084,Cumberland,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
-12085,Gallatin,White,2980,2980,0,1548,1548,2021-07-19,,
-12086,Gallatin,Unknown,139,139,0,70,70,2021-07-19,,
-12087,Gallatin,Hispanic or Latino,36,36,0,18,18,2021-07-19,,
-12088,Gallatin,Other race,15,15,0,1,<10,2021-07-19,,
-12089,Gallatin,Black or African-American,11,11,0,1,<10,2021-07-19,,
-12090,Gallatin,Asian,1,<10,0,1,<10,2021-07-19,,
-12091,Gallatin,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,,
-12092,Perry,White,12571,12571,0,6371,6371,2021-07-19,,
-12093,Perry,Black or African-American,1097,1097,0,512,512,2021-07-19,,
-12094,Perry,Hispanic or Latino,373,373,0,182,182,2021-07-19,,
-12095,Perry,Other race,146,146,0,77,77,2021-07-19,,
-12096,Perry,Unknown,146,146,0,73,73,2021-07-19,,
-12097,Perry,Asian,107,107,0,50,50,2021-07-19,,
-12098,Perry,American Indian or Alaska Nati,19,19,0,11,11,2021-07-19,,
-12099,Perry,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
-12100,Richland,White,9650,9650,0,4959,4959,2021-07-19,,
-12101,Richland,Hispanic or Latino,157,157,0,79,79,2021-07-19,,
-12102,Richland,Unknown,136,136,0,66,66,2021-07-19,,
-12103,Richland,Asian,121,121,0,63,63,2021-07-19,,
-12104,Richland,Other race,59,59,0,28,28,2021-07-19,,
-12105,Richland,Black or African-American,43,43,0,22,22,2021-07-19,,
-12106,Richland,American Indian or Alaska Nati,14,14,0,1,<10,2021-07-19,,
-12107,Richland,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
-12108,Richland,Middle Eastern or North Africa,1,<10,0,1,<10,2021-07-19,,
-12109,Williamson,White,42654,42654,0,22045,22045,2021-07-19,,
-12110,Williamson,Black or African-American,1113,1113,0,588,588,2021-07-19,,
-12111,Williamson,Unknown,1046,1046,0,483,483,2021-07-19,,
-12112,Williamson,Other race,781,781,0,385,385,2021-07-19,,
-12113,Williamson,Asian,762,762,0,372,372,2021-07-19,,
-12114,Williamson,Hispanic or Latino,626,626,0,333,333,2021-07-19,,
-12115,Williamson,American Indian or Alaska Nati,63,63,0,33,33,2021-07-19,,
-12116,Williamson,Native Hawaiian or Other Pacif,41,41,0,22,22,2021-07-19,,
-12117,Kendall,White,90567,90567,0,44496,44496,2021-07-19,,
-12118,Kendall,Hispanic or Latino,20147,20147,0,9474,9474,2021-07-19,,
-12119,Kendall,Black or African-American,8368,8368,0,3941,3941,2021-07-19,,
-12120,Kendall,Asian,6140,6140,0,2940,2940,2021-07-19,,
-12121,Kendall,Other race,3837,3837,0,1891,1891,2021-07-19,,
-12122,Kendall,Unknown,3551,3551,0,1620,1620,2021-07-19,,
-12123,Kendall,American Indian or Alaska Nati,374,374,0,191,191,2021-07-19,,
-12124,Kendall,Native Hawaiian or Other Pacif,217,217,0,106,106,2021-07-19,,
-12125,St. Clair,White,151384,151384,0,76002,76002,2021-07-19,,
-12126,St. Clair,Black or African-American,45483,45483,0,22010,22010,2021-07-19,,
-12127,St. Clair,Hispanic or Latino,6816,6816,0,3333,3333,2021-07-19,,
-12128,St. Clair,Unknown,5364,5364,0,2538,2538,2021-07-19,,
-12129,St. Clair,Asian,4811,4811,0,2378,2378,2021-07-19,,
-12130,St. Clair,Other race,2742,2742,0,1221,1221,2021-07-19,,
-12131,St. Clair,American Indian or Alaska Nati,742,742,0,351,351,2021-07-19,,
-12132,St. Clair,Native Hawaiian or Other Pacif,497,497,0,243,243,2021-07-19,,
-12133,Monroe,White,25091,25091,0,12582,12582,2021-07-19,,
-12134,Monroe,Unknown,5801,5801,0,2954,2954,2021-07-19,,
-12135,Monroe,Other race,670,670,0,333,333,2021-07-19,,
-12136,Monroe,Hispanic or Latino,178,178,0,83,83,2021-07-19,,
-12137,Monroe,Asian,128,128,0,59,59,2021-07-19,,
-12138,Monroe,Black or African-American,76,76,0,37,37,2021-07-19,,
-12139,Monroe,American Indian or Alaska Nati,33,33,0,15,15,2021-07-19,,
-12140,Monroe,Native Hawaiian or Other Pacif,22,22,0,12,12,2021-07-19,,
-12141,Livingston,White,24768,24768,0,12464,12464,2021-07-19,,
-12142,Livingston,Unknown,894,894,0,449,449,2021-07-19,,
-12143,Livingston,Hispanic or Latino,648,648,0,299,299,2021-07-19,,
-12144,Livingston,Other race,622,622,0,272,272,2021-07-19,,
-12145,Livingston,Black or African-American,436,436,0,211,211,2021-07-19,,
-12146,Livingston,Asian,179,179,0,85,85,2021-07-19,,
-12147,Livingston,American Indian or Alaska Nati,58,58,0,31,31,2021-07-19,,
-12148,Livingston,Native Hawaiian or Other Pacif,14,14,0,1,<10,2021-07-19,,
-12149,Macon,White,65356,65356,0,33114,33114,2021-07-19,,
-12150,Macon,Black or African-American,9049,9049,0,4420,4420,2021-07-19,,
-12151,Macon,Unknown,1456,1456,0,761,761,2021-07-19,,
-12152,Macon,Asian,1565,1565,0,757,757,2021-07-19,,
-12153,Macon,Hispanic or Latino,995,995,0,494,494,2021-07-19,,
-12154,Macon,Other race,917,917,0,463,463,2021-07-19,,
-12155,Macon,American Indian or Alaska Nati,188,188,0,93,93,2021-07-19,,
-12156,Macon,Native Hawaiian or Other Pacif,130,130,0,66,66,2021-07-19,,
-12157,DuPage,White,672278,672278,0,331467,331467,2021-07-19,,
-12158,DuPage,Asian,134273,134273,0,64253,64253,2021-07-19,,
-12159,DuPage,Hispanic or Latino,92859,92859,0,43345,43345,2021-07-19,,
-12160,DuPage,Unknown,64343,64343,0,30622,30622,2021-07-19,,
-12161,DuPage,Other race,51528,51528,0,24699,24699,2021-07-19,,
-12162,DuPage,Black or African-American,32929,32929,0,15664,15664,2021-07-19,,
-12163,DuPage,American Indian or Alaska Nati,4686,4686,0,2249,2249,2021-07-19,,
-12164,DuPage,Native Hawaiian or Other Pacif,3036,3036,0,1485,1485,2021-07-19,,
-12165,DuPage,Middle Eastern or North Africa,24,24,0,11,11,2021-07-19,,
-12166,Wabash,White,6982,6982,0,3588,3588,2021-07-19,,
-12167,Wabash,Unknown,101,101,0,54,54,2021-07-19,,
-12168,Wabash,Hispanic or Latino,63,63,0,32,32,2021-07-19,,
-12169,Wabash,Asian,46,46,0,22,22,2021-07-19,,
-12170,Wabash,Other race,39,39,0,20,20,2021-07-19,,
-12171,Wabash,Black or African-American,21,21,0,10,10,2021-07-19,,
-12172,Wabash,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
-12173,Wabash,Middle Eastern or North Africa,1,<10,0,1,<10,2021-07-19,,
-12174,Wabash,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,,
-12175,LaSalle,White,84866,84866,0,41493,41493,2021-07-19,,
-12176,LaSalle,Hispanic or Latino,5731,5731,0,2531,2531,2021-07-19,,
-12177,LaSalle,Other race,2758,2758,0,1352,1352,2021-07-19,,
-12178,LaSalle,Unknown,2791,2791,0,1320,1320,2021-07-19,,
-12179,LaSalle,Black or African-American,1069,1069,0,535,535,2021-07-19,,
-12180,LaSalle,Asian,900,900,0,421,421,2021-07-19,,
-12181,LaSalle,American Indian or Alaska Nati,226,226,0,107,107,2021-07-19,,
-12182,LaSalle,Native Hawaiian or Other Pacif,67,67,0,33,33,2021-07-19,,
-12183,Christian,White,20574,20574,0,10508,10508,2021-07-19,,
-12184,Christian,Unknown,677,677,0,331,331,2021-07-19,,
-12185,Christian,Hispanic or Latino,246,246,0,105,105,2021-07-19,,
-12186,Christian,Other race,161,161,0,83,83,2021-07-19,,
-12187,Christian,Black or African-American,175,175,0,79,79,2021-07-19,,
-12188,Christian,Asian,145,145,0,75,75,2021-07-19,,
-12189,Christian,American Indian or Alaska Nati,40,40,0,20,20,2021-07-19,,
-12190,Christian,Native Hawaiian or Other Pacif,14,14,0,1,<10,2021-07-19,,
-12191,Cook,White,1485511,1485511,0,737435,737435,2021-07-19,,
-12192,Cook,Hispanic or Latino,426501,426501,0,204456,204456,2021-07-19,,
-12193,Cook,Black or African-American,315374,315374,0,153041,153041,2021-07-19,,
-12194,Cook,Asian,256788,256788,0,124582,124582,2021-07-19,,
-12195,Cook,Other race,131244,131244,0,62897,62897,2021-07-19,,
-12196,Cook,Unknown,101867,101867,0,47550,47550,2021-07-19,,
-12197,Cook,American Indian or Alaska Nati,11439,11439,0,5539,5539,2021-07-19,,
-12198,Cook,Native Hawaiian or Other Pacif,6548,6548,0,3201,3201,2021-07-19,,
-12199,Cook,Middle Eastern or North Africa,193,193,0,94,94,2021-07-19,,
-12200,Stephenson,White,30551,30551,0,15672,15672,2021-07-19,,
-12201,Stephenson,Black or African-American,2195,2195,0,1108,1108,2021-07-19,,
-12202,Stephenson,Hispanic or Latino,789,789,0,393,393,2021-07-19,,
-12203,Stephenson,Unknown,633,633,0,300,300,2021-07-19,,
-12204,Stephenson,Other race,393,393,0,196,196,2021-07-19,,
-12205,Stephenson,Asian,254,254,0,125,125,2021-07-19,,
-12206,Stephenson,American Indian or Alaska Nati,95,95,0,47,47,2021-07-19,,
-12207,Stephenson,Native Hawaiian or Other Pacif,27,27,0,14,14,2021-07-19,,
-12208,Whiteside,White,38575,38575,0,19734,19734,2021-07-19,,
-12209,Whiteside,Hispanic or Latino,4039,4039,0,2021,2021,2021-07-19,,
-12210,Whiteside,Unknown,1503,1503,0,731,731,2021-07-19,,
-12211,Whiteside,Other race,1089,1089,0,535,535,2021-07-19,,
-12212,Whiteside,Black or African-American,568,568,0,285,285,2021-07-19,,
-12213,Whiteside,Asian,299,299,0,154,154,2021-07-19,,
-12214,Whiteside,American Indian or Alaska Nati,80,80,0,40,40,2021-07-19,,
-12215,Whiteside,Native Hawaiian or Other Pacif,47,47,0,23,23,2021-07-19,,
-12216,Mason,White,10259,10259,0,5249,5249,2021-07-19,,
-12217,Mason,Unknown,226,226,0,130,130,2021-07-19,,
-12218,Mason,Other race,101,101,0,57,57,2021-07-19,,
-12219,Mason,Hispanic or Latino,72,72,0,36,36,2021-07-19,,
-12220,Mason,Black or African-American,43,43,0,23,23,2021-07-19,,
-12221,Mason,Asian,31,31,0,15,15,2021-07-19,,
-12222,Mason,American Indian or Alaska Nati,24,24,0,11,11,2021-07-19,,
-12223,Mason,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
-12224,Wayne,White,8685,8685,0,4404,4404,2021-07-19,,
-12225,Wayne,Unknown,192,192,0,93,93,2021-07-19,,
-12226,Wayne,Hispanic or Latino,123,123,0,59,59,2021-07-19,,
-12227,Wayne,Other race,49,49,0,23,23,2021-07-19,,
-12228,Wayne,Black or African-American,38,38,0,19,19,2021-07-19,,
-12229,Wayne,Asian,45,45,0,18,18,2021-07-19,,
-12230,Wayne,American Indian or Alaska Nati,18,18,0,1,<10,2021-07-19,,
-12231,Wayne,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
-12232,Ogle,White,37291,37291,0,18877,18877,2021-07-19,,
-12233,Ogle,Hispanic or Latino,2834,2834,0,1245,1245,2021-07-19,,
-12234,Ogle,Unknown,2092,2092,0,1003,1003,2021-07-19,,
-12235,Ogle,Other race,662,662,0,341,341,2021-07-19,,
-12236,Ogle,Black or African-American,333,333,0,157,157,2021-07-19,,
-12237,Ogle,Asian,228,228,0,113,113,2021-07-19,,
-12238,Ogle,American Indian or Alaska Nati,58,58,0,34,34,2021-07-19,,
-12239,Ogle,Native Hawaiian or Other Pacif,27,27,0,14,14,2021-07-19,,
-12240,Ogle,Middle Eastern or North Africa,1,<10,0,1,<10,2021-07-19,,
-12241,Lawrence,White,7120,7120,0,3686,3686,2021-07-19,,
-12242,Lawrence,Black or African-American,1133,1133,0,545,545,2021-07-19,,
-12243,Lawrence,Unknown,833,833,0,407,407,2021-07-19,,
-12244,Lawrence,Hispanic or Latino,382,382,0,181,181,2021-07-19,,
-12245,Lawrence,Other race,104,104,0,55,55,2021-07-19,,
-12246,Lawrence,Asian,20,20,0,11,11,2021-07-19,,
-12247,Lawrence,American Indian or Alaska Nati,13,13,0,1,<10,2021-07-19,,
-12248,Lawrence,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
-12249,Madison,White,193671,193671,0,98855,98855,2021-07-19,,
-12250,Madison,Black or African-American,12898,12898,0,6312,6312,2021-07-19,,
-12251,Madison,Unknown,5544,5544,0,2651,2651,2021-07-19,,
-12252,Madison,Hispanic or Latino,5363,5363,0,2635,2635,2021-07-19,,
-12253,Madison,Asian,3267,3267,0,1638,1638,2021-07-19,,
-12254,Madison,Other race,2891,2891,0,1326,1326,2021-07-19,,
-12255,Madison,American Indian or Alaska Nati,596,596,0,301,301,2021-07-19,,
-12256,Madison,Native Hawaiian or Other Pacif,246,246,0,123,123,2021-07-19,,
-12257,Rock Island,White,86068,86068,0,42092,42092,2021-07-19,,
-12258,Rock Island,Hispanic or Latino,8646,8646,0,3947,3947,2021-07-19,,
-12259,Rock Island,Black or African-American,6726,6726,0,3150,3150,2021-07-19,,
-12260,Rock Island,Unknown,7249,7249,0,3073,3073,2021-07-19,,
-12261,Rock Island,Asian,2900,2900,0,1344,1344,2021-07-19,,
-12262,Rock Island,Other race,2775,2775,0,1260,1260,2021-07-19,,
-12263,Rock Island,American Indian or Alaska Nati,297,297,0,138,138,2021-07-19,,
-12264,Rock Island,Native Hawaiian or Other Pacif,124,124,0,58,58,2021-07-19,,
-12265,Montgomery,White,20763,20763,0,10196,10196,2021-07-19,,
-12266,Montgomery,Black or African-American,649,649,0,290,290,2021-07-19,,
-12267,Montgomery,Hispanic or Latino,305,305,0,146,146,2021-07-19,,
-12268,Montgomery,Other race,272,272,0,145,145,2021-07-19,,
-12269,Montgomery,Unknown,299,299,0,140,140,2021-07-19,,
-12270,Montgomery,Asian,136,136,0,70,70,2021-07-19,,
-12271,Montgomery,American Indian or Alaska Nati,47,47,0,23,23,2021-07-19,,
-12272,Montgomery,Native Hawaiian or Other Pacif,10,10,0,1,<10,2021-07-19,,
-12273,Hamilton,White,3568,3568,0,1874,1874,2021-07-19,,
-12274,Hamilton,Unknown,158,158,0,77,77,2021-07-19,,
-12275,Hamilton,Other race,40,40,0,20,20,2021-07-19,,
-12276,Hamilton,Hispanic or Latino,22,22,0,10,10,2021-07-19,,
-12277,Hamilton,Asian,17,17,0,10,10,2021-07-19,,
-12278,Hamilton,Black or African-American,13,13,0,1,<10,2021-07-19,,
-12279,Hamilton,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
-12280,Jefferson,White,20149,20149,0,9928,9928,2021-07-19,,
-12281,Jefferson,Black or African-American,1367,1367,0,647,647,2021-07-19,,
-12282,Jefferson,Unknown,1140,1140,0,545,545,2021-07-19,,
-12283,Jefferson,Other race,592,592,0,289,289,2021-07-19,,
-12284,Jefferson,Hispanic or Latino,626,626,0,282,282,2021-07-19,,
-12285,Jefferson,Asian,334,334,0,162,162,2021-07-19,,
-12286,Jefferson,American Indian or Alaska Nati,45,45,0,22,22,2021-07-19,,
-12287,Jefferson,Native Hawaiian or Other Pacif,18,18,0,1,<10,2021-07-19,,
-12288,Jackson,White,33029,33029,0,17225,17225,2021-07-19,,
-12289,Jackson,Black or African-American,3845,3845,0,2016,2016,2021-07-19,,
-12290,Jackson,Asian,1828,1828,0,925,925,2021-07-19,,
-12291,Jackson,Hispanic or Latino,1646,1646,0,870,870,2021-07-19,,
-12292,Jackson,Unknown,1028,1028,0,486,486,2021-07-19,,
-12293,Jackson,Other race,964,964,0,484,484,2021-07-19,,
-12294,Jackson,American Indian or Alaska Nati,96,96,0,48,48,2021-07-19,,
-12295,Jackson,Native Hawaiian or Other Pacif,56,56,0,29,29,2021-07-19,,
-12296,Lee,White,26454,26454,0,13559,13559,2021-07-19,,
-12297,Lee,Black or African-American,1284,1284,0,623,623,2021-07-19,,
-12298,Lee,Hispanic or Latino,1143,1143,0,569,569,2021-07-19,,
-12299,Lee,Unknown,1134,1134,0,552,552,2021-07-19,,
-12300,Lee,Other race,763,763,0,379,379,2021-07-19,,
-12301,Lee,Asian,205,205,0,105,105,2021-07-19,,
-12302,Lee,American Indian or Alaska Nati,61,61,0,28,28,2021-07-19,,
-12303,Lee,Native Hawaiian or Other Pacif,18,18,0,1,<10,2021-07-19,,
-12304,McLean,White,133872,133872,0,66987,66987,2021-07-19,,
-12305,McLean,Asian,9765,9765,0,4712,4712,2021-07-19,,
-12306,McLean,Black or African-American,9465,9465,0,4581,4581,2021-07-19,,
-12307,McLean,Hispanic or Latino,6438,6438,0,3068,3068,2021-07-19,,
-12308,McLean,Unknown,4313,4313,0,2025,2025,2021-07-19,,
-12309,McLean,Other race,3137,3137,0,1527,1527,2021-07-19,,
-12310,McLean,American Indian or Alaska Nati,415,415,0,197,197,2021-07-19,,
-12311,McLean,Native Hawaiian or Other Pacif,195,195,0,102,102,2021-07-19,,
-12312,Moultrie,White,8227,8227,0,4446,4446,2021-07-19,,
-12313,Moultrie,Unknown,143,143,0,75,75,2021-07-19,,
-12314,Moultrie,Hispanic or Latino,70,70,0,34,34,2021-07-19,,
-12315,Moultrie,Other race,63,63,0,32,32,2021-07-19,,
-12316,Moultrie,Asian,34,34,0,19,19,2021-07-19,,
-12317,Moultrie,Black or African-American,36,36,0,18,18,2021-07-19,,
-12318,Moultrie,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,,
-12319,Moultrie,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
-12320,Kankakee,White,59048,59048,0,30034,30034,2021-07-19,,
-12321,Kankakee,Black or African-American,7975,7975,0,4021,4021,2021-07-19,,
-12322,Kankakee,Hispanic or Latino,6222,6222,0,3166,3166,2021-07-19,,
-12323,Kankakee,Other race,1933,1933,0,930,930,2021-07-19,,
-12324,Kankakee,Unknown,1646,1646,0,789,789,2021-07-19,,
-12325,Kankakee,Asian,1123,1123,0,564,564,2021-07-19,,
-12326,Kankakee,American Indian or Alaska Nati,220,220,0,113,113,2021-07-19,,
-12327,Kankakee,Native Hawaiian or Other Pacif,50,50,0,27,27,2021-07-19,,
-12328,Bureau,White,24847,24847,0,12199,12199,2021-07-19,,
-12329,Bureau,Hispanic or Latino,1595,1595,0,741,741,2021-07-19,,
-12330,Bureau,Unknown,743,743,0,327,327,2021-07-19,,
-12331,Bureau,Other race,483,483,0,242,242,2021-07-19,,
-12332,Bureau,Asian,223,223,0,99,99,2021-07-19,,
-12333,Bureau,Black or African-American,181,181,0,85,85,2021-07-19,,
-12334,Bureau,Native Hawaiian or Other Pacif,27,27,0,12,12,2021-07-19,,
-12335,Bureau,American Indian or Alaska Nati,24,24,0,11,11,2021-07-19,,
-12336,Effingham,White,21900,21900,0,11060,11060,2021-07-19,,
-12337,Effingham,Unknown,524,524,0,251,251,2021-07-19,,
-12338,Effingham,Hispanic or Latino,460,460,0,218,218,2021-07-19,,
-12339,Effingham,Asian,218,218,0,104,104,2021-07-19,,
-12340,Effingham,Other race,182,182,0,84,84,2021-07-19,,
-12341,Effingham,Black or African-American,68,68,0,32,32,2021-07-19,,
-12342,Effingham,Native Hawaiian or Other Pacif,40,40,0,22,22,2021-07-19,,
-12343,Effingham,American Indian or Alaska Nati,14,14,0,1,<10,2021-07-19,,
-12344,Effingham,Middle Eastern or North Africa,1,<10,0,1,<10,2021-07-19,,
-12345,Vermilion,White,37157,37157,0,20053,20053,2021-07-19,,
-12346,Vermilion,Black or African-American,3658,3658,0,1911,1911,2021-07-19,,
-12347,Vermilion,Unknown,1624,1624,0,799,799,2021-07-19,,
-12348,Vermilion,Hispanic or Latino,1352,1352,0,722,722,2021-07-19,,
-12349,Vermilion,Other race,1201,1201,0,647,647,2021-07-19,,
-12350,Vermilion,Asian,512,512,0,252,252,2021-07-19,,
-12351,Vermilion,American Indian or Alaska Nati,70,70,0,37,37,2021-07-19,,
-12352,Vermilion,Native Hawaiian or Other Pacif,30,30,0,15,15,2021-07-19,,
-12353,De Witt,White,11454,11454,0,5829,5829,2021-07-19,,
-12354,De Witt,Hispanic or Latino,201,201,0,99,99,2021-07-19,,
-12355,De Witt,Unknown,110,110,0,54,54,2021-07-19,,
-12356,De Witt,Other race,94,94,0,52,52,2021-07-19,,
-12357,De Witt,Asian,48,48,0,23,23,2021-07-19,,
-12358,De Witt,Black or African-American,39,39,0,17,17,2021-07-19,,
-12359,De Witt,American Indian or Alaska Nati,30,30,0,1,<10,2021-07-19,,
-12360,De Witt,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
-12361,Douglas,White,11591,11591,0,5792,5792,2021-07-19,,
-12362,Douglas,Unknown,961,961,0,469,469,2021-07-19,,
-12363,Douglas,Hispanic or Latino,743,743,0,360,360,2021-07-19,,
-12364,Douglas,Other race,266,266,0,131,131,2021-07-19,,
-12365,Douglas,Asian,90,90,0,47,47,2021-07-19,,
-12366,Douglas,Black or African-American,46,46,0,21,21,2021-07-19,,
-12367,Douglas,American Indian or Alaska Nati,17,17,0,1,<10,2021-07-19,,
-12368,Douglas,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
-12369,Chicago,White,1042777,1042777,0,516391,516391,2021-07-19,,
-12370,Chicago,Hispanic or Latino,692659,692659,0,334994,334994,2021-07-19,,
-12371,Chicago,Black or African-American,555549,555549,0,266326,266326,2021-07-19,,
-12372,Chicago,Asian,221725,221725,0,107590,107590,2021-07-19,,
-12373,Chicago,Unknown,167058,167058,0,78408,78408,2021-07-19,,
-12374,Chicago,Other race,139246,139246,0,66979,66979,2021-07-19,,
-12375,Chicago,American Indian or Alaska Nati,10417,10417,0,4944,4944,2021-07-19,,
-12376,Chicago,Native Hawaiian or Other Pacif,4986,4986,0,2460,2460,2021-07-19,,
-12377,Chicago,Middle Eastern or North Africa,58,58,0,28,28,2021-07-19,,
-12378,Marion,White,20646,20646,0,10465,10465,2021-07-19,,
-12379,Marion,Unknown,997,997,0,518,518,2021-07-19,,
-12380,Marion,Black or African-American,757,757,0,375,375,2021-07-19,,
-12381,Marion,Hispanic or Latino,307,307,0,153,153,2021-07-19,,
-12382,Marion,Other race,210,210,0,113,113,2021-07-19,,
-12383,Marion,Asian,209,209,0,106,106,2021-07-19,,
-12384,Marion,American Indian or Alaska Nati,48,48,0,25,25,2021-07-19,,
-12385,Marion,Native Hawaiian or Other Pacif,12,12,0,1,<10,2021-07-19,,
-12386,Winnebago,White,173952,173952,0,86442,86442,2021-07-19,,
-12387,Winnebago,Unknown,21652,21652,0,10717,10717,2021-07-19,,
-12388,Winnebago,Black or African-American,18880,18880,0,9215,9215,2021-07-19,,
-12389,Winnebago,Hispanic or Latino,15306,15306,0,7143,7143,2021-07-19,,
-12390,Winnebago,Other race,6697,6697,0,3221,3221,2021-07-19,,
-12391,Winnebago,Asian,6429,6429,0,3116,3116,2021-07-19,,
-12392,Winnebago,American Indian or Alaska Nati,606,606,0,285,285,2021-07-19,,
-12393,Winnebago,Native Hawaiian or Other Pacif,346,346,0,168,168,2021-07-19,,
-12394,Grundy,White,37257,37257,0,18309,18309,2021-07-19,,
-12395,Grundy,Hispanic or Latino,3434,3434,0,1592,1592,2021-07-19,,
-12396,Grundy,Unknown,963,963,0,440,440,2021-07-19,,
-12397,Grundy,Other race,868,868,0,427,427,2021-07-19,,
-12398,Grundy,Black or African-American,596,596,0,284,284,2021-07-19,,
-12399,Grundy,Asian,523,523,0,251,251,2021-07-19,,
-12400,Grundy,American Indian or Alaska Nati,81,81,0,39,39,2021-07-19,,
-12401,Grundy,Native Hawaiian or Other Pacif,27,27,0,12,12,2021-07-19,,
-12402,Jo Daviess,White,14505,14505,0,7792,7792,2021-07-19,,
-12403,Jo Daviess,Hispanic or Latino,374,374,0,200,200,2021-07-19,,
-12404,Jo Daviess,Unknown,283,283,0,144,144,2021-07-19,,
-12405,Jo Daviess,Other race,164,164,0,97,97,2021-07-19,,
-12406,Jo Daviess,Asian,87,87,0,47,47,2021-07-19,,
-12407,Jo Daviess,Black or African-American,57,57,0,30,30,2021-07-19,,
-12408,Jo Daviess,American Indian or Alaska Nati,13,13,0,1,<10,2021-07-19,,
-12409,Jo Daviess,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
-12410,Lake,White,464222,464222,0,228528,228528,2021-07-19,,
-12411,Lake,Hispanic or Latino,113194,113194,0,53879,53879,2021-07-19,,
-12412,Lake,Asian,65363,65363,0,31572,31572,2021-07-19,,
-12413,Lake,Other race,32116,32116,0,15223,15223,2021-07-19,,
-12414,Lake,Unknown,28853,28853,0,13426,13426,2021-07-19,,
-12415,Lake,Black or African-American,27945,27945,0,13350,13350,2021-07-19,,
-12416,Lake,American Indian or Alaska Nati,2857,2857,0,1370,1370,2021-07-19,,
-12417,Lake,Native Hawaiian or Other Pacif,1341,1341,0,637,637,2021-07-19,,
-12418,Lake,Middle Eastern or North Africa,11,11,0,1,<10,2021-07-19,,
-12419,Franklin,White,22159,22159,0,11235,11235,2021-07-19,,
-12420,Franklin,Unknown,295,295,0,133,133,2021-07-19,,
-12421,Franklin,Hispanic or Latino,266,266,0,128,128,2021-07-19,,
-12422,Franklin,Other race,204,204,0,100,100,2021-07-19,,
-12423,Franklin,Asian,142,142,0,68,68,2021-07-19,,
-12424,Franklin,Black or African-American,87,87,0,40,40,2021-07-19,,
-12425,Franklin,American Indian or Alaska Nati,15,15,0,1,<10,2021-07-19,,
-12426,Franklin,Native Hawaiian or Other Pacif,14,14,0,1,<10,2021-07-19,,
-12427,Will,White,423961,423961,0,208415,208415,2021-07-19,,
-12428,Will,Hispanic or Latino,96213,96213,0,44884,44884,2021-07-19,,
-12429,Will,Black or African-American,61642,61642,0,29395,29395,2021-07-19,,
-12430,Will,Asian,52942,52942,0,25488,25488,2021-07-19,,
-12431,Will,Unknown,34723,34723,0,16418,16418,2021-07-19,,
-12432,Will,Other race,27348,27348,0,13057,13057,2021-07-19,,
-12433,Will,American Indian or Alaska Nati,2738,2738,0,1316,1316,2021-07-19,,
-12434,Will,Native Hawaiian or Other Pacif,1221,1221,0,595,595,2021-07-19,,
-12435,Will,Middle Eastern or North Africa,10,10,0,1,<10,2021-07-19,,
-12436,DeKalb,White,71137,71137,0,35034,35034,2021-07-19,,
-12437,DeKalb,Hispanic or Latino,8813,8813,0,4091,4091,2021-07-19,,
-12438,DeKalb,Black or African-American,3557,3557,0,1685,1685,2021-07-19,,
-12439,DeKalb,Asian,2717,2717,0,1298,1298,2021-07-19,,
-12440,DeKalb,Unknown,2699,2699,0,1249,1249,2021-07-19,,
-12441,DeKalb,Other race,2118,2118,0,1022,1022,2021-07-19,,
-12442,DeKalb,American Indian or Alaska Nati,293,293,0,138,138,2021-07-19,,
-12443,DeKalb,Native Hawaiian or Other Pacif,92,92,0,42,42,2021-07-19,,
-12444,DeKalb,Middle Eastern or North Africa,1,<10,0,1,<10,2021-07-19,,
-12445,White,White,7354,7354,0,3857,3857,2021-07-19,,
-12446,White,Unknown,480,480,0,237,237,2021-07-19,,
-12447,White,Hispanic or Latino,160,160,0,81,81,2021-07-19,,
-12448,White,Other race,41,41,0,20,20,2021-07-19,,
-12449,White,Asian,38,38,0,20,20,2021-07-19,,
-12450,White,Black or African-American,28,28,0,16,16,2021-07-19,,
-12451,White,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
-12452,White,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,,
-12453,Kane,White,334713,334713,0,166192,166192,2021-07-19,,
-12454,Kane,Hispanic or Latino,119989,119989,0,56325,56325,2021-07-19,,
-12455,Kane,Asian,26253,26253,0,12814,12814,2021-07-19,,
-12456,Kane,Black or African-American,19126,19126,0,9129,9129,2021-07-19,,
-12457,Kane,Other race,18538,18538,0,9042,9042,2021-07-19,,
-12458,Kane,Unknown,14917,14917,0,6963,6963,2021-07-19,,
-12459,Kane,American Indian or Alaska Nati,1545,1545,0,764,764,2021-07-19,,
-12460,Kane,Native Hawaiian or Other Pacif,886,886,0,435,435,2021-07-19,,
-12461,Kane,Middle Eastern or North Africa,14,14,0,1,<10,2021-07-19,,
-12462,Carroll,White,9038,9038,0,4818,4818,2021-07-19,,
-12463,Carroll,Unknown,346,346,0,171,171,2021-07-19,,
-12464,Carroll,Hispanic or Latino,181,181,0,91,91,2021-07-19,,
-12465,Carroll,Other race,146,146,0,72,72,2021-07-19,,
-12466,Carroll,Black or African-American,51,51,0,24,24,2021-07-19,,
-12467,Carroll,Asian,39,39,0,19,19,2021-07-19,,
-12468,Carroll,American Indian or Alaska Nati,23,23,0,11,11,2021-07-19,,
-12469,Carroll,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
-12470,McHenry,White,251018,251018,0,123372,123372,2021-07-19,,
-12471,McHenry,Hispanic or Latino,29068,29068,0,13365,13365,2021-07-19,,
-12472,McHenry,Asian,11162,11162,0,5399,5399,2021-07-19,,
-12473,McHenry,Other race,8122,8122,0,3789,3789,2021-07-19,,
-12474,McHenry,Unknown,7914,7914,0,3663,3663,2021-07-19,,
-12475,McHenry,Black or African-American,3593,3593,0,1718,1718,2021-07-19,,
-12476,McHenry,American Indian or Alaska Nati,1067,1067,0,508,508,2021-07-19,,
-12477,McHenry,Native Hawaiian or Other Pacif,492,492,0,245,245,2021-07-19,,
-12478,McHenry,Middle Eastern or North Africa,1,<10,0,1,<10,2021-07-19,,
-12479,Edgar,White,10376,10376,0,5402,5402,2021-07-19,,
-12480,Edgar,Hispanic or Latino,126,126,0,73,73,2021-07-19,,
-12481,Edgar,Unknown,129,129,0,59,59,2021-07-19,,
-12482,Edgar,Asian,73,73,0,38,38,2021-07-19,,
-12483,Edgar,Other race,47,47,0,21,21,2021-07-19,,
-12484,Edgar,Black or African-American,27,27,0,13,13,2021-07-19,,
-12485,Edgar,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,,
-12486,Edgar,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
-12487,Clark,White,9574,9574,0,4834,4834,2021-07-19,,
-12488,Clark,Unknown,175,175,0,78,78,2021-07-19,,
-12489,Clark,Hispanic or Latino,134,134,0,70,70,2021-07-19,,
-12490,Clark,Other race,47,47,0,22,22,2021-07-19,,
-12491,Clark,Asian,45,45,0,22,22,2021-07-19,,
-12492,Clark,Black or African-American,17,17,0,1,<10,2021-07-19,,
-12493,Clark,Native Hawaiian or Other Pacif,14,14,0,1,<10,2021-07-19,,
-12494,Clark,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,,
-12495,Edwards,White,3070,3070,0,1600,1600,2021-07-19,,
-12496,Edwards,Unknown,81,81,0,44,44,2021-07-19,,
-12497,Edwards,Asian,27,27,0,16,16,2021-07-19,,
-12498,Edwards,Hispanic or Latino,10,10,0,1,<10,2021-07-19,,
-12499,Edwards,Other race,10,10,0,1,<10,2021-07-19,,
-12500,Edwards,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,,
-12501,Edwards,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
-12502,Edwards,Black or African-American,1,<10,0,1,<10,2021-07-19,,
-12503,Boone,White,35450,35450,0,17681,17681,2021-07-19,,
-12504,Boone,Hispanic or Latino,7943,7943,0,3686,3686,2021-07-19,,
-12505,Boone,Unknown,1872,1872,0,884,884,2021-07-19,,
-12506,Boone,Other race,1172,1172,0,574,574,2021-07-19,,
-12507,Boone,Black or African-American,803,803,0,381,381,2021-07-19,,
-12508,Boone,Asian,606,606,0,300,300,2021-07-19,,
-12509,Boone,American Indian or Alaska Nati,185,185,0,86,86,2021-07-19,,
-12510,Boone,Native Hawaiian or Other Pacif,75,75,0,35,35,2021-07-19,,
-12511,Pope,White,1828,1828,0,916,916,2021-07-19,,
-12512,Pope,Unknown,107,107,0,52,52,2021-07-19,,
-12513,Pope,Other race,27,27,0,15,15,2021-07-19,,
-12514,Pope,Black or African-American,14,14,0,1,<10,2021-07-19,,
-12515,Pope,Asian,1,<10,0,1,<10,2021-07-19,,
-12516,Pope,Hispanic or Latino,1,<10,0,1,<10,2021-07-19,,
-12517,Johnson,White,6698,6698,0,3355,3355,2021-07-19,,
-12518,Johnson,Black or African-American,910,910,0,461,461,2021-07-19,,
-12519,Johnson,Hispanic or Latino,364,364,0,178,178,2021-07-19,,
-12520,Johnson,Unknown,170,170,0,83,83,2021-07-19,,
-12521,Johnson,Other race,82,82,0,40,40,2021-07-19,,
-12522,Johnson,Asian,24,24,0,12,12,2021-07-19,,
-12523,Johnson,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,,
-12524,Johnson,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
-12525,Henderson,White,2464,2464,0,1300,1300,2021-07-19,,
-12526,Henderson,Unknown,216,216,0,102,102,2021-07-19,,
-12527,Henderson,Other race,18,18,0,1,<10,2021-07-19,,
-12528,Henderson,Hispanic or Latino,12,12,0,1,<10,2021-07-19,,
-12529,Henderson,Black or African-American,10,10,0,1,<10,2021-07-19,,
-12530,Henderson,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,,
-12531,Henderson,Asian,1,<10,0,1,<10,2021-07-19,,
-12532,Shelby,White,10820,10820,0,6089,6089,2021-07-19,,
-12533,Shelby,Unknown,207,207,0,109,109,2021-07-19,,
-12534,Shelby,Hispanic or Latino,86,86,0,49,49,2021-07-19,,
-12535,Shelby,Other race,66,66,0,36,36,2021-07-19,,
-12536,Shelby,Asian,38,38,0,22,22,2021-07-19,,
-12537,Shelby,Black or African-American,29,29,0,16,16,2021-07-19,,
-12538,Shelby,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,,
-12539,Shelby,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
-12540,Fayette,White,9225,9225,0,4793,4793,2021-07-19,,
-12541,Fayette,Unknown,247,247,0,122,122,2021-07-19,,
-12542,Fayette,Hispanic or Latino,168,168,0,98,98,2021-07-19,,
-12543,Fayette,Other race,123,123,0,69,69,2021-07-19,,
-12544,Fayette,Black or African-American,102,102,0,55,55,2021-07-19,,
-12545,Fayette,Asian,44,44,0,24,24,2021-07-19,,
-12546,Fayette,Native Hawaiian or Other Pacif,10,10,0,1,<10,2021-07-19,,
-12547,Fayette,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,,
-12548,Pulaski,White,1527,1527,0,768,768,2021-07-19,,
-12549,Pulaski,Black or African-American,628,628,0,312,312,2021-07-19,,
-12550,Pulaski,Unknown,175,175,0,110,110,2021-07-19,,
-12551,Pulaski,Other race,48,48,0,23,23,2021-07-19,,
-12552,Pulaski,Hispanic or Latino,32,32,0,12,12,2021-07-19,,
-12553,Pulaski,Asian,15,15,0,1,<10,2021-07-19,,
-12554,Pulaski,American Indian or Alaska Nati,13,13,0,1,<10,2021-07-19,,
-12555,Massac,White,6564,6564,0,3240,3240,2021-07-19,,
-12556,Massac,Unknown,631,631,0,300,300,2021-07-19,,
-12557,Massac,Black or African-American,531,531,0,249,249,2021-07-19,,
-12558,Massac,Other race,88,88,0,41,41,2021-07-19,,
-12559,Massac,Hispanic or Latino,81,81,0,33,33,2021-07-19,,
-12560,Massac,Asian,24,24,0,13,13,2021-07-19,,
-12561,Massac,American Indian or Alaska Nati,11,11,0,1,<10,2021-07-19,,
-12562,Massac,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
-12563,Alexander,White,1056,1056,0,519,519,2021-07-19,,
-12564,Alexander,Black or African-American,625,625,0,305,305,2021-07-19,,
-12565,Alexander,Unknown,125,125,0,60,60,2021-07-19,,
-12566,Alexander,Other race,20,20,0,10,10,2021-07-19,,
-12567,Alexander,Hispanic or Latino,14,14,0,1,<10,2021-07-19,,
-12568,Alexander,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,,
-12569,Alexander,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
+11732,Illinois,White,7897266,7897266,0,3935150,3935150,2021-07-19,0.6080437388695249,0.6172094007368274
+11733,Illinois,Hispanic or Latino,1772324,1772324,0,847442,847442,2021-07-19,0.1364586822133371,0.1329172125533254
+11734,Illinois,Black or African-American,1264072,1264072,0,608731,608731,2021-07-19,0.0973262221483077,0.0954765372908096
+11735,Illinois,Asian,892688,892688,0,432703,432703,2021-07-19,0.0687318053062868,0.0678673898903542
+11736,Illinois,Unknown,599462,599462,0,281436,281436,2021-07-19,0.0461551017516952,0.0441418865623342
+11737,Illinois,Other race,494552,494552,0,237486,237486,2021-07-19,0.0380776394191864,0.0372485398887936
+11738,Illinois,American Indian or Alaska Nati,44178,44178,0,21308,21308,2021-07-19,0.0034014501089083,0.0033420575863436
+11739,Illinois,Native Hawaiian or Other Pacif,23051,23051,0,11269,11269,2021-07-19,0.0017747934822863,0.0017674885930404
+11740,Illinois,Middle Eastern or North Africa,397,397,0,188,188,2021-07-19,3.056670046712386e-05,2.9486898171231984e-05
+11741,Adams,White,45487,45487,0,24648,24648,2021-07-19,0.9156182692888344,0.914989976984186
+11742,Adams,Black or African-American,1377,1377,0,766,766,2021-07-19,0.0277179492340828,0.0284356670873858
+11743,Adams,Unknown,1270,1270,0,691,691,2021-07-19,0.025564121661064,0.0256514960279159
+11744,Adams,Hispanic or Latino,557,557,0,307,307,2021-07-19,0.0112119809174902,0.0113965402034301
+11745,Adams,Asian,432,432,0,234,234,2021-07-19,0.0086958272106926,0.008686613705546
+11746,Adams,Other race,428,428,0,226,226,2021-07-19,0.0086153102920751,0.0083896354592026
+11747,Adams,Native Hawaiian or Other Pacif,64,64,0,33,33,2021-07-19,0.0012882706978803,0.0012250352661667
+11748,Adams,American Indian or Alaska Nati,58,58,0,30,30,2021-07-19,0.0011674953199541,0.0011136684237879
+11749,Adams,Middle Eastern or North Africa,1,<10,0,1,<10,2021-07-19,2.0129229654381127e-05,3.712228079293192e-05
+11750,Champaign,White,140423,140423,0,69592,69592,2021-07-19,0.6754742938505349,0.6814327399486908
+11751,Champaign,Asian,25129,25129,0,12370,12370,2021-07-19,0.1208775879319633,0.121124884946047
+11752,Champaign,Black or African-American,17235,17235,0,8249,8249,2021-07-19,0.0829052181944123,0.0807727708908603
+11753,Champaign,Hispanic or Latino,10516,10516,0,4981,4981,2021-07-19,0.0505849303471099,0.0487730842292853
+11754,Champaign,Other race,7112,7112,0,3500,3500,2021-07-19,0.0342107288539983,0.0342713902434247
+11755,Champaign,Unknown,6519,6519,0,2973,2973,2021-07-19,0.0313582313553451,0.0291110980553434
+11756,Champaign,American Indian or Alaska Nati,675,675,0,331,331,2021-07-19,0.0032469406603555,0.0032410943344496
+11757,Champaign,Native Hawaiian or Other Pacif,273,273,0,127,127,2021-07-19,0.0013132071115215,0.0012435618745471
+11758,Champaign,Middle Eastern or North Africa,1,<10,0,1,<10,2021-07-19,4.810282459786039e-06,9.791825783835656e-06
+11759,Cass,White,7804,7804,0,3905,3905,2021-07-19,0.718798931564889,0.7267820584403499
+11760,Cass,Hispanic or Latino,2241,2241,0,1079,1079,2021-07-19,0.2064106106659298,0.2008189093616229
+11761,Cass,Black or African-American,361,361,0,177,177,2021-07-19,0.0332504375057566,0.0329424902289223
+11762,Cass,Unknown,174,174,0,81,81,2021-07-19,0.0160265266648245,0.0150753768844221
+11763,Cass,Asian,154,154,0,77,77,2021-07-19,0.0141843971631205,0.0143309138284012
+11764,Cass,Other race,65,65,0,29,29,2021-07-19,0.0059869208805379,0.0053973571561511
+11765,Cass,Native Hawaiian or Other Pacif,31,31,0,15,15,2021-07-19,0.0028553007276411,0.0027917364600781
+11766,Cass,American Indian or Alaska Nati,23,23,0,1,<10,2021-07-19,0.0021184489269595,0.0001861157640052
+11767,Putnam,White,4567,4567,0,2245,2245,2021-07-19,0.923932834311147,0.926537350392076
+11768,Putnam,Hispanic or Latino,161,161,0,76,76,2021-07-19,0.0325713129678333,0.0313660751134956
+11769,Putnam,Unknown,122,122,0,58,58,2021-07-19,0.024681367590532,0.023937267849773
+11770,Putnam,Other race,55,55,0,26,26,2021-07-19,0.0111268460449119,0.0107304993809327
+11771,Putnam,Asian,20,20,0,1,<10,2021-07-19,0.0040461258345134,0.0004127115146512
+11772,Putnam,Black or African-American,13,13,0,1,<10,2021-07-19,0.0026299817924337,0.0004127115146512
+11773,Putnam,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,0.0002023062917256,0.0004127115146512
+11774,Putnam,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,0.0002023062917256,0.0004127115146512
+11775,Jersey,White,16830,16830,0,8452,8452,2021-07-19,0.9504715649178292,0.9507311586051744
+11776,Jersey,Unknown,511,511,0,257,257,2021-07-19,0.0288586434743321,0.0289088863892013
+11777,Jersey,Hispanic or Latino,99,99,0,53,53,2021-07-19,0.0055910092053989,0.0059617547806524
+11778,Jersey,Black or African-American,94,94,0,47,47,2021-07-19,0.0053086350031061,0.0052868391451068
+11779,Jersey,Other race,97,97,0,43,43,2021-07-19,0.0054780595244818,0.0048368953880764
+11780,Jersey,Asian,51,51,0,27,27,2021-07-19,0.0028802168633873,0.003037120359955
+11781,Jersey,American Indian or Alaska Nati,15,15,0,1,<10,2021-07-19,0.0008471226068786,0.0001124859392575
+11782,Jersey,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,5.64748404585757e-05,0.0001124859392575
+11783,Peoria,White,126630,126630,0,63160,63160,2021-07-19,0.7668085673281296,0.7715235023942147
+11784,Peoria,Black or African-American,17390,17390,0,8512,8512,2021-07-19,0.1053052277172563,0.1039773282517345
+11785,Peoria,Asian,8270,8270,0,4050,4050,2021-07-19,0.0500790243370736,0.0494722955145118
+11786,Peoria,Hispanic or Latino,5528,5528,0,2692,2692,2021-07-19,0.0334748302944791,0.0328838072901397
+11787,Peoria,Other race,3427,3427,0,1626,1626,2021-07-19,0.0207522148008647,0.0198622104954558
+11788,Peoria,Unknown,3359,3359,0,1565,1565,2021-07-19,0.0203404404774159,0.019117072217336
+11789,Peoria,American Indian or Alaska Nati,391,391,0,188,188,2021-07-19,0.0023677023598302,0.002296491742402
+11790,Peoria,Native Hawaiian or Other Pacif,138,138,0,68,68,2021-07-19,0.0008356596564106,0.0008306459493794
+11791,Greene,White,7430,7430,0,3776,3776,2021-07-19,0.9726403979578478,0.9744516129032258
+11792,Greene,Unknown,96,96,0,46,46,2021-07-19,0.0125670899332373,0.0118709677419354
+11793,Greene,Hispanic or Latino,41,41,0,18,18,2021-07-19,0.0053671946589867,0.0046451612903225
+11794,Greene,Other race,29,29,0,14,14,2021-07-19,0.0037963084173321,0.0036129032258064
+11795,Greene,Black or African-American,18,18,0,1,<10,2021-07-19,0.002356329362482,0.000258064516129
+11796,Greene,Asian,13,13,0,1,<10,2021-07-19,0.0017017934284592,0.000258064516129
+11797,Greene,American Indian or Alaska Nati,10,10,0,1,<10,2021-07-19,0.0013090718680455,0.000258064516129
+11798,Greene,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,0.0001309071868045,0.000258064516129
+11799,Calhoun,White,3065,3065,0,1541,1541,2021-07-19,0.9680985470625396,0.968573224387178
+11800,Calhoun,Unknown,65,65,0,33,33,2021-07-19,0.0205306380290587,0.0207416719044626
+11801,Calhoun,Hispanic or Latino,19,19,0,1,<10,2021-07-19,0.0060012634238787,0.0006285355122564
+11802,Calhoun,Other race,1,<10,0,1,<10,2021-07-19,0.0003158559696778,0.0006285355122564
+11803,Calhoun,Asian,1,<10,0,1,<10,2021-07-19,0.0003158559696778,0.0006285355122564
+11804,Calhoun,Black or African-American,1,<10,0,1,<10,2021-07-19,0.0003158559696778,0.0006285355122564
+11805,Morgan,White,25692,25692,0,12891,12891,2021-07-19,0.9219176115975312,0.923887336056762
+11806,Morgan,Black or African-American,903,903,0,437,437,2021-07-19,0.0324027558490024,0.0313194295133663
+11807,Morgan,Unknown,395,395,0,195,195,2021-07-19,0.014173962968279,0.0139754891421199
+11808,Morgan,Hispanic or Latino,364,364,0,179,179,2021-07-19,0.0130615760011482,0.0128287823407152
+11809,Morgan,Asian,271,271,0,131,131,2021-07-19,0.0097244150997559,0.0093886619365011
+11810,Morgan,Other race,179,179,0,91,91,2021-07-19,0.0064231376489163,0.0065218949329893
+11811,Morgan,American Indian or Alaska Nati,44,44,0,20,20,2021-07-19,0.0015788718243146,0.0014333835017558
+11812,Morgan,Native Hawaiian or Other Pacif,20,20,0,1,<10,2021-07-19,0.0007176690110521,7.166917508779473e-05
+11813,Schuyler,White,4957,4957,0,2559,2559,2021-07-19,0.934577677224736,0.933941605839416
+11814,Schuyler,Black or African-American,149,149,0,74,74,2021-07-19,0.0280920060331825,0.0270072992700729
+11815,Schuyler,Unknown,76,76,0,40,40,2021-07-19,0.0143288084464555,0.0145985401459854
+11816,Schuyler,Hispanic or Latino,52,52,0,28,28,2021-07-19,0.0098039215686274,0.0102189781021897
+11817,Schuyler,Other race,35,35,0,21,21,2021-07-19,0.0065987933634992,0.0076642335766423
+11818,Schuyler,American Indian or Alaska Nati,14,14,0,1,<10,2021-07-19,0.0026395173453996,0.0003649635036496
+11819,Schuyler,Asian,10,10,0,1,<10,2021-07-19,0.0018853695324283,0.0003649635036496
+11820,Schuyler,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,0.0001885369532428,0.0003649635036496
+11821,Schuyler,Middle Eastern or North Africa,1,<10,0,1,<10,2021-07-19,0.0001885369532428,0.0003649635036496
+11822,Ford,White,10069,10069,0,4919,4919,2021-07-19,0.909000631940056,0.9158443492831876
+11823,Ford,Unknown,489,489,0,213,213,2021-07-19,0.0441455267671752,0.0396574194749581
+11824,Ford,Hispanic or Latino,231,231,0,107,107,2021-07-19,0.0208540218470705,0.0199218022714578
+11825,Ford,Other race,157,157,0,75,75,2021-07-19,0.0141735126839396,0.0139638800968162
+11826,Ford,Black or African-American,65,65,0,26,26,2021-07-19,0.0058680148054527,0.0048408117668962
+11827,Ford,Asian,50,50,0,25,25,2021-07-19,0.0045138575426559,0.0046546266989387
+11828,Ford,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,9.027715085311908e-05,0.0001861850679575
+11829,Ford,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,9.027715085311908e-05,0.0001861850679575
+11830,Knox,White,38449,38449,0,19082,19082,2021-07-19,0.8438274991769998,0.8465087392423033
+11831,Knox,Unknown,2813,2813,0,1358,1358,2021-07-19,0.0617359815647975,0.0602431017655931
+11832,Knox,Black or African-American,1842,1842,0,911,911,2021-07-19,0.040425765390102,0.0404134504480525
+11833,Knox,Hispanic or Latino,1050,1050,0,520,520,2021-07-19,0.0230440030725337,0.0230680507497116
+11834,Knox,Other race,892,892,0,422,422,2021-07-19,0.0195764292768572,0.0187206104161121
+11835,Knox,Asian,434,434,0,206,206,2021-07-19,0.0095248546033139,0.0091384970277703
+11836,Knox,American Indian or Alaska Nati,65,65,0,34,34,2021-07-19,0.0014265335235378,0.0015082956259426
+11837,Knox,Native Hawaiian or Other Pacif,20,20,0,1,<10,2021-07-19,0.0004389333918577,4.436163605713778e-05
+11838,Sangamon,White,166125,166125,0,82584,82584,2021-07-19,0.8512595310322211,0.8533256181609646
+11839,Sangamon,Black or African-American,14511,14511,0,7238,7238,2021-07-19,0.0743574239567106,0.0747889521487099
+11840,Sangamon,Asian,4641,4641,0,2242,2242,2021-07-19,0.0237814626547511,0.0231661827462569
+11841,Sangamon,Unknown,4332,4332,0,2042,2042,2021-07-19,0.0221980814954497,0.0210996187189369
+11842,Sangamon,Other race,2685,2685,0,1308,1308,2021-07-19,0.0137585061900467,0.0135153287386726
+11843,Sangamon,Hispanic or Latino,2218,2218,0,1060,1060,2021-07-19,0.0113654997130441,0.0109527893447958
+11844,Sangamon,American Indian or Alaska Nati,416,416,0,196,196,2021-07-19,0.0021316717225547,0.0020252327467735
+11845,Sangamon,Native Hawaiian or Other Pacif,223,223,0,109,109,2021-07-19,0.0011426990243502,0.0011262773948893
+11846,Sangamon,Middle Eastern or North Africa,1,<10,0,1,<10,2021-07-19,5.124210871525785e-06,1.0332820136599882e-05
+11847,Hancock,White,9793,9793,0,5063,5063,2021-07-19,0.92395509010284,0.9249177932042382
+11848,Hancock,Unknown,503,503,0,245,245,2021-07-19,0.0474573072931408,0.0447570332480818
+11849,Hancock,Hispanic or Latino,119,119,0,68,68,2021-07-19,0.0112274742900273,0.0124223602484472
+11850,Hancock,Other race,75,75,0,39,39,2021-07-19,0.0070761392584206,0.0071245889660211
+11851,Hancock,Asian,52,52,0,27,27,2021-07-19,0.0049061232191716,0.0049324077457069
+11852,Hancock,Black or African-American,26,26,0,15,15,2021-07-19,0.0024530616095858,0.0027402265253927
+11853,Hancock,Native Hawaiian or Other Pacif,16,16,0,1,<10,2021-07-19,0.0015095763751297,0.0001826817683595
+11854,Hancock,American Indian or Alaska Nati,13,13,0,1,<10,2021-07-19,0.0012265308047929,0.0001826817683595
+11855,Pike,White,8520,8520,0,4486,4486,2021-07-19,0.9702767338571916,0.9697362732382188
+11856,Pike,Hispanic or Latino,127,127,0,66,66,2021-07-19,0.0144630452112515,0.0142671854734111
+11857,Pike,Unknown,47,47,0,29,29,2021-07-19,0.0053524655506206,0.0062689148292261
+11858,Pike,Asian,32,32,0,16,16,2021-07-19,0.0036442318642523,0.0034587116299178
+11859,Pike,Other race,28,28,0,15,15,2021-07-19,0.0031887028812208,0.0032425421530479
+11860,Pike,Black or African-American,17,17,0,1,<10,2021-07-19,0.001935998177884,0.0002161694768698
+11861,Pike,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,0.0001138822457578,0.0002161694768698
+11862,Pike,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,0.0001138822457578,0.0002161694768698
+11863,Piatt,White,13684,13684,0,6700,6700,2021-07-19,0.9508720728232924,0.9540082585789548
+11864,Piatt,Unknown,304,304,0,130,130,2021-07-19,0.0211243138072406,0.0185106080022782
+11865,Piatt,Other race,146,146,0,68,68,2021-07-19,0.0101452296574247,0.0096824718781147
+11866,Piatt,Hispanic or Latino,100,100,0,49,49,2021-07-19,0.0069487874365923,0.0069770753239356
+11867,Piatt,Asian,70,70,0,36,36,2021-07-19,0.0048641512056146,0.0051260145237078
+11868,Piatt,Black or African-American,72,72,0,33,33,2021-07-19,0.0050031269543464,0.0046988466467321
+11869,Piatt,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,6.948787436592315e-05,0.0001423892923252
+11870,Piatt,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,6.948787436592315e-05,0.0001423892923252
+11871,Clinton,White,28397,28397,0,14487,14487,2021-07-19,0.908704,0.9114186851211072
+11872,Clinton,Black or African-American,875,875,0,437,437,2021-07-19,0.028,0.0274929223026108
+11873,Clinton,Unknown,646,646,0,303,303,2021-07-19,0.020672,0.0190625983013526
+11874,Clinton,Hispanic or Latino,621,621,0,302,302,2021-07-19,0.019872,0.0189996854356715
+11875,Clinton,Other race,459,459,0,233,233,2021-07-19,0.014688,0.0146586977036804
+11876,Clinton,Asian,181,181,0,97,97,2021-07-19,0.005792,0.00610254797106
+11877,Clinton,American Indian or Alaska Nati,46,46,0,24,24,2021-07-19,0.001472,0.0015099087763447
+11878,Clinton,Native Hawaiian or Other Pacif,25,25,0,12,12,2021-07-19,0.0008,0.0007549543881723
+11879,Crawford,White,11652,11652,0,5789,5789,2021-07-19,0.8761561019625536,0.8784522003034901
+11880,Crawford,Unknown,967,967,0,472,472,2021-07-19,0.0727122340025565,0.0716236722306525
+11881,Crawford,Black or African-American,263,263,0,123,123,2021-07-19,0.0197759230017294,0.0186646433990895
+11882,Crawford,Hispanic or Latino,216,216,0,109,109,2021-07-19,0.0162418226934355,0.0165402124430956
+11883,Crawford,Other race,114,114,0,55,55,2021-07-19,0.0085720730882021,0.0083459787556904
+11884,Crawford,Asian,66,66,0,32,32,2021-07-19,0.0049627791563275,0.0048558421851289
+11885,Crawford,American Indian or Alaska Nati,14,14,0,1,<10,2021-07-19,0.00105271073013,0.0001517450682852
+11886,Crawford,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,7.519362358072035e-05,0.0001517450682852
+11887,Brown,White,3726,3726,0,1891,1891,2021-07-19,0.7175043327556326,0.7171027682973076
+11888,Brown,Black or African-American,1001,1001,0,509,509,2021-07-19,0.1927594839206624,0.1930223739097459
+11889,Brown,Hispanic or Latino,274,274,0,140,140,2021-07-19,0.0527633352590025,0.0530906332954114
+11890,Brown,Unknown,141,141,0,72,72,2021-07-19,0.0271519352975158,0.0273037542662116
+11891,Brown,Other race,31,31,0,15,15,2021-07-19,0.0059695744271134,0.005688282138794
+11892,Brown,Asian,10,10,0,1,<10,2021-07-19,0.0019256691700365,0.0003792188092529
+11893,Brown,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,0.0001925669170036,0.0003792188092529
+11894,Brown,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,0.0001925669170036,0.0003792188092529
+11895,Marshall,White,9227,9227,0,4628,4628,2021-07-19,0.9389437264678946,0.943334692213616
+11896,Marshall,Unknown,188,188,0,89,89,2021-07-19,0.0191309657067263,0.0181410517733387
+11897,Marshall,Other race,147,147,0,75,75,2021-07-19,0.0149587870153658,0.0152874031797798
+11898,Marshall,Hispanic or Latino,173,173,0,68,68,2021-07-19,0.0176045588684237,0.0138605788830004
+11899,Marshall,Black or African-American,39,39,0,19,19,2021-07-19,0.0039686577795868,0.0038728088055442
+11900,Marshall,Asian,27,27,0,13,13,2021-07-19,0.0027475323089447,0.0026498165511618
+11901,Marshall,American Indian or Alaska Nati,19,19,0,10,10,2021-07-19,0.00193344866185,0.0020383204239706
+11902,Marshall,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,0.0001017604558868,0.000203832042397
+11903,Woodford,White,31231,31231,0,15732,15732,2021-07-19,0.9490685872306804,0.9498279297228764
+11904,Woodford,Unknown,735,735,0,359,359,2021-07-19,0.0223356732610082,0.0216748173640041
+11905,Woodford,Other race,309,309,0,153,153,2021-07-19,0.0093900993709545,0.0092374569824307
+11906,Woodford,Hispanic or Latino,226,226,0,118,118,2021-07-19,0.0068678396693712,0.0071243132282799
+11907,Woodford,Asian,214,214,0,108,108,2021-07-19,0.0065031756161303,0.006520557869951
+11908,Woodford,Black or African-American,135,135,0,66,66,2021-07-19,0.0041024705989607,0.0039847853649701
+11909,Woodford,American Indian or Alaska Nati,39,39,0,19,19,2021-07-19,0.001185158173033,0.0011471351808247
+11910,Woodford,Native Hawaiian or Other Pacif,16,16,0,1,<10,2021-07-19,0.0004862187376546,6.037553583288052e-05
+11911,Tazewell,White,111711,111711,0,55995,55995,2021-07-19,0.94077966701195,0.939876126693187
+11912,Tazewell,Unknown,2338,2338,0,1278,1278,2021-07-19,0.0196895817016582,0.0214512311798177
+11913,Tazewell,Hispanic or Latino,1391,1391,0,680,680,2021-07-19,0.01171437474209,0.011413800627759
+11914,Tazewell,Asian,1254,1254,0,630,630,2021-07-19,0.0105606225209064,0.0105745505816002
+11915,Tazewell,Other race,990,990,0,486,486,2021-07-19,0.0083373335691367,0.008157510448663
+11916,Tazewell,Black or African-American,762,762,0,363,363,2021-07-19,0.0064172203835173,0.0060929553351125
+11917,Tazewell,American Indian or Alaska Nati,208,208,0,106,106,2021-07-19,0.0017516822044246,0.0017792100978565
+11918,Tazewell,Native Hawaiian or Other Pacif,81,81,0,36,36,2021-07-19,0.0006821454738384,0.0006042600332343
+11919,Warren,White,10890,10890,0,5511,5511,2021-07-19,0.8631211857018308,0.8739295908658421
+11920,Warren,Hispanic or Latino,779,779,0,363,363,2021-07-19,0.0617420940001585,0.0575642245480494
+11921,Warren,Unknown,386,386,0,163,163,2021-07-19,0.0305936434968693,0.025848398350777
+11922,Warren,Black or African-American,223,223,0,115,115,2021-07-19,0.0176745660616628,0.0182366000634316
+11923,Warren,Asian,167,167,0,80,80,2021-07-19,0.0132361100103035,0.0126863304789089
+11924,Warren,Other race,136,136,0,58,58,2021-07-19,0.0107791075533011,0.009197589597209
+11925,Warren,American Indian or Alaska Nati,21,21,0,1,<10,2021-07-19,0.0016644210192597,0.0001585791309863
+11926,Warren,Native Hawaiian or Other Pacif,11,11,0,1,<10,2021-07-19,0.000871839581517,0.0001585791309863
+11927,Warren,Middle Eastern or North Africa,1,<10,0,1,<10,2021-07-19,7.925814377427281e-05,0.0001585791309863
+11928,Menard,White,10193,10193,0,5158,5158,2021-07-19,0.9685480805777272,0.9695488721804512
+11929,Menard,Unknown,154,154,0,77,77,2021-07-19,0.0146332193082478,0.0144736842105263
+11930,Menard,Other race,50,50,0,24,24,2021-07-19,0.0047510452299505,0.0045112781954887
+11931,Menard,Hispanic or Latino,44,44,0,21,21,2021-07-19,0.0041809198023565,0.0039473684210526
+11932,Menard,Asian,42,42,0,20,20,2021-07-19,0.0039908779931584,0.0037593984962406
+11933,Menard,Black or African-American,31,31,0,16,16,2021-07-19,0.0029456480425693,0.0030075187969924
+11934,Menard,American Indian or Alaska Nati,10,10,0,1,<10,2021-07-19,0.0009502090459901,0.000187969924812
+11935,Fulton,White,27009,27009,0,13758,13758,2021-07-19,0.8914155582692498,0.8956448147907037
+11936,Fulton,Unknown,1344,1344,0,652,652,2021-07-19,0.0443578996006468,0.0424451533103313
+11937,Fulton,Other race,1173,1173,0,566,566,2021-07-19,0.0387141489818145,0.0368465594687845
+11938,Fulton,Black or African-American,423,423,0,209,209,2021-07-19,0.0139608567939535,0.0136058850335264
+11939,Fulton,Hispanic or Latino,257,257,0,130,130,2021-07-19,0.0084821281230403,0.0084629906907102
+11940,Fulton,Asian,63,63,0,32,32,2021-07-19,0.0020792765437803,0.0020831977084825
+11941,Fulton,American Indian or Alaska Nati,25,25,0,11,11,2021-07-19,0.0008251097395953,0.0007160992122908
+11942,Fulton,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,3.300438958381465e-05,6.509992839007877e-05
+11943,Bond,White,10544,10544,0,5260,5260,2021-07-19,0.9165507649513212,0.9187772925764192
+11944,Bond,Unknown,327,327,0,159,159,2021-07-19,0.0284248956884561,0.0277729257641921
+11945,Bond,Black or African-American,228,228,0,112,112,2021-07-19,0.0198191933240611,0.0195633187772925
+11946,Bond,Hispanic or Latino,167,167,0,81,81,2021-07-19,0.0145166898470097,0.0141484716157205
+11947,Bond,Other race,147,147,0,68,68,2021-07-19,0.0127781641168289,0.0118777292576419
+11948,Bond,Asian,74,74,0,36,36,2021-07-19,0.0064325452016689,0.0062882096069868
+11949,Bond,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,8.692628650904033e-05,0.0001746724890829
+11950,Bond,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,8.692628650904033e-05,0.0001746724890829
+11951,Union,White,11475,11475,0,5699,5699,2021-07-19,0.8796473744729781,0.8857631333540565
+11952,Union,Hispanic or Latino,656,656,0,295,295,2021-07-19,0.050287466462246,0.0458501709667392
+11953,Union,Unknown,481,481,0,227,227,2021-07-19,0.0368723648907627,0.0352813179981349
+11954,Union,Black or African-American,222,222,0,110,110,2021-07-19,0.0170180145649674,0.017096673919801
+11955,Union,Other race,109,109,0,53,53,2021-07-19,0.0083556918359524,0.0082374883431768
+11956,Union,Asian,71,71,0,35,35,2021-07-19,0.0054426983518589,0.0054398507926639
+11957,Union,American Indian or Alaska Nati,25,25,0,12,12,2021-07-19,0.0019164430816404,0.0018650917003419
+11958,Union,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,7.665772326561901e-05,0.0001554243083618
+11959,Randolph,White,20178,20178,0,10243,10243,2021-07-19,0.8543845534995977,0.8625684210526315
+11960,Randolph,Black or African-American,1296,1296,0,620,620,2021-07-19,0.0548757251132658,0.0522105263157894
+11961,Randolph,Other race,956,956,0,435,435,2021-07-19,0.0404793157471313,0.0366315789473684
+11962,Randolph,Unknown,608,608,0,294,294,2021-07-19,0.0257441673370876,0.0247578947368421
+11963,Randolph,Hispanic or Latino,465,465,0,227,227,2021-07-19,0.0196892069272134,0.0191157894736842
+11964,Randolph,Asian,89,89,0,44,44,2021-07-19,0.0037684718634881,0.0037052631578947
+11965,Randolph,American Indian or Alaska Nati,13,13,0,1,<10,2021-07-19,0.0005504509463522,8.421052631578948e-05
+11966,Randolph,Native Hawaiian or Other Pacif,10,10,0,1,<10,2021-07-19,0.0004234238048863,8.421052631578948e-05
+11967,Scott,White,2976,2976,0,1482,1482,2021-07-19,0.9703293120313008,0.9686274509803922
+11968,Scott,Unknown,42,42,0,22,22,2021-07-19,0.0136941636778611,0.0143790849673202
+11969,Scott,Other race,17,17,0,1,<10,2021-07-19,0.0055428757743723,0.0006535947712418
+11970,Scott,Hispanic or Latino,14,14,0,1,<10,2021-07-19,0.0045647212259537,0.0006535947712418
+11971,Scott,Asian,1,<10,0,1,<10,2021-07-19,0.0003260515161395,0.0006535947712418
+11972,Scott,Black or African-American,1,<10,0,1,<10,2021-07-19,0.0003260515161395,0.0006535947712418
+11973,Scott,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,0.0003260515161395,0.0006535947712418
+11974,Scott,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,0.0003260515161395,0.0006535947712418
+11975,Stark,White,4146,4146,0,2091,2091,2021-07-19,0.9621721977256904,0.9631506218332566
+11976,Stark,Unknown,60,60,0,30,30,2021-07-19,0.0139243443954513,0.0138185168125287
+11977,Stark,Hispanic or Latino,45,45,0,21,21,2021-07-19,0.0104432582965885,0.0096729617687701
+11978,Stark,Other race,22,22,0,11,11,2021-07-19,0.0051055929449988,0.0050667894979272
+11979,Stark,Asian,14,14,0,1,<10,2021-07-19,0.0032490136922719,0.0004606172270842
+11980,Stark,Black or African-American,13,13,0,1,<10,2021-07-19,0.0030169412856811,0.0004606172270842
+11981,Stark,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,0.0002320724065908,0.0004606172270842
+11982,Stark,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,0.0002320724065908,0.0004606172270842
+11983,Macoupin,White,35102,35102,0,17540,17540,2021-07-19,0.9585734181708948,0.9602540238694844
+11984,Macoupin,Unknown,496,496,0,235,235,2021-07-19,0.0135448810726671,0.0128654330450016
+11985,Macoupin,Other race,311,311,0,143,143,2021-07-19,0.008492858898386,0.0078287528741924
+11986,Macoupin,Black or African-American,229,229,0,118,118,2021-07-19,0.0062535842049209,0.0064600897842986
+11987,Macoupin,Hispanic or Latino,238,238,0,115,115,2021-07-19,0.0064993582566427,0.0062958502135114
+11988,Macoupin,Asian,154,154,0,72,72,2021-07-19,0.0042054671072394,0.0039417496988941
+11989,Macoupin,American Indian or Alaska Nati,67,67,0,35,35,2021-07-19,0.0018296512739288,0.0019161283258513
+11990,Macoupin,Native Hawaiian or Other Pacif,19,19,0,1,<10,2021-07-19,0.0005188563314126,5.474652359575167e-05
+11991,Coles,White,30470,30470,0,15721,15721,2021-07-19,0.9167769888073174,0.9189805342842112
+11992,Coles,Black or African-American,743,743,0,371,371,2021-07-19,0.0223552774100373,0.021687028701701
+11993,Coles,Hispanic or Latino,637,637,0,325,325,2021-07-19,0.0191659646166807,0.018998070965102
+11994,Coles,Unknown,483,483,0,234,234,2021-07-19,0.0145324347093513,0.0136786110948734
+11995,Coles,Asian,454,454,0,217,217,2021-07-19,0.0136598868696594,0.0126848658443911
+11996,Coles,Other race,365,365,0,199,199,2021-07-19,0.0109820676375015,0.0116326649909393
+11997,Coles,American Indian or Alaska Nati,59,59,0,27,27,2021-07-19,0.0017751835359249,0.0015783012801777
+11998,Coles,Native Hawaiian or Other Pacif,25,25,0,13,13,2021-07-19,0.0007521964135275,0.000759922838604
+11999,Washington,White,10530,10530,0,5533,5533,2021-07-19,0.9464317814129068,0.9471071550838754
+12000,Washington,Unknown,224,224,0,113,113,2021-07-19,0.0201330217508538,0.0193426908592947
+12001,Washington,Other race,143,143,0,76,76,2021-07-19,0.0128527772784468,0.0130092434097911
+12002,Washington,Hispanic or Latino,94,94,0,48,48,2021-07-19,0.0084486787704476,0.0082163642588154
+12003,Washington,Asian,73,73,0,40,40,2021-07-19,0.006561207981305,0.0068469702156795
+12004,Washington,Black or African-American,37,37,0,19,19,2021-07-19,0.0033255437713463,0.0032523108524477
+12005,Washington,American Indian or Alaska Nati,14,14,0,1,<10,2021-07-19,0.0012583138594283,0.0001711742553919
+12006,Washington,Native Hawaiian or Other Pacif,11,11,0,1,<10,2021-07-19,0.0009886751752651,0.0001711742553919
+12007,Iroquois,White,16746,16746,0,8504,8504,2021-07-19,0.8830415524151023,0.8835324675324675
+12008,Iroquois,Hispanic or Latino,1177,1177,0,598,598,2021-07-19,0.0620649651972157,0.0621298701298701
+12009,Iroquois,Unknown,448,448,0,223,223,2021-07-19,0.0236237080784644,0.0231688311688311
+12010,Iroquois,Other race,264,264,0,138,138,2021-07-19,0.0139211136890951,0.0143376623376623
+12011,Iroquois,Black or African-American,164,164,0,82,82,2021-07-19,0.0086479645644378,0.0085194805194805
+12012,Iroquois,Asian,145,145,0,69,69,2021-07-19,0.007646066230753,0.0071688311688311
+12013,Iroquois,American Indian or Alaska Nati,16,16,0,1,<10,2021-07-19,0.0008437038599451,0.0001038961038961
+12014,Iroquois,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,5.273149124657245e-05,0.0001038961038961
+12015,Saline,White,13850,13850,0,7252,7252,2021-07-19,0.930466912999664,0.9345360824742268
+12016,Saline,Black or African-American,345,345,0,168,168,2021-07-19,0.0231776956667786,0.0216494845360824
+12017,Saline,Unknown,297,297,0,140,140,2021-07-19,0.0199529727914007,0.018041237113402
+12018,Saline,Hispanic or Latino,150,150,0,76,76,2021-07-19,0.0100772589855559,0.0097938144329896
+12019,Saline,Other race,113,113,0,59,59,2021-07-19,0.0075915351024521,0.0076030927835051
+12020,Saline,Asian,108,108,0,52,52,2021-07-19,0.0072556264696002,0.006701030927835
+12021,Saline,American Indian or Alaska Nati,15,15,0,1,<10,2021-07-19,0.0010077258985555,0.0001288659793814
+12022,Saline,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,6.718172657037286e-05,0.0001288659793814
+12023,Hardin,White,1891,1891,0,941,941,2021-07-19,0.9512072434607646,0.9533941236068896
+12024,Hardin,Unknown,32,32,0,14,14,2021-07-19,0.0160965794768611,0.0141843971631205
+12025,Hardin,Other race,20,20,0,10,10,2021-07-19,0.0100603621730382,0.0101317122593718
+12026,Hardin,Hispanic or Latino,19,19,0,10,10,2021-07-19,0.0095573440643863,0.0101317122593718
+12027,Hardin,Asian,16,16,0,1,<10,2021-07-19,0.0080482897384305,0.0010131712259371
+12028,Hardin,Black or African-American,1,<10,0,1,<10,2021-07-19,0.0005030181086519,0.0010131712259371
+12029,Hardin,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,0.0005030181086519,0.0010131712259371
+12030,McDonough,White,19132,19132,0,9998,9998,2021-07-19,0.877493922854653,0.8836839314124094
+12031,McDonough,Unknown,759,759,0,362,362,2021-07-19,0.0348117231573636,0.0319957574686229
+12032,McDonough,Black or African-American,668,668,0,328,328,2021-07-19,0.0306379855983121,0.0289906310765423
+12033,McDonough,Asian,524,524,0,268,268,2021-07-19,0.0240333899004724,0.0236874668552236
+12034,McDonough,Other race,327,327,0,160,160,2021-07-19,0.0149979360638444,0.0141417712568499
+12035,McDonough,Hispanic or Latino,317,317,0,156,156,2021-07-19,0.0145392835848277,0.0137882269754286
+12036,McDonough,American Indian or Alaska Nati,57,57,0,31,31,2021-07-19,0.0026143191303948,0.0027399681810146
+12037,McDonough,Native Hawaiian or Other Pacif,15,15,0,1,<10,2021-07-19,0.0006879787185249,8.838607035531201e-05
+12038,Mercer,White,12154,12154,0,6109,6109,2021-07-19,0.9319122833921176,0.9333842627960276
+12039,Mercer,Unknown,451,451,0,223,223,2021-07-19,0.0345805857997239,0.0340718105423987
+12040,Mercer,Hispanic or Latino,188,188,0,89,89,2021-07-19,0.0144149670295966,0.013598166539343
+12041,Mercer,Other race,120,120,0,58,58,2021-07-19,0.0092010427848489,0.0088617265087853
+12042,Mercer,Black or African-American,64,64,0,33,33,2021-07-19,0.0049072228185861,0.0050420168067226
+12043,Mercer,Asian,39,39,0,20,20,2021-07-19,0.0029903389050759,0.0030557677616501
+12044,Mercer,American Indian or Alaska Nati,14,14,0,1,<10,2021-07-19,0.0010734549915657,0.0001527883880825
+12045,Mercer,Native Hawaiian or Other Pacif,12,12,0,1,<10,2021-07-19,0.0009201042784848,0.0001527883880825
+12046,Jasper,White,5955,5955,0,2977,2977,2021-07-19,0.9744722631320568,0.9754259501965924
+12047,Jasper,Unknown,48,48,0,25,25,2021-07-19,0.0078546882670594,0.0081913499344692
+12048,Jasper,Other race,37,37,0,17,17,2021-07-19,0.0060546555391916,0.005570117955439
+12049,Jasper,Hispanic or Latino,27,27,0,13,13,2021-07-19,0.0044182621502209,0.0042595019659239
+12050,Jasper,Asian,15,15,0,1,<10,2021-07-19,0.002454590083456,0.0003276539973787
+12051,Jasper,Black or African-American,15,15,0,1,<10,2021-07-19,0.002454590083456,0.0003276539973787
+12052,Jasper,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,0.000163639338897,0.0003276539973787
+12053,Jasper,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,0.000163639338897,0.0003276539973787
+12054,Henry,White,39164,39164,0,19699,19699,2021-07-19,0.8998667340655301,0.9046197648787656
+12055,Henry,Hispanic or Latino,1509,1509,0,741,741,2021-07-19,0.0346721198474334,0.0340282880235121
+12056,Henry,Unknown,1454,1454,0,649,649,2021-07-19,0.0334083911584945,0.02980345334313
+12057,Henry,Other race,591,591,0,295,295,2021-07-19,0.0135793391847801,0.0135470242468772
+12058,Henry,Black or African-American,490,490,0,234,234,2021-07-19,0.0112586737741831,0.0107457751653196
+12059,Henry,Asian,230,230,0,113,113,2021-07-19,0.00528468360829,0.0051891991182953
+12060,Henry,American Indian or Alaska Nati,65,65,0,34,34,2021-07-19,0.0014934975414732,0.0015613519470977
+12061,Henry,Native Hawaiian or Other Pacif,19,19,0,11,11,2021-07-19,0.0004365608198152,0.0005051432770022
+12062,Clay,White,6906,6906,0,3556,3556,2021-07-19,0.9595664860358484,0.9590075512405608
+12063,Clay,Hispanic or Latino,90,90,0,50,50,2021-07-19,0.0125052105043768,0.0134843581445523
+12064,Clay,Asian,78,78,0,40,40,2021-07-19,0.0108378491037932,0.0107874865156418
+12065,Clay,Black or African-American,52,52,0,26,26,2021-07-19,0.0072252327358621,0.0070118662351672
+12066,Clay,Unknown,45,45,0,21,21,2021-07-19,0.0062526052521884,0.0056634304207119
+12067,Clay,Other race,22,22,0,13,13,2021-07-19,0.0030568292344032,0.0035059331175836
+12068,Clay,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,0.0001389467833819,0.000269687162891
+12069,Clay,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,0.0001389467833819,0.000269687162891
+12070,Logan,White,19848,19848,0,10475,10475,2021-07-19,0.8655909289140864,0.8708122038407182
+12071,Logan,Unknown,1017,1017,0,521,521,2021-07-19,0.0443523767989533,0.0433119960096433
+12072,Logan,Other race,782,782,0,376,376,2021-07-19,0.0341037941561273,0.0312577936653088
+12073,Logan,Black or African-American,663,663,0,339,339,2021-07-19,0.0289140863497601,0.0281818937567545
+12074,Logan,Hispanic or Latino,335,335,0,180,180,2021-07-19,0.0146096816397732,0.0149638373929669
+12075,Logan,Asian,206,206,0,98,98,2021-07-19,0.0089838639337112,0.0081469781361709
+12076,Logan,American Indian or Alaska Nati,43,43,0,23,23,2021-07-19,0.0018752725686873,0.0019120458891013
+12077,Logan,Native Hawaiian or Other Pacif,34,34,0,16,16,2021-07-19,0.001482773658962,0.0013301188793748
+12078,Cumberland,White,5833,5833,0,3041,3041,2021-07-19,0.9752549740846012,0.974991984610452
+12079,Cumberland,Unknown,51,51,0,26,26,2021-07-19,0.0085270021735495,0.0083360051298493
+12080,Cumberland,Hispanic or Latino,40,40,0,22,22,2021-07-19,0.0066878448419996,0.0070535428021801
+12081,Cumberland,Other race,29,29,0,16,16,2021-07-19,0.0048486875104497,0.0051298493106764
+12082,Cumberland,Asian,16,16,0,1,<10,2021-07-19,0.0026751379367998,0.0003206155819172
+12083,Cumberland,Black or African-American,11,11,0,1,<10,2021-07-19,0.0018391573315499,0.0003206155819172
+12084,Cumberland,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,0.0001671961210499,0.0003206155819172
+12085,Gallatin,White,2980,2980,0,1548,1548,2021-07-19,0.9338765277342526,0.9376135675348274
+12086,Gallatin,Unknown,139,139,0,70,70,2021-07-19,0.0435600125352554,0.0423985463355542
+12087,Gallatin,Hispanic or Latino,36,36,0,18,18,2021-07-19,0.011281729865246,0.0109024833434282
+12088,Gallatin,Other race,15,15,0,1,<10,2021-07-19,0.0047007207771858,0.0006056935190793
+12089,Gallatin,Black or African-American,11,11,0,1,<10,2021-07-19,0.0034471952366029,0.0006056935190793
+12090,Gallatin,Asian,1,<10,0,1,<10,2021-07-19,0.0003133813851457,0.0006056935190793
+12091,Gallatin,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,0.0003133813851457,0.0006056935190793
+12092,Perry,White,12571,12571,0,6371,6371,2021-07-19,0.8690632561354995,0.8752575903283418
+12093,Perry,Black or African-American,1097,1097,0,512,512,2021-07-19,0.0758382302108537,0.0703393323258689
+12094,Perry,Hispanic or Latino,373,373,0,182,182,2021-07-19,0.0257863809194607,0.0250034345377112
+12095,Perry,Other race,146,146,0,77,77,2021-07-19,0.0100933287245074,0.0105783761505701
+12096,Perry,Unknown,146,146,0,73,73,2021-07-19,0.0100933287245074,0.0100288501167742
+12097,Perry,Asian,107,107,0,50,50,2021-07-19,0.0073971655720705,0.0068690754224481
+12098,Perry,American Indian or Alaska Nati,19,19,0,11,11,2021-07-19,0.0013135153819564,0.0015111965929385
+12099,Perry,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,6.91323885240235e-05,0.0001373815084489
+12100,Richland,White,9650,9650,0,4959,4959,2021-07-19,0.9475648075412412,0.9485462892119356
+12101,Richland,Hispanic or Latino,157,157,0,79,79,2021-07-19,0.0154163393558523,0.0151109410864575
+12102,Richland,Unknown,136,136,0,66,66,2021-07-19,0.0133542812254516,0.0126243305279265
+12103,Richland,Asian,121,121,0,63,63,2021-07-19,0.0118813825608798,0.0120504973221117
+12104,Richland,Other race,59,59,0,28,28,2021-07-19,0.0057934014139827,0.0053557765876052
+12105,Richland,Black or African-American,43,43,0,22,22,2021-07-19,0.004222309505106,0.0042081101759755
+12106,Richland,American Indian or Alaska Nati,14,14,0,1,<10,2021-07-19,0.001374705420267,0.0001912777352716
+12107,Richland,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,9.819324430479184e-05,0.0001912777352716
+12108,Richland,Middle Eastern or North Africa,1,<10,0,1,<10,2021-07-19,9.819324430479184e-05,0.0001912777352716
+12109,Williamson,White,42654,42654,0,22045,22045,2021-07-19,0.90587435755851,0.9086599892832118
+12110,Williamson,Black or African-American,1113,1113,0,588,588,2021-07-19,0.023637599286412,0.0242364288364041
+12111,Williamson,Unknown,1046,1046,0,483,483,2021-07-19,0.0222146710274816,0.0199084951156176
+12112,Williamson,Other race,781,781,0,385,385,2021-07-19,0.0165866711973835,0.0158690903095503
+12113,Williamson,Asian,762,762,0,372,372,2021-07-19,0.016183154228433,0.0153332508965005
+12114,Williamson,Hispanic or Latino,626,626,0,333,333,2021-07-19,0.0132948222401563,0.0137257326573513
+12115,Williamson,American Indian or Alaska Nati,63,63,0,33,33,2021-07-19,0.0013379773180987,0.0013602077408185
+12116,Williamson,Native Hawaiian or Other Pacif,41,41,0,22,22,2021-07-19,0.0008707471435246,0.0009068051605457
+12117,Kendall,White,90567,90567,0,44496,44496,2021-07-19,0.6799018062249448,0.6881321332467292
+12118,Kendall,Hispanic or Latino,20147,20147,0,9474,9474,2021-07-19,0.1512469408284912,0.1465157279391296
+12119,Kendall,Black or African-American,8368,8368,0,3941,3941,2021-07-19,0.0628199930934042,0.060947697256503
+12120,Kendall,Asian,6140,6140,0,2940,2940,2021-07-19,0.0460940197888984,0.0454671986638211
+12121,Kendall,Other race,3837,3837,0,1891,1891,2021-07-19,0.0288050087833881,0.0292443784603012
+12122,Kendall,Unknown,3551,3551,0,1620,1620,2021-07-19,0.0266579583502244,0.0250533543657789
+12123,Kendall,American Indian or Alaska Nati,374,374,0,191,191,2021-07-19,0.0028076813356755,0.0029538214097924
+12124,Kendall,Native Hawaiian or Other Pacif,217,217,0,106,106,2021-07-19,0.0016290557482395,0.001639293557267
+12125,St. Clair,White,151384,151384,0,76002,76002,2021-07-19,0.69492887013923,0.7032208518001055
+12126,St. Clair,Black or African-American,45483,45483,0,22010,22010,2021-07-19,0.2087898972186135,0.2036511006041988
+12127,St. Clair,Hispanic or Latino,6816,6816,0,3333,3333,2021-07-19,0.031288875831455,0.0308391239579188
+12128,St. Clair,Unknown,5364,5364,0,2538,2538,2021-07-19,0.0246234639025711,0.0234832573072901
+12129,St. Clair,Asian,4811,4811,0,2378,2378,2021-07-19,0.022084915144532,0.0220028313147108
+12130,St. Clair,Other race,2742,2742,0,1221,1221,2021-07-19,0.0125871621962807,0.0112975008558712
+12131,St. Clair,American Indian or Alaska Nati,742,742,0,351,351,2021-07-19,0.003406154029774,0.0032476845212209
+12132,St. Clair,Native Hawaiian or Other Pacif,497,497,0,243,243,2021-07-19,0.0022814805293769,0.0022483969762299
+12133,Monroe,White,25091,25091,0,12582,12582,2021-07-19,0.7840692478360052,0.7826573774570789
+12134,Monroe,Unknown,5801,5801,0,2954,2954,2021-07-19,0.1812755851379644,0.1837521771584971
+12135,Monroe,Other race,670,670,0,333,333,2021-07-19,0.0209368457235711,0.0207141079870614
+12136,Monroe,Hispanic or Latino,178,178,0,83,83,2021-07-19,0.0055623261773069,0.0051629758646429
+12137,Monroe,Asian,128,128,0,59,59,2021-07-19,0.0039998750039061,0.0036700671808907
+12138,Monroe,Black or African-American,76,76,0,37,37,2021-07-19,0.0023749257835692,0.0023015675541179
+12139,Monroe,American Indian or Alaska Nati,33,33,0,15,15,2021-07-19,0.0010312177744445,0.0009330679273451
+12140,Monroe,Native Hawaiian or Other Pacif,22,22,0,12,12,2021-07-19,0.0006874785162963,0.000746454341876
+12141,Livingston,White,24768,24768,0,12464,12464,2021-07-19,0.8967414916727009,0.9020118685772182
+12142,Livingston,Unknown,894,894,0,449,449,2021-07-19,0.0323678493845039,0.0324938486032711
+12143,Livingston,Hispanic or Latino,648,648,0,299,299,2021-07-19,0.0234612599565532,0.0216384426110869
+12144,Livingston,Other race,622,622,0,272,272,2021-07-19,0.0225199131064446,0.0196844695324938
+12145,Livingston,Black or African-American,436,436,0,211,211,2021-07-19,0.0157856625633598,0.0152699377623389
+12146,Livingston,Asian,179,179,0,85,85,2021-07-19,0.006480811006517,0.0061513967289043
+12147,Livingston,American Indian or Alaska Nati,58,58,0,31,31,2021-07-19,0.0020999275887038,0.002243450571718
+12148,Livingston,Native Hawaiian or Other Pacif,14,14,0,1,<10,2021-07-19,0.0005068790731354,7.236937328122738e-05
+12149,Macon,White,65356,65356,0,33114,33114,2021-07-19,0.8202206297611727,0.82410034343736
+12150,Macon,Black or African-American,9049,9049,0,4420,4420,2021-07-19,0.1135653418004292,0.1099995022646956
+12151,Macon,Unknown,1456,1456,0,761,761,2021-07-19,0.0182728630413774,0.0189388283310935
+12152,Macon,Asian,1565,1565,0,757,757,2021-07-19,0.0196408177608212,0.0188392812702204
+12153,Macon,Hispanic or Latino,995,995,0,494,494,2021-07-19,0.0124872930811611,0.0122940620178189
+12154,Macon,Other race,917,917,0,463,463,2021-07-19,0.0115083897039444,0.0115225722960529
+12155,Macon,American Indian or Alaska Nati,188,188,0,93,93,2021-07-19,0.002359408139958,0.0023144691652978
+12156,Macon,Native Hawaiian or Other Pacif,130,130,0,66,66,2021-07-19,0.0016315056286944,0.0016425265044049
+12157,DuPage,White,672278,672278,0,331467,331467,2021-07-19,0.6067184330033861,0.6092258660966514
+12158,DuPage,Asian,134273,134273,0,64253,64253,2021-07-19,0.1211788934855278,0.1180949825301105
+12159,DuPage,Hispanic or Latino,92859,92859,0,43345,43345,2021-07-19,0.0838035261755723,0.0796667395727458
+12160,DuPage,Unknown,64343,64343,0,30622,30622,2021-07-19,0.0580683647757875,0.0562822678324287
+12161,DuPage,Other race,51528,51528,0,24699,24699,2021-07-19,0.0465030648270484,0.0453959810983331
+12162,DuPage,Black or African-American,32929,32929,0,15664,15664,2021-07-19,0.0297178120961395,0.0287899367555079
+12163,DuPage,American Indian or Alaska Nati,4686,4686,0,2249,2249,2021-07-19,0.004229028135762,0.0041335908939694
+12164,DuPage,Native Hawaiian or Other Pacif,3036,3036,0,1485,1485,2021-07-19,0.0027399337217613,0.0027293830491527
+12165,DuPage,Middle Eastern or North Africa,24,24,0,11,11,2021-07-19,2.1659555112737983e-05,2.021765221594658e-05
+12166,Wabash,White,6982,6982,0,3588,3588,2021-07-19,0.9610461114934618,0.9611572461826948
+12167,Wabash,Unknown,101,101,0,54,54,2021-07-19,0.0139022711631108,0.014465577283686
+12168,Wabash,Hispanic or Latino,63,63,0,32,32,2021-07-19,0.0086717136958017,0.008572193945888
+12169,Wabash,Asian,46,46,0,22,22,2021-07-19,0.0063317274604267,0.005893383337798
+12170,Wabash,Other race,39,39,0,20,20,2021-07-19,0.0053682037164487,0.00535762121618
+12171,Wabash,Black or African-American,21,21,0,10,10,2021-07-19,0.0028905712319339,0.00267881060809
+12172,Wabash,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,0.0001376462491397,0.000267881060809
+12173,Wabash,Middle Eastern or North Africa,1,<10,0,1,<10,2021-07-19,0.0001376462491397,0.000267881060809
+12174,Wabash,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,0.0001376462491397,0.000267881060809
+12175,LaSalle,White,84866,84866,0,41493,41493,2021-07-19,0.8623629472315086,0.8681633677867515
+12176,LaSalle,Hispanic or Latino,5731,5731,0,2531,2531,2021-07-19,0.0582353598683074,0.0529564380466167
+12177,LaSalle,Other race,2758,2758,0,1352,1352,2021-07-19,0.028025322372499,0.0282880696321714
+12178,LaSalle,Unknown,2791,2791,0,1320,1320,2021-07-19,0.0283606507402627,0.0276185295225342
+12179,LaSalle,Black or African-American,1069,1069,0,535,535,2021-07-19,0.010862606822408,0.0111938737079968
+12180,LaSalle,Asian,900,900,0,421,421,2021-07-19,0.0091453191208299,0.0088086370674143
+12181,LaSalle,American Indian or Alaska Nati,226,226,0,107,107,2021-07-19,0.0022964912458973,0.0022387747415993
+12182,LaSalle,Native Hawaiian or Other Pacif,67,67,0,33,33,2021-07-19,0.0006808182012173,0.0006904632380633
+12183,Christian,White,20574,20574,0,10508,10508,2021-07-19,0.9338235294117648,0.9374609688643056
+12184,Christian,Unknown,677,677,0,331,331,2021-07-19,0.0307280319535221,0.0295298420911767
+12185,Christian,Hispanic or Latino,246,246,0,105,105,2021-07-19,0.0111655773420479,0.0093674725666874
+12186,Christian,Other race,161,161,0,83,83,2021-07-19,0.0073075526506899,0.0074047640289053
+12187,Christian,Black or African-American,175,175,0,79,79,2021-07-19,0.0079429920116194,0.0070479079311267
+12188,Christian,Asian,145,145,0,75,75,2021-07-19,0.0065813362381989,0.0066910518333482
+12189,Christian,American Indian or Alaska Nati,40,40,0,20,20,2021-07-19,0.0018155410312273,0.0017842804888928
+12190,Christian,Native Hawaiian or Other Pacif,14,14,0,1,<10,2021-07-19,0.0006354393609295,8.92140244446427e-05
+12191,Cook,White,1485511,1485511,0,737435,737435,2021-07-19,0.5430178041261006,0.5507804593503131
+12192,Cook,Hispanic or Latino,426501,426501,0,204456,204456,2021-07-19,0.1559043564656108,0.1527054853606455
+12193,Cook,Black or African-American,315374,315374,0,153041,153041,2021-07-19,0.1152826851894498,0.1143043010969526
+12194,Cook,Asian,256788,256788,0,124582,124582,2021-07-19,0.0938669965324612,0.0930486499647842
+12195,Cook,Other race,131244,131244,0,62897,62897,2021-07-19,0.0479752951575087,0.0469769383766116
+12196,Cook,Unknown,101867,101867,0,47550,47550,2021-07-19,0.0372367452364294,0.0355144668236622
+12197,Cook,American Indian or Alaska Nati,11439,11439,0,5539,5539,2021-07-19,0.0041814437330982,0.0041370059250528
+12198,Cook,Native Hawaiian or Other Pacif,6548,6548,0,3201,3201,2021-07-19,0.0023935740505574,0.0023907846120408
+12199,Cook,Middle Eastern or North Africa,193,193,0,94,94,2021-07-19,7.054975439181359e-05,7.020735817926926e-05
+12200,Stephenson,White,30551,30551,0,15672,15672,2021-07-19,0.8744597418209921,0.8777373284794175
+12201,Stephenson,Black or African-American,2195,2195,0,1108,1108,2021-07-19,0.0628273749892664,0.0620554466535984
+12202,Stephenson,Hispanic or Latino,789,789,0,393,393,2021-07-19,0.0225835074562784,0.0220106412769532
+12203,Stephenson,Unknown,633,633,0,300,300,2021-07-19,0.0181183272748089,0.016802016241949
+12204,Stephenson,Other race,393,393,0,196,196,2021-07-19,0.0112488193033174,0.0109773172780733
+12205,Stephenson,Asian,254,254,0,125,125,2021-07-19,0.0072702292698285,0.007000840100812
+12206,Stephenson,American Indian or Alaska Nati,95,95,0,47,47,2021-07-19,0.0027191802387154,0.0026323158779053
+12207,Stephenson,Native Hawaiian or Other Pacif,27,27,0,14,14,2021-07-19,0.0007728196467927,0.0007840940912909
+12208,Whiteside,White,38575,38575,0,19734,19734,2021-07-19,0.83495670995671,0.8389236066828211
+12209,Whiteside,Hispanic or Latino,4039,4039,0,2021,2021,2021-07-19,0.0874242424242424,0.0859159120860434
+12210,Whiteside,Unknown,1503,1503,0,731,731,2021-07-19,0.0325324675324675,0.0310759682013348
+12211,Whiteside,Other race,1089,1089,0,535,535,2021-07-19,0.0235714285714285,0.0227436976576116
+12212,Whiteside,Black or African-American,568,568,0,285,285,2021-07-19,0.0122943722943722,0.0121158015559239
+12213,Whiteside,Asian,299,299,0,154,154,2021-07-19,0.0064718614718614,0.0065467839986396
+12214,Whiteside,American Indian or Alaska Nati,80,80,0,40,40,2021-07-19,0.0017316017316017,0.00170046337627
+12215,Whiteside,Native Hawaiian or Other Pacif,47,47,0,23,23,2021-07-19,0.001017316017316,0.0009777664413552
+12216,Mason,White,10259,10259,0,5249,5249,2021-07-19,0.9534386617100372,0.9503892811877602
+12217,Mason,Unknown,226,226,0,130,130,2021-07-19,0.0210037174721189,0.0235379322831794
+12218,Mason,Other race,101,101,0,57,57,2021-07-19,0.0093866171003717,0.0103204780010863
+12219,Mason,Hispanic or Latino,72,72,0,36,36,2021-07-19,0.0066914498141263,0.006518196632265
+12220,Mason,Black or African-American,43,43,0,23,23,2021-07-19,0.003996282527881,0.0041644034039471
+12221,Mason,Asian,31,31,0,15,15,2021-07-19,0.0028810408921933,0.0027159152634437
+12222,Mason,American Indian or Alaska Nati,24,24,0,11,11,2021-07-19,0.0022304832713754,0.0019916711931921
+12223,Mason,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,9.29368029739777e-05,0.0001810610175629
+12224,Wayne,White,8685,8685,0,4404,4404,2021-07-19,0.9482476252866032,0.9511879049676026
+12225,Wayne,Unknown,192,192,0,93,93,2021-07-19,0.0209629872256796,0.0200863930885529
+12226,Wayne,Hispanic or Latino,123,123,0,59,59,2021-07-19,0.013429413691451,0.012742980561555
+12227,Wayne,Other race,49,49,0,23,23,2021-07-19,0.0053499290315536,0.0049676025917926
+12228,Wayne,Black or African-American,38,38,0,19,19,2021-07-19,0.0041489245550824,0.0041036717062634
+12229,Wayne,Asian,45,45,0,18,18,2021-07-19,0.0049132001310186,0.0038876889848812
+12230,Wayne,American Indian or Alaska Nati,18,18,0,1,<10,2021-07-19,0.0019652800524074,0.0002159827213822
+12231,Wayne,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,0.0001091822251337,0.0002159827213822
+12232,Ogle,White,37291,37291,0,18877,18877,2021-07-19,0.8567326027523147,0.8665136561854487
+12233,Ogle,Hispanic or Latino,2834,2834,0,1245,1245,2021-07-19,0.0651090127966549,0.0571494147349093
+12234,Ogle,Unknown,2092,2092,0,1003,1003,2021-07-19,0.0480621223608335,0.0460408537984851
+12235,Ogle,Other race,662,662,0,341,341,2021-07-19,0.015208950766191,0.0156529722285976
+12236,Ogle,Black or African-American,333,333,0,157,157,2021-07-19,0.0076504238748363,0.007206793665366
+12237,Ogle,Asian,228,228,0,113,113,2021-07-19,0.0052381280584464,0.0051870553132889
+12238,Ogle,American Indian or Alaska Nati,58,58,0,34,34,2021-07-19,0.0013325062604819,0.0015607069084232
+12239,Ogle,Native Hawaiian or Other Pacif,27,27,0,14,14,2021-07-19,0.0006203046385002,0.0006426440211154
+12240,Ogle,Middle Eastern or North Africa,1,<10,0,1,<10,2021-07-19,2.2974245870379304e-05,4.590314436538903e-05
+12241,Lawrence,White,7120,7120,0,3686,3686,2021-07-19,0.7409720054115932,0.7531671434409482
+12242,Lawrence,Black or African-American,1133,1133,0,545,545,2021-07-19,0.1179102924341762,0.1113608500204331
+12243,Lawrence,Unknown,833,833,0,407,407,2021-07-19,0.086689561869081,0.0831630568042501
+12244,Lawrence,Hispanic or Latino,382,382,0,181,181,2021-07-19,0.0397543969195545,0.0369840621168778
+12245,Lawrence,Other race,104,104,0,55,55,2021-07-19,0.0108231865958996,0.0112382509194932
+12246,Lawrence,Asian,20,20,0,11,11,2021-07-19,0.002081382037673,0.0022476501838986
+12247,Lawrence,American Indian or Alaska Nati,13,13,0,1,<10,2021-07-19,0.0013528983244874,0.0002043318348998
+12248,Lawrence,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,0.0001040691018836,0.0002043318348998
+12249,Madison,White,193671,193671,0,98855,98855,2021-07-19,0.862696273859106,0.868276358781576
+12250,Madison,Black or African-American,12898,12898,0,6312,6312,2021-07-19,0.0574533953985612,0.0554403963039735
+12251,Madison,Unknown,5544,5544,0,2651,2651,2021-07-19,0.0246954275150894,0.0232846151143589
+12252,Madison,Hispanic or Latino,5363,5363,0,2635,2635,2021-07-19,0.0238891734782511,0.0231440817903945
+12253,Madison,Asian,3267,3267,0,1638,1638,2021-07-19,0.0145526626428205,0.01438709904086
+12254,Madison,Other race,2891,2891,0,1326,1326,2021-07-19,0.0128777923784494,0.0116466992235533
+12255,Madison,American Indian or Alaska Nati,596,596,0,301,301,2021-07-19,0.0026548475467159,0.0026437831570811
+12256,Madison,Native Hawaiian or Other Pacif,246,246,0,123,123,2021-07-19,0.0010957927793492,0.0010803499279766
+12257,Rock Island,White,86068,86068,0,42092,42092,2021-07-19,0.7497865667741093,0.7644195844835101
+12258,Rock Island,Hispanic or Latino,8646,8646,0,3947,3947,2021-07-19,0.0753201498388361,0.0716802266453581
+12259,Rock Island,Black or African-American,6726,6726,0,3150,3150,2021-07-19,0.0585939541771931,0.0572061601046055
+12260,Rock Island,Unknown,7249,7249,0,3073,3073,2021-07-19,0.0631501001829427,0.0558077873020485
+12261,Rock Island,Asian,2900,2900,0,1344,1344,2021-07-19,0.0252635246972732,0.0244079616446317
+12262,Rock Island,Other race,2775,2775,0,1260,1260,2021-07-19,0.0241745796672184,0.0228824640418422
+12263,Rock Island,American Indian or Alaska Nati,297,297,0,138,138,2021-07-19,0.0025873333914104,0.0025061746331541
+12264,Rock Island,Native Hawaiian or Other Pacif,124,124,0,58,58,2021-07-19,0.0010802334698144,0.0010533197733546
+12265,Montgomery,White,20763,20763,0,10196,10196,2021-07-19,0.923538831064852,0.9255628177196804
+12266,Montgomery,Black or African-American,649,649,0,290,290,2021-07-19,0.0288675384752246,0.0263253449527959
+12267,Montgomery,Hispanic or Latino,305,305,0,146,146,2021-07-19,0.0135664086825015,0.0132534495279593
+12268,Montgomery,Other race,272,272,0,145,145,2021-07-19,0.0120985677430833,0.0131626724763979
+12269,Montgomery,Unknown,299,299,0,140,140,2021-07-19,0.0132995285116982,0.0127087872185911
+12270,Montgomery,Asian,136,136,0,70,70,2021-07-19,0.0060492838715416,0.0063543936092955
+12271,Montgomery,American Indian or Alaska Nati,47,47,0,23,23,2021-07-19,0.0020905613379592,0.0020878721859114
+12272,Montgomery,Native Hawaiian or Other Pacif,10,10,0,1,<10,2021-07-19,0.0004448002846721,9.077705156136529e-05
+12273,Hamilton,White,3568,3568,0,1874,1874,2021-07-19,0.9340314136125656,0.9374687343671836
+12274,Hamilton,Unknown,158,158,0,77,77,2021-07-19,0.0413612565445026,0.0385192596298149
+12275,Hamilton,Other race,40,40,0,20,20,2021-07-19,0.0104712041884816,0.0100050025012506
+12276,Hamilton,Hispanic or Latino,22,22,0,10,10,2021-07-19,0.0057591623036649,0.0050025012506253
+12277,Hamilton,Asian,17,17,0,10,10,2021-07-19,0.0044502617801047,0.0050025012506253
+12278,Hamilton,Black or African-American,13,13,0,1,<10,2021-07-19,0.0034031413612565,0.0005002501250625
+12279,Hamilton,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,0.000261780104712,0.0005002501250625
+12280,Jefferson,White,20149,20149,0,9928,9928,2021-07-19,0.8301676898356063,0.8354792560801144
+12281,Jefferson,Black or African-American,1367,1367,0,647,647,2021-07-19,0.0563223600181286,0.0544475300849953
+12282,Jefferson,Unknown,1140,1140,0,545,545,2021-07-19,0.0469696345432821,0.0458638390978709
+12283,Jefferson,Other race,592,592,0,289,289,2021-07-19,0.0243912488154587,0.0243204577968526
+12284,Jefferson,Hispanic or Latino,626,626,0,282,282,2021-07-19,0.0257920975649952,0.0237313809644029
+12285,Jefferson,Asian,334,334,0,162,162,2021-07-19,0.0137612788925054,0.0136329209795506
+12286,Jefferson,American Indian or Alaska Nati,45,45,0,22,22,2021-07-19,0.0018540645214453,0.0018513843305562
+12287,Jefferson,Native Hawaiian or Other Pacif,18,18,0,1,<10,2021-07-19,0.0007416258085781,8.415383320710259e-05
+12288,Jackson,White,33029,33029,0,17225,17225,2021-07-19,0.7772992563306034,0.7800117737626229
+12289,Jackson,Black or African-American,3845,3845,0,2016,2016,2021-07-19,0.0904876211992845,0.0912919440293438
+12290,Jackson,Asian,1828,1828,0,925,925,2021-07-19,0.0430198625623646,0.0418874247158447
+12291,Jackson,Hispanic or Latino,1646,1646,0,870,870,2021-07-19,0.0387367033794596,0.0393968210840918
+12292,Jackson,Unknown,1028,1028,0,486,486,2021-07-19,0.024192789230914,0.0220078793642168
+12293,Jackson,Other race,964,964,0,484,484,2021-07-19,0.022686623364398,0.0219173119594258
+12294,Jackson,American Indian or Alaska Nati,96,96,0,48,48,2021-07-19,0.002259248799774,0.0021736177149843
+12295,Jackson,Native Hawaiian or Other Pacif,56,56,0,29,29,2021-07-19,0.0013178951332015,0.0013132273694697
+12296,Lee,White,26454,26454,0,13559,13559,2021-07-19,0.8516515356384006,0.8568629929221436
+12297,Lee,Black or African-American,1284,1284,0,623,623,2021-07-19,0.0413366814757581,0.0393705763397371
+12298,Lee,Hispanic or Latino,1143,1143,0,569,569,2021-07-19,0.0367973729959435,0.0359580384226491
+12299,Lee,Unknown,1134,1134,0,552,552,2021-07-19,0.0365076299014873,0.0348837209302325
+12300,Lee,Other race,763,763,0,379,379,2021-07-19,0.0245637756744575,0.0239509605662285
+12301,Lee,Asian,205,205,0,105,105,2021-07-19,0.0065997038181701,0.0066354903943377
+12302,Lee,American Indian or Alaska Nati,61,61,0,28,28,2021-07-19,0.0019638143068701,0.0017694641051567
+12303,Lee,Native Hawaiian or Other Pacif,18,18,0,1,<10,2021-07-19,0.0005794861889124,6.319514661274014e-05
+12304,McLean,White,133872,133872,0,66987,66987,2021-07-19,0.7987255902199789,0.8051031813756715
+12305,McLean,Asian,9765,9765,0,4712,4712,2021-07-19,0.0582612898029318,0.0566325733447111
+12306,McLean,Black or African-American,9465,9465,0,4581,4581,2021-07-19,0.0564713884264977,0.0550581108854248
+12307,McLean,Hispanic or Latino,6438,6438,0,3068,3068,2021-07-19,0.038411283538277,0.0368736704205377
+12308,McLean,Unknown,4313,4313,0,2025,2025,2021-07-19,0.0257328154552017,0.0243380647332427
+12309,McLean,Other race,3137,3137,0,1527,1527,2021-07-19,0.0187164020595798,0.0183527036284749
+12310,McLean,American Indian or Alaska Nati,415,415,0,197,197,2021-07-19,0.0024760302374005,0.002367703087629
+12311,McLean,Native Hawaiian or Other Pacif,195,195,0,102,102,2021-07-19,0.0011634358946822,0.0012259173347114
+12312,Moultrie,White,8227,8227,0,4446,4446,2021-07-19,0.9585226610742164,0.9600518246599008
+12313,Moultrie,Unknown,143,143,0,75,75,2021-07-19,0.0166608411977164,0.0161952062189591
+12314,Moultrie,Hispanic or Latino,70,70,0,34,34,2021-07-19,0.0081556565303506,0.0073418268192614
+12315,Moultrie,Other race,63,63,0,32,32,2021-07-19,0.0073400908773156,0.0069099546534225
+12316,Moultrie,Asian,34,34,0,19,19,2021-07-19,0.0039613188861703,0.0041027855754696
+12317,Moultrie,Black or African-American,36,36,0,18,18,2021-07-19,0.0041943376441803,0.0038868494925502
+12318,Moultrie,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,0.000116509379005,0.0002159360829194
+12319,Moultrie,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,0.000116509379005,0.0002159360829194
+12320,Kankakee,White,59048,59048,0,30034,30034,2021-07-19,0.7549157482932317,0.7575925739077792
+12321,Kankakee,Black or African-American,7975,7975,0,4021,4021,2021-07-19,0.1019586284486946,0.1014277065886388
+12322,Kankakee,Hispanic or Latino,6222,6222,0,3166,3166,2021-07-19,0.0795469073614769,0.0798607607708606
+12323,Kankakee,Other race,1933,1933,0,930,930,2021-07-19,0.024712981666624,0.0234587831702149
+12324,Kankakee,Unknown,1646,1646,0,789,789,2021-07-19,0.0210437495205707,0.0199021289476339
+12325,Kankakee,Asian,1123,1123,0,564,564,2021-07-19,0.0143573090592958,0.0142266168903238
+12326,Kankakee,American Indian or Alaska Nati,220,220,0,113,113,2021-07-19,0.0028126518192743,0.0028503682776712
+12327,Kankakee,Native Hawaiian or Other Pacif,50,50,0,27,27,2021-07-19,0.000639239049835,0.0006810614468772
+12328,Bureau,White,24847,24847,0,12199,12199,2021-07-19,0.883511716388721,0.8893992417614465
+12329,Bureau,Hispanic or Latino,1595,1595,0,741,741,2021-07-19,0.0567151441880311,0.0540244969378827
+12330,Bureau,Unknown,743,743,0,327,327,2021-07-19,0.0264196565089073,0.023840769903762
+12331,Bureau,Other race,483,483,0,242,242,2021-07-19,0.0171745546349962,0.0176436278798483
+12332,Bureau,Asian,223,223,0,99,99,2021-07-19,0.0079294527610852,0.0072178477690288
+12333,Bureau,Black or African-American,181,181,0,85,85,2021-07-19,0.0064360132276072,0.0061971420239136
+12334,Bureau,Native Hawaiian or Other Pacif,27,27,0,12,12,2021-07-19,0.0009600682715215,0.0008748906386701
+12335,Bureau,American Indian or Alaska Nati,24,24,0,11,11,2021-07-19,0.0008533940191302,0.0008019830854476
+12336,Effingham,White,21900,21900,0,11060,11060,2021-07-19,0.9355775803144224,0.9390388860587536
+12337,Effingham,Unknown,524,524,0,251,251,2021-07-19,0.0223855092276144,0.021310918661912
+12338,Effingham,Hispanic or Latino,460,460,0,218,218,2021-07-19,0.0196514012303486,0.0185090847342502
+12339,Effingham,Asian,218,218,0,104,104,2021-07-19,0.0093130553656869,0.0088300220750551
+12340,Effingham,Other race,182,182,0,84,84,2021-07-19,0.0077751196172248,0.0071319409067753
+12341,Effingham,Black or African-American,68,68,0,32,32,2021-07-19,0.002904989747095,0.0027169298692477
+12342,Effingham,Native Hawaiian or Other Pacif,40,40,0,22,22,2021-07-19,0.0017088174982911,0.0018678892851078
+12343,Effingham,American Indian or Alaska Nati,14,14,0,1,<10,2021-07-19,0.0005980861244019,8.490405841399219e-05
+12344,Effingham,Middle Eastern or North Africa,1,<10,0,1,<10,2021-07-19,4.2720437457279566e-05,8.490405841399219e-05
+12345,Vermilion,White,37157,37157,0,20053,20053,2021-07-19,0.8147750197351109,0.820633491569815
+12346,Vermilion,Black or African-American,3658,3658,0,1911,1911,2021-07-19,0.0802122620822734,0.0782042887542969
+12347,Vermilion,Unknown,1624,1624,0,799,799,2021-07-19,0.0356109113235681,0.032697659191357
+12348,Vermilion,Hispanic or Latino,1352,1352,0,722,722,2021-07-19,0.0296465222348916,0.0295465706334915
+12349,Vermilion,Other race,1201,1201,0,647,647,2021-07-19,0.0263354091746338,0.0264773285316745
+12350,Vermilion,Asian,512,512,0,252,252,2021-07-19,0.0112270853433909,0.010312653462105
+12351,Vermilion,American Indian or Alaska Nati,70,70,0,37,37,2021-07-19,0.0015349530742917,0.0015141594368963
+12352,Vermilion,Native Hawaiian or Other Pacif,30,30,0,15,15,2021-07-19,0.0006578370318393,0.0006138484203633
+12353,De Witt,White,11454,11454,0,5829,5829,2021-07-19,0.9557743658210948,0.9576145884672252
+12354,De Witt,Hispanic or Latino,201,201,0,99,99,2021-07-19,0.0167723631508678,0.0162641695416461
+12355,De Witt,Unknown,110,110,0,54,54,2021-07-19,0.0091789052069425,0.0088713652045342
+12356,De Witt,Other race,94,94,0,52,52,2021-07-19,0.0078437917222963,0.0085427961228848
+12357,De Witt,Asian,48,48,0,23,23,2021-07-19,0.0040053404539385,0.0037785444389682
+12358,De Witt,Black or African-American,39,39,0,17,17,2021-07-19,0.0032543391188251,0.00279283719402
+12359,De Witt,American Indian or Alaska Nati,30,30,0,1,<10,2021-07-19,0.0025033377837116,0.0001642845408247
+12360,De Witt,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,8.344459279038718e-05,0.0001642845408247
+12361,Douglas,White,11591,11591,0,5792,5792,2021-07-19,0.8448250728862974,0.8478992826818914
+12362,Douglas,Unknown,961,961,0,469,469,2021-07-19,0.0700437317784256,0.0686575903967208
+12363,Douglas,Hispanic or Latino,743,743,0,360,360,2021-07-19,0.0541545189504373,0.0527009222661396
+12364,Douglas,Other race,266,266,0,131,131,2021-07-19,0.0193877551020408,0.0191772800468452
+12365,Douglas,Asian,90,90,0,47,47,2021-07-19,0.0065597667638483,0.006880398184746
+12366,Douglas,Black or African-American,46,46,0,21,21,2021-07-19,0.0033527696793002,0.0030742204655248
+12367,Douglas,American Indian or Alaska Nati,17,17,0,1,<10,2021-07-19,0.0012390670553935,0.0001463914507392
+12368,Douglas,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,7.28862973760933e-05,0.0001463914507392
+12369,Chicago,White,1042777,1042777,0,516391,516391,2021-07-19,0.367890702863846,0.3747068470089687
+12370,Chicago,Hispanic or Latino,692659,692659,0,334994,334994,2021-07-19,0.2443694158530239,0.2430804284097175
+12371,Chicago,Black or African-American,555549,555549,0,266326,266326,2021-07-19,0.1959971423279443,0.1932531274489884
+12372,Chicago,Asian,221725,221725,0,107590,107590,2021-07-19,0.0782243625362721,0.0780701245174585
+12373,Chicago,Unknown,167058,167058,0,78408,78408,2021-07-19,0.058937898552642,0.056894900298958
+12374,Chicago,Other race,139246,139246,0,66979,66979,2021-07-19,0.0491258522301308,0.0486017182828781
+12375,Chicago,American Indian or Alaska Nati,10417,10417,0,4944,4944,2021-07-19,0.0036751073832014,0.0035874960090558
+12376,Chicago,Native Hawaiian or Other Pacif,4986,4986,0,2460,2460,2021-07-19,0.0017590559098245,0.0017850404899428
+12377,Chicago,Middle Eastern or North Africa,58,58,0,28,28,2021-07-19,2.046234311468614e-05,2.0317534031869502e-05
+12378,Marion,White,20646,20646,0,10465,10465,2021-07-19,0.8903743315508021,0.8897296378166979
+12379,Marion,Unknown,997,997,0,518,518,2021-07-19,0.0429963774366051,0.0440401292297228
+12380,Marion,Black or African-American,757,757,0,375,375,2021-07-19,0.0326461963084354,0.0318823329365754
+12381,Marion,Hispanic or Latino,307,307,0,153,153,2021-07-19,0.0132396066931171,0.0130079918381227
+12382,Marion,Other race,210,210,0,113,113,2021-07-19,0.0090564084871485,0.0096072096582213
+12383,Marion,Asian,209,209,0,106,106,2021-07-19,0.0090132827324478,0.0090120727767386
+12384,Marion,American Indian or Alaska Nati,48,48,0,25,25,2021-07-19,0.0020700362256339,0.0021254888624383
+12385,Marion,Native Hawaiian or Other Pacif,12,12,0,1,<10,2021-07-19,0.0005175090564084,8.501955449753443e-05
+12386,Winnebago,White,173952,173952,0,86442,86442,2021-07-19,0.7132922188689148,0.7184998628531531
+12387,Winnebago,Unknown,21652,21652,0,10717,10717,2021-07-19,0.0887842802781787,0.0890789550241461
+12388,Winnebago,Black or African-American,18880,18880,0,9215,9215,2021-07-19,0.0774176617241831,0.0765944359939821
+12389,Winnebago,Hispanic or Latino,15306,15306,0,7143,7143,2021-07-19,0.0627624327516074,0.0593721167992419
+12390,Winnebago,Other race,6697,6697,0,3221,3221,2021-07-19,0.0274611271486681,0.0267727268949122
+12391,Winnebago,Asian,6429,6429,0,3116,3116,2021-07-19,0.0263621900013121,0.0258999742330166
+12392,Winnebago,American Indian or Alaska Nati,606,606,0,285,285,2021-07-19,0.0024849101167825,0.0023689000822881
+12393,Winnebago,Native Hawaiian or Other Pacif,346,346,0,168,168,2021-07-19,0.0014187770633775,0.0013964042590329
+12394,Grundy,White,37257,37257,0,18309,18309,2021-07-19,0.8515885714285715,0.857363615078436
+12395,Grundy,Hispanic or Latino,3434,3434,0,1592,1592,2021-07-19,0.0784914285714285,0.0745492858815265
+12396,Grundy,Unknown,963,963,0,440,440,2021-07-19,0.0220114285714285,0.0206040739873565
+12397,Grundy,Other race,868,868,0,427,427,2021-07-19,0.01984,0.0199953172559119
+12398,Grundy,Black or African-American,596,596,0,284,284,2021-07-19,0.0136228571428571,0.013298993210021
+12399,Grundy,Asian,523,523,0,251,251,2021-07-19,0.0119542857142857,0.0117536876609693
+12400,Grundy,American Indian or Alaska Nati,81,81,0,39,39,2021-07-19,0.0018514285714285,0.0018262701943338
+12401,Grundy,Native Hawaiian or Other Pacif,27,27,0,12,12,2021-07-19,0.0006171428571428,0.0005619292905642
+12402,Jo Daviess,White,14505,14505,0,7792,7792,2021-07-19,0.9365919803706334,0.9365384615384617
+12403,Jo Daviess,Hispanic or Latino,374,374,0,200,200,2021-07-19,0.0241492864983534,0.0240384615384615
+12404,Jo Daviess,Unknown,283,283,0,144,144,2021-07-19,0.0182733905856524,0.0173076923076923
+12405,Jo Daviess,Other race,164,164,0,97,97,2021-07-19,0.0105895266998127,0.0116586538461538
+12406,Jo Daviess,Asian,87,87,0,47,47,2021-07-19,0.0056176147736811,0.0056490384615384
+12407,Jo Daviess,Black or African-American,57,57,0,30,30,2021-07-19,0.0036805062310324,0.0036057692307692
+12408,Jo Daviess,American Indian or Alaska Nati,13,13,0,1,<10,2021-07-19,0.0008394137018144,0.0001201923076923
+12409,Jo Daviess,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,6.457028475495577e-05,0.0001201923076923
+12410,Lake,White,464222,464222,0,228528,228528,2021-07-19,0.6307818361920083,0.6383196234794631
+12411,Lake,Hispanic or Latino,113194,113194,0,53879,53879,2021-07-19,0.1538072714475363,0.1504936943982794
+12412,Lake,Asian,65363,65363,0,31572,31572,2021-07-19,0.0888148195454292,0.0881862491795036
+12413,Lake,Other race,32116,32116,0,15223,15223,2021-07-19,0.0436390120484219,0.0425205647808052
+12414,Lake,Unknown,28853,28853,0,13426,13426,2021-07-19,0.0392052688576758,0.0375012220158373
+12415,Lake,Black or African-American,27945,27945,0,13350,13350,2021-07-19,0.0379714843596074,0.0372889404075248
+12416,Lake,American Indian or Alaska Nati,2857,2857,0,1370,1370,2021-07-19,0.0038820730297154,0.0038266553077385
+12417,Lake,Native Hawaiian or Other Pacif,1341,1341,0,637,637,2021-07-19,0.0018221420836011,0.0017792550591455
+12418,Lake,Middle Eastern or North Africa,11,11,0,1,<10,2021-07-19,1.4946728500829543e-05,2.7931790567434324e-06
+12419,Franklin,White,22159,22159,0,11235,11235,2021-07-19,0.955870934345613,0.9586177474402732
+12420,Franklin,Unknown,295,295,0,133,133,2021-07-19,0.0127253903890949,0.0113481228668941
+12421,Franklin,Hispanic or Latino,266,266,0,128,128,2021-07-19,0.011474419808472,0.0109215017064846
+12422,Franklin,Other race,204,204,0,100,100,2021-07-19,0.0087999309809334,0.0085324232081911
+12423,Franklin,Asian,142,142,0,68,68,2021-07-19,0.0061254421533948,0.0058020477815699
+12424,Franklin,Black or African-American,87,87,0,40,40,2021-07-19,0.0037529117418686,0.0034129692832764
+12425,Franklin,American Indian or Alaska Nati,15,15,0,1,<10,2021-07-19,0.000647053748598,8.532423208191126e-05
+12426,Franklin,Native Hawaiian or Other Pacif,14,14,0,1,<10,2021-07-19,0.0006039168320248,8.532423208191126e-05
+12427,Will,White,423961,423961,0,208415,208415,2021-07-19,0.6049490526111517,0.6137398330889152
+12428,Will,Hispanic or Latino,96213,96213,0,44884,44884,2021-07-19,0.1372861258438317,0.132174261297713
+12429,Will,Black or African-American,61642,61642,0,29395,29395,2021-07-19,0.0879568391928894,0.0865623030667114
+12430,Will,Asian,52942,52942,0,25488,25488,2021-07-19,0.0755428276264552,0.0750569818188243
+12431,Will,Unknown,34723,34723,0,16418,16418,2021-07-19,0.0495461751288845,0.0483476744939366
+12432,Will,Other race,27348,27348,0,13057,13057,2021-07-19,0.0390228032550394,0.038450212319852
+12433,Will,American Indian or Alaska Nati,2738,2738,0,1316,1316,2021-07-19,0.0039068463987237,0.0038753526394214
+12434,Will,Native Hawaiian or Other Pacif,1221,1221,0,595,595,2021-07-19,0.0017422423129443,0.0017521541188873
+12435,Will,Middle Eastern or North Africa,10,10,0,1,<10,2021-07-19,1.4268978811993364e-05,2.944796838466114e-06
+12436,DeKalb,White,71137,71137,0,35034,35034,2021-07-19,0.7780232519987313,0.7861855392486872
+12437,DeKalb,Hispanic or Latino,8813,8813,0,4091,4091,2021-07-19,0.0963875187295615,0.0918046766303128
+12438,DeKalb,Black or African-American,3557,3557,0,1685,1685,2021-07-19,0.0389028031454726,0.0378124859745971
+12439,DeKalb,Asian,2717,2717,0,1298,1298,2021-07-19,0.0297157481434493,0.0291279565549122
+12440,DeKalb,Unknown,2699,2699,0,1249,1249,2021-07-19,0.0295188826791202,0.028028364974642
+12441,DeKalb,Other race,2118,2118,0,1022,1022,2021-07-19,0.0231645029693874,0.0229343386742067
+12442,DeKalb,American Indian or Alaska Nati,293,293,0,138,138,2021-07-19,0.0032045322804676,0.0030968089403527
+12443,DeKalb,Native Hawaiian or Other Pacif,92,92,0,42,42,2021-07-19,0.0010062012621263,0.000942507068803
+12444,DeKalb,Middle Eastern or North Africa,1,<10,0,1,<10,2021-07-19,1.0936970240503975e-05,2.2440644495309902e-05
+12445,White,White,7354,7354,0,3857,3857,2021-07-19,0.9063347300961302,0.9105288007554296
+12446,White,Unknown,480,480,0,237,237,2021-07-19,0.0591570125708651,0.0559490084985835
+12447,White,Hispanic or Latino,160,160,0,81,81,2021-07-19,0.0197190041902883,0.0191218130311614
+12448,White,Other race,41,41,0,20,20,2021-07-19,0.0050529948237614,0.0047214353163361
+12449,White,Asian,38,38,0,20,20,2021-07-19,0.0046832634951934,0.0047214353163361
+12450,White,Black or African-American,28,28,0,16,16,2021-07-19,0.0034508257333004,0.0037771482530689
+12451,White,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,0.0001232437761893,0.0002360717658168
+12452,White,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,0.0001232437761893,0.0002360717658168
+12453,Kane,White,334713,334713,0,166192,166192,2021-07-19,0.6244575620422159,0.6350865929900185
+12454,Kane,Hispanic or Latino,119989,119989,0,56325,56325,2021-07-19,0.2238575687585586,0.2152405190993717
+12455,Kane,Asian,26253,26253,0,12814,12814,2021-07-19,0.0489789293403432,0.0489674569327891
+12456,Kane,Black or African-American,19126,19126,0,9129,9129,2021-07-19,0.0356824363906374,0.0348855871967716
+12457,Kane,Other race,18538,18538,0,9042,9042,2021-07-19,0.0345854337451446,0.0345531251433026
+12458,Kane,Unknown,14917,14917,0,6963,6963,2021-07-19,0.0278299123517274,0.0266084284862658
+12459,Kane,American Indian or Alaska Nati,1545,1545,0,764,764,2021-07-19,0.0028824304205549,0.0029195518258663
+12460,Kane,Native Hawaiian or Other Pacif,886,886,0,435,435,2021-07-19,0.0016529665712697,0.0016623102673453
+12461,Kane,Middle Eastern or North Africa,14,14,0,1,<10,2021-07-19,2.6119110606970816e-05,3.821402913437581e-06
+12462,Carroll,White,9038,9038,0,4818,4818,2021-07-19,0.9196174196174196,0.925115207373272
+12463,Carroll,Unknown,346,346,0,171,171,2021-07-19,0.0352055352055352,0.0328341013824884
+12464,Carroll,Hispanic or Latino,181,181,0,91,91,2021-07-19,0.0184167684167684,0.0174731182795698
+12465,Carroll,Other race,146,146,0,72,72,2021-07-19,0.0148555148555148,0.0138248847926267
+12466,Carroll,Black or African-American,51,51,0,24,24,2021-07-19,0.0051892551892551,0.0046082949308755
+12467,Carroll,Asian,39,39,0,19,19,2021-07-19,0.0039682539682539,0.0036482334869431
+12468,Carroll,American Indian or Alaska Nati,23,23,0,11,11,2021-07-19,0.0023402523402523,0.0021121351766513
+12469,Carroll,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,0.0001017501017501,0.0001920122887864
+12470,McHenry,White,251018,251018,0,123372,123372,2021-07-19,0.8033552880030211,0.8112736072386764
+12471,McHenry,Hispanic or Latino,29068,29068,0,13365,13365,2021-07-19,0.0930289123157376,0.0878860013677731
+12472,McHenry,Asian,11162,11162,0,5399,5399,2021-07-19,0.0357227438856564,0.0355029196696301
+12473,McHenry,Other race,8122,8122,0,3789,3789,2021-07-19,0.0259935608169953,0.0249158293439949
+12474,McHenry,Unknown,7914,7914,0,3663,3663,2021-07-19,0.0253278798701922,0.0240872744489452
+12475,McHenry,Black or African-American,3593,3593,0,1718,1718,2021-07-19,0.0114989982781906,0.0112972802356778
+12476,McHenry,American Indian or Alaska Nati,1067,1067,0,508,508,2021-07-19,0.0034148152415333,0.0033405229102004
+12477,McHenry,Native Hawaiian or Other Pacif,492,492,0,245,245,2021-07-19,0.0015745914703227,0.0016110789625966
+12478,McHenry,Middle Eastern or North Africa,1,<10,0,1,<10,2021-07-19,3.2003891673227463e-06,6.57583250039455e-06
+12479,Edgar,White,10376,10376,0,5402,5402,2021-07-19,0.9618985816260314,0.9629233511586452
+12480,Edgar,Hispanic or Latino,126,126,0,73,73,2021-07-19,0.0116807268007787,0.01301247771836
+12481,Edgar,Unknown,129,129,0,59,59,2021-07-19,0.0119588393436543,0.0105169340463458
+12482,Edgar,Asian,73,73,0,38,38,2021-07-19,0.0067674052099749,0.0067736185383244
+12483,Edgar,Other race,47,47,0,21,21,2021-07-19,0.0043570965050523,0.0037433155080213
+12484,Edgar,Black or African-American,27,27,0,13,13,2021-07-19,0.0025030128858811,0.0023172905525846
+12485,Edgar,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,9.270418095856124e-05,0.0001782531194295
+12486,Edgar,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,9.270418095856124e-05,0.0001782531194295
+12487,Clark,White,9574,9574,0,4834,4834,2021-07-19,0.9567302887978416,0.958556414832441
+12488,Clark,Unknown,175,175,0,78,78,2021-07-19,0.0174877585690017,0.015466983938132
+12489,Clark,Hispanic or Latino,134,134,0,70,70,2021-07-19,0.013390626561407,0.0138806266111441
+12490,Clark,Other race,47,47,0,22,22,2021-07-19,0.004696712301389,0.0043624826492167
+12491,Clark,Asian,45,45,0,22,22,2021-07-19,0.0044968522034575,0.0043624826492167
+12492,Clark,Black or African-American,17,17,0,1,<10,2021-07-19,0.0016988108324173,0.0001982946658734
+12493,Clark,Native Hawaiian or Other Pacif,14,14,0,1,<10,2021-07-19,0.0013990206855201,0.0001982946658734
+12494,Clark,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,9.9930048965724e-05,0.0001982946658734
+12495,Edwards,White,3070,3070,0,1600,1600,2021-07-19,0.9560884459669884,0.9540846750149076
+12496,Edwards,Unknown,81,81,0,44,44,2021-07-19,0.0252257863593895,0.0262373285629099
+12497,Edwards,Asian,27,27,0,16,16,2021-07-19,0.0084085954531298,0.009540846750149
+12498,Edwards,Hispanic or Latino,10,10,0,1,<10,2021-07-19,0.0031142946122703,0.0005963029218843
+12499,Edwards,Other race,10,10,0,1,<10,2021-07-19,0.0031142946122703,0.0005963029218843
+12500,Edwards,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,0.000311429461227,0.0005963029218843
+12501,Edwards,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,0.000311429461227,0.0005963029218843
+12502,Edwards,Black or African-American,1,<10,0,1,<10,2021-07-19,0.000311429461227,0.0005963029218843
+12503,Boone,White,35450,35450,0,17681,17681,2021-07-19,0.7368989959881098,0.7483070932791603
+12504,Boone,Hispanic or Latino,7943,7943,0,3686,3686,2021-07-19,0.1651111064917787,0.1560013543253766
+12505,Boone,Unknown,1872,1872,0,884,884,2021-07-19,0.0389132558671295,0.0374132385305569
+12506,Boone,Other race,1172,1172,0,574,574,2021-07-19,0.0243623589082669,0.0242932114440494
+12507,Boone,Black or African-American,803,803,0,381,381,2021-07-19,0.0166919575113808,0.0161249365159979
+12508,Boone,Asian,606,606,0,300,300,2021-07-19,0.0125969193672438,0.0126968004062976
+12509,Boone,American Indian or Alaska Nati,185,185,0,86,86,2021-07-19,0.0038455941962708,0.0036397494498053
+12510,Boone,Native Hawaiian or Other Pacif,75,75,0,35,35,2021-07-19,0.0015590246741638,0.0014812933807347
+12511,Pope,White,1828,1828,0,916,916,2021-07-19,0.9199798691494716,0.924318869828456
+12512,Pope,Unknown,107,107,0,52,52,2021-07-19,0.0538500251635631,0.0524722502522704
+12513,Pope,Other race,27,27,0,15,15,2021-07-19,0.0135883241066935,0.0151362260343087
+12514,Pope,Black or African-American,14,14,0,1,<10,2021-07-19,0.0070457976849521,0.0010090817356205
+12515,Pope,Asian,1,<10,0,1,<10,2021-07-19,0.0005032712632108,0.0010090817356205
+12516,Pope,Hispanic or Latino,1,<10,0,1,<10,2021-07-19,0.0005032712632108,0.0010090817356205
+12517,Johnson,White,6698,6698,0,3355,3355,2021-07-19,0.8113870381586917,0.8115626511852927
+12518,Johnson,Black or African-American,910,910,0,461,461,2021-07-19,0.1102362204724409,0.1115142718916303
+12519,Johnson,Hispanic or Latino,364,364,0,178,178,2021-07-19,0.0440944881889763,0.0430575713594581
+12520,Johnson,Unknown,170,170,0,83,83,2021-07-19,0.0205935796486977,0.0200774068698597
+12521,Johnson,Other race,82,82,0,40,40,2021-07-19,0.0099333737129012,0.0096758587324625
+12522,Johnson,Asian,24,24,0,12,12,2021-07-19,0.0029073288915808,0.0029027576197387
+12523,Johnson,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,0.0001211387038158,0.0002418964683115
+12524,Johnson,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,0.0001211387038158,0.0002418964683115
+12525,Henderson,White,2464,2464,0,1300,1300,2021-07-19,0.9045521292217328,0.912280701754386
+12526,Henderson,Unknown,216,216,0,102,102,2021-07-19,0.079295154185022,0.071578947368421
+12527,Henderson,Other race,18,18,0,1,<10,2021-07-19,0.0066079295154185,0.0007017543859649
+12528,Henderson,Hispanic or Latino,12,12,0,1,<10,2021-07-19,0.0044052863436123,0.0007017543859649
+12529,Henderson,Black or African-American,10,10,0,1,<10,2021-07-19,0.0036710719530102,0.0007017543859649
+12530,Henderson,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,0.000367107195301,0.0007017543859649
+12531,Henderson,Asian,1,<10,0,1,<10,2021-07-19,0.000367107195301,0.0007017543859649
+12532,Shelby,White,10820,10820,0,6089,6089,2021-07-19,0.9611797104024162,0.9620793174277136
+12533,Shelby,Unknown,207,207,0,109,109,2021-07-19,0.0183885582304343,0.01722231000158
+12534,Shelby,Hispanic or Latino,86,86,0,49,49,2021-07-19,0.007639690859021,0.0077421393585084
+12535,Shelby,Other race,66,66,0,36,36,2021-07-19,0.0058630185662254,0.0056881023858429
+12536,Shelby,Asian,38,38,0,22,22,2021-07-19,0.0033756773563116,0.0034760625691262
+12537,Shelby,Black or African-American,29,29,0,16,16,2021-07-19,0.0025761748245536,0.002528045504819
+12538,Shelby,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,8.883361463977969e-05,0.0001580028440511
+12539,Shelby,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,8.883361463977969e-05,0.0001580028440511
+12540,Fayette,White,9225,9225,0,4793,4793,2021-07-19,0.929283771532185,0.9272586573805378
+12541,Fayette,Unknown,247,247,0,122,122,2021-07-19,0.0248816359423793,0.0236022441478042
+12542,Fayette,Hispanic or Latino,168,168,0,98,98,2021-07-19,0.0169235418555454,0.0189591797252853
+12543,Fayette,Other race,123,123,0,69,69,2021-07-19,0.0123904502870958,0.0133488102147417
+12544,Fayette,Black or African-American,102,102,0,55,55,2021-07-19,0.0102750075551526,0.0106403559682723
+12545,Fayette,Asian,44,44,0,24,24,2021-07-19,0.0044323562002619,0.0046430644225188
+12546,Fayette,Native Hawaiian or Other Pacif,10,10,0,1,<10,2021-07-19,0.0010073536818777,0.0001934610176049
+12547,Fayette,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,0.0001007353681877,0.0001934610176049
+12548,Pulaski,White,1527,1527,0,768,768,2021-07-19,0.6263330598851518,0.6198547215496368
+12549,Pulaski,Black or African-American,628,628,0,312,312,2021-07-19,0.2575881870385562,0.2518159806295399
+12550,Pulaski,Unknown,175,175,0,110,110,2021-07-19,0.071780147662018,0.0887812752219531
+12551,Pulaski,Other race,48,48,0,23,23,2021-07-19,0.0196882690730106,0.0185633575464083
+12552,Pulaski,Hispanic or Latino,32,32,0,12,12,2021-07-19,0.0131255127153404,0.009685230024213
+12553,Pulaski,Asian,15,15,0,1,<10,2021-07-19,0.0061525840853158,0.0008071025020177
+12554,Pulaski,American Indian or Alaska Nati,13,13,0,1,<10,2021-07-19,0.005332239540607,0.0008071025020177
+12555,Massac,White,6564,6564,0,3240,3240,2021-07-19,0.827012725211037,0.833976833976834
+12556,Massac,Unknown,631,631,0,300,300,2021-07-19,0.0795010709336021,0.0772200772200772
+12557,Massac,Black or African-American,531,531,0,249,249,2021-07-19,0.0669018520851707,0.064092664092664
+12558,Massac,Other race,88,88,0,41,41,2021-07-19,0.0110873125866196,0.0105534105534105
+12559,Massac,Hispanic or Latino,81,81,0,33,33,2021-07-19,0.0102053672672294,0.0084942084942084
+12560,Massac,Asian,24,24,0,13,13,2021-07-19,0.0030238125236235,0.0033462033462033
+12561,Massac,American Indian or Alaska Nati,11,11,0,1,<10,2021-07-19,0.0013859140733274,0.0002574002574002
+12562,Massac,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,0.0001259921884843,0.0002574002574002
+12563,Alexander,White,1056,1056,0,519,519,2021-07-19,0.5723577235772358,0.574750830564784
+12564,Alexander,Black or African-American,625,625,0,305,305,2021-07-19,0.3387533875338753,0.3377630121816168
+12565,Alexander,Unknown,125,125,0,60,60,2021-07-19,0.067750677506775,0.0664451827242525
+12566,Alexander,Other race,20,20,0,10,10,2021-07-19,0.010840108401084,0.0110741971207087
+12567,Alexander,Hispanic or Latino,14,14,0,1,<10,2021-07-19,0.0075880758807588,0.0011074197120708
+12568,Alexander,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,0.0005420054200542,0.0011074197120708
+12569,Alexander,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,0.0005420054200542,0.0011074197120708
+12845,Iroquois,White,16746,16746,0,8504,8504,2021-07-19,,
+12846,Iroquois,Hispanic or Latino,1177,1177,0,598,598,2021-07-19,,
+12847,Iroquois,Unknown,448,448,0,223,223,2021-07-19,,
+12848,Iroquois,Other race,264,264,0,138,138,2021-07-19,,
+12849,Iroquois,Black or African-American,164,164,0,82,82,2021-07-19,,
+12850,Iroquois,Asian,145,145,0,69,69,2021-07-19,,
+12851,Iroquois,American Indian or Alaska Nati,16,16,0,1,<10,2021-07-19,,
+12852,Iroquois,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
+12853,Saline,White,13850,13850,0,7252,7252,2021-07-19,,
+12854,Saline,Black or African-American,345,345,0,168,168,2021-07-19,,
+12855,Saline,Unknown,297,297,0,140,140,2021-07-19,,
+12856,Saline,Hispanic or Latino,150,150,0,76,76,2021-07-19,,
+12857,Saline,Other race,113,113,0,59,59,2021-07-19,,
+12858,Saline,Asian,108,108,0,52,52,2021-07-19,,
+12859,Saline,American Indian or Alaska Nati,15,15,0,1,<10,2021-07-19,,
+12860,Saline,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
+12861,Hardin,White,1891,1891,0,941,941,2021-07-19,,
+12862,Hardin,Unknown,32,32,0,14,14,2021-07-19,,
+12863,Hardin,Other race,20,20,0,10,10,2021-07-19,,
+12864,Hardin,Hispanic or Latino,19,19,0,10,10,2021-07-19,,
+12865,Hardin,Asian,16,16,0,1,<10,2021-07-19,,
+12866,Hardin,Black or African-American,1,<10,0,1,<10,2021-07-19,,
+12867,Hardin,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,,
+12868,McDonough,White,19132,19132,0,9998,9998,2021-07-19,,
+12869,McDonough,Unknown,759,759,0,362,362,2021-07-19,,
+12870,McDonough,Black or African-American,668,668,0,328,328,2021-07-19,,
+12871,McDonough,Asian,524,524,0,268,268,2021-07-19,,
+12872,McDonough,Other race,327,327,0,160,160,2021-07-19,,
+12873,McDonough,Hispanic or Latino,317,317,0,156,156,2021-07-19,,
+12874,McDonough,American Indian or Alaska Nati,57,57,0,31,31,2021-07-19,,
+12875,McDonough,Native Hawaiian or Other Pacif,15,15,0,1,<10,2021-07-19,,
+12876,Mercer,White,12154,12154,0,6109,6109,2021-07-19,,
+12877,Mercer,Unknown,451,451,0,223,223,2021-07-19,,
+12878,Mercer,Hispanic or Latino,188,188,0,89,89,2021-07-19,,
+12879,Mercer,Other race,120,120,0,58,58,2021-07-19,,
+12880,Mercer,Black or African-American,64,64,0,33,33,2021-07-19,,
+12881,Mercer,Asian,39,39,0,20,20,2021-07-19,,
+12882,Mercer,American Indian or Alaska Nati,14,14,0,1,<10,2021-07-19,,
+12883,Mercer,Native Hawaiian or Other Pacif,12,12,0,1,<10,2021-07-19,,
+12884,Jasper,White,5955,5955,0,2977,2977,2021-07-19,,
+12885,Jasper,Unknown,48,48,0,25,25,2021-07-19,,
+12886,Jasper,Other race,37,37,0,17,17,2021-07-19,,
+12887,Jasper,Hispanic or Latino,27,27,0,13,13,2021-07-19,,
+12888,Jasper,Asian,15,15,0,1,<10,2021-07-19,,
+12889,Jasper,Black or African-American,15,15,0,1,<10,2021-07-19,,
+12890,Jasper,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,,
+12891,Jasper,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
+12892,Henry,White,39164,39164,0,19699,19699,2021-07-19,,
+12893,Henry,Hispanic or Latino,1509,1509,0,741,741,2021-07-19,,
+12894,Henry,Unknown,1454,1454,0,649,649,2021-07-19,,
+12895,Henry,Other race,591,591,0,295,295,2021-07-19,,
+12896,Henry,Black or African-American,490,490,0,234,234,2021-07-19,,
+12897,Henry,Asian,230,230,0,113,113,2021-07-19,,
+12898,Henry,American Indian or Alaska Nati,65,65,0,34,34,2021-07-19,,
+12899,Henry,Native Hawaiian or Other Pacif,19,19,0,11,11,2021-07-19,,
+12900,Clay,White,6906,6906,0,3556,3556,2021-07-19,,
+12901,Clay,Hispanic or Latino,90,90,0,50,50,2021-07-19,,
+12902,Clay,Asian,78,78,0,40,40,2021-07-19,,
+12903,Clay,Black or African-American,52,52,0,26,26,2021-07-19,,
+12904,Clay,Unknown,45,45,0,21,21,2021-07-19,,
+12905,Clay,Other race,22,22,0,13,13,2021-07-19,,
+12906,Clay,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,,
+12907,Clay,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
+12908,Logan,White,19848,19848,0,10475,10475,2021-07-19,,
+12909,Logan,Unknown,1017,1017,0,521,521,2021-07-19,,
+12910,Logan,Other race,782,782,0,376,376,2021-07-19,,
+12911,Logan,Black or African-American,663,663,0,339,339,2021-07-19,,
+12912,Logan,Hispanic or Latino,335,335,0,180,180,2021-07-19,,
+12913,Logan,Asian,206,206,0,98,98,2021-07-19,,
+12914,Logan,American Indian or Alaska Nati,43,43,0,23,23,2021-07-19,,
+12915,Logan,Native Hawaiian or Other Pacif,34,34,0,16,16,2021-07-19,,
+12916,Cumberland,White,5833,5833,0,3041,3041,2021-07-19,,
+12917,Cumberland,Unknown,51,51,0,26,26,2021-07-19,,
+12918,Cumberland,Hispanic or Latino,40,40,0,22,22,2021-07-19,,
+12919,Cumberland,Other race,29,29,0,16,16,2021-07-19,,
+12920,Cumberland,Asian,16,16,0,1,<10,2021-07-19,,
+12921,Cumberland,Black or African-American,11,11,0,1,<10,2021-07-19,,
+12922,Cumberland,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
+12923,Gallatin,White,2980,2980,0,1548,1548,2021-07-19,,
+12924,Gallatin,Unknown,139,139,0,70,70,2021-07-19,,
+12925,Gallatin,Hispanic or Latino,36,36,0,18,18,2021-07-19,,
+12926,Gallatin,Other race,15,15,0,1,<10,2021-07-19,,
+12927,Gallatin,Black or African-American,11,11,0,1,<10,2021-07-19,,
+12928,Gallatin,Asian,1,<10,0,1,<10,2021-07-19,,
+12929,Gallatin,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,,
+12930,Perry,White,12571,12571,0,6371,6371,2021-07-19,,
+12931,Perry,Black or African-American,1097,1097,0,512,512,2021-07-19,,
+12932,Perry,Hispanic or Latino,373,373,0,182,182,2021-07-19,,
+12933,Perry,Other race,146,146,0,77,77,2021-07-19,,
+12934,Perry,Unknown,146,146,0,73,73,2021-07-19,,
+12935,Perry,Asian,107,107,0,50,50,2021-07-19,,
+12936,Perry,American Indian or Alaska Nati,19,19,0,11,11,2021-07-19,,
+12937,Perry,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
+12938,Richland,White,9650,9650,0,4959,4959,2021-07-19,,
+12939,Richland,Hispanic or Latino,157,157,0,79,79,2021-07-19,,
+12940,Richland,Unknown,136,136,0,66,66,2021-07-19,,
+12941,Richland,Asian,121,121,0,63,63,2021-07-19,,
+12942,Richland,Other race,59,59,0,28,28,2021-07-19,,
+12943,Richland,Black or African-American,43,43,0,22,22,2021-07-19,,
+12944,Richland,American Indian or Alaska Nati,14,14,0,1,<10,2021-07-19,,
+12945,Richland,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
+12946,Richland,Middle Eastern or North Africa,1,<10,0,1,<10,2021-07-19,,
+12947,Williamson,White,42654,42654,0,22045,22045,2021-07-19,,
+12948,Williamson,Black or African-American,1113,1113,0,588,588,2021-07-19,,
+12949,Williamson,Unknown,1046,1046,0,483,483,2021-07-19,,
+12950,Williamson,Other race,781,781,0,385,385,2021-07-19,,
+12951,Williamson,Asian,762,762,0,372,372,2021-07-19,,
+12952,Williamson,Hispanic or Latino,626,626,0,333,333,2021-07-19,,
+12953,Williamson,American Indian or Alaska Nati,63,63,0,33,33,2021-07-19,,
+12954,Williamson,Native Hawaiian or Other Pacif,41,41,0,22,22,2021-07-19,,
+12955,Kendall,White,90567,90567,0,44496,44496,2021-07-19,,
+12956,Kendall,Hispanic or Latino,20147,20147,0,9474,9474,2021-07-19,,
+12957,Kendall,Black or African-American,8368,8368,0,3941,3941,2021-07-19,,
+12958,Kendall,Asian,6140,6140,0,2940,2940,2021-07-19,,
+12959,Kendall,Other race,3837,3837,0,1891,1891,2021-07-19,,
+12960,Kendall,Unknown,3551,3551,0,1620,1620,2021-07-19,,
+12961,Kendall,American Indian or Alaska Nati,374,374,0,191,191,2021-07-19,,
+12962,Kendall,Native Hawaiian or Other Pacif,217,217,0,106,106,2021-07-19,,
+12963,St. Clair,White,151384,151384,0,76002,76002,2021-07-19,,
+12964,St. Clair,Black or African-American,45483,45483,0,22010,22010,2021-07-19,,
+12965,St. Clair,Hispanic or Latino,6816,6816,0,3333,3333,2021-07-19,,
+12966,St. Clair,Unknown,5364,5364,0,2538,2538,2021-07-19,,
+12967,St. Clair,Asian,4811,4811,0,2378,2378,2021-07-19,,
+12968,St. Clair,Other race,2742,2742,0,1221,1221,2021-07-19,,
+12969,St. Clair,American Indian or Alaska Nati,742,742,0,351,351,2021-07-19,,
+12970,St. Clair,Native Hawaiian or Other Pacif,497,497,0,243,243,2021-07-19,,
+12971,Monroe,White,25091,25091,0,12582,12582,2021-07-19,,
+12972,Monroe,Unknown,5801,5801,0,2954,2954,2021-07-19,,
+12973,Monroe,Other race,670,670,0,333,333,2021-07-19,,
+12974,Monroe,Hispanic or Latino,178,178,0,83,83,2021-07-19,,
+12975,Monroe,Asian,128,128,0,59,59,2021-07-19,,
+12976,Monroe,Black or African-American,76,76,0,37,37,2021-07-19,,
+12977,Monroe,American Indian or Alaska Nati,33,33,0,15,15,2021-07-19,,
+12978,Monroe,Native Hawaiian or Other Pacif,22,22,0,12,12,2021-07-19,,
+12979,Livingston,White,24768,24768,0,12464,12464,2021-07-19,,
+12980,Livingston,Unknown,894,894,0,449,449,2021-07-19,,
+12981,Livingston,Hispanic or Latino,648,648,0,299,299,2021-07-19,,
+12982,Livingston,Other race,622,622,0,272,272,2021-07-19,,
+12983,Livingston,Black or African-American,436,436,0,211,211,2021-07-19,,
+12984,Livingston,Asian,179,179,0,85,85,2021-07-19,,
+12985,Livingston,American Indian or Alaska Nati,58,58,0,31,31,2021-07-19,,
+12986,Livingston,Native Hawaiian or Other Pacif,14,14,0,1,<10,2021-07-19,,
+12987,Macon,White,65356,65356,0,33114,33114,2021-07-19,,
+12988,Macon,Black or African-American,9049,9049,0,4420,4420,2021-07-19,,
+12989,Macon,Unknown,1456,1456,0,761,761,2021-07-19,,
+12990,Macon,Asian,1565,1565,0,757,757,2021-07-19,,
+12991,Macon,Hispanic or Latino,995,995,0,494,494,2021-07-19,,
+12992,Macon,Other race,917,917,0,463,463,2021-07-19,,
+12993,Macon,American Indian or Alaska Nati,188,188,0,93,93,2021-07-19,,
+12994,Macon,Native Hawaiian or Other Pacif,130,130,0,66,66,2021-07-19,,
+12995,DuPage,White,672278,672278,0,331467,331467,2021-07-19,,
+12996,DuPage,Asian,134273,134273,0,64253,64253,2021-07-19,,
+12997,DuPage,Hispanic or Latino,92859,92859,0,43345,43345,2021-07-19,,
+12998,DuPage,Unknown,64343,64343,0,30622,30622,2021-07-19,,
+12999,DuPage,Other race,51528,51528,0,24699,24699,2021-07-19,,
+13000,DuPage,Black or African-American,32929,32929,0,15664,15664,2021-07-19,,
+13001,DuPage,American Indian or Alaska Nati,4686,4686,0,2249,2249,2021-07-19,,
+13002,DuPage,Native Hawaiian or Other Pacif,3036,3036,0,1485,1485,2021-07-19,,
+13003,DuPage,Middle Eastern or North Africa,24,24,0,11,11,2021-07-19,,
+13004,Wabash,White,6982,6982,0,3588,3588,2021-07-19,,
+13005,Wabash,Unknown,101,101,0,54,54,2021-07-19,,
+13006,Wabash,Hispanic or Latino,63,63,0,32,32,2021-07-19,,
+13007,Wabash,Asian,46,46,0,22,22,2021-07-19,,
+13008,Wabash,Other race,39,39,0,20,20,2021-07-19,,
+13009,Wabash,Black or African-American,21,21,0,10,10,2021-07-19,,
+13010,Wabash,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
+13011,Wabash,Middle Eastern or North Africa,1,<10,0,1,<10,2021-07-19,,
+13012,Wabash,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,,
+13013,LaSalle,White,84866,84866,0,41493,41493,2021-07-19,,
+13014,LaSalle,Hispanic or Latino,5731,5731,0,2531,2531,2021-07-19,,
+13015,LaSalle,Other race,2758,2758,0,1352,1352,2021-07-19,,
+13016,LaSalle,Unknown,2791,2791,0,1320,1320,2021-07-19,,
+13017,LaSalle,Black or African-American,1069,1069,0,535,535,2021-07-19,,
+13018,LaSalle,Asian,900,900,0,421,421,2021-07-19,,
+13019,LaSalle,American Indian or Alaska Nati,226,226,0,107,107,2021-07-19,,
+13020,LaSalle,Native Hawaiian or Other Pacif,67,67,0,33,33,2021-07-19,,
+13021,Christian,White,20574,20574,0,10508,10508,2021-07-19,,
+13022,Christian,Unknown,677,677,0,331,331,2021-07-19,,
+13023,Christian,Hispanic or Latino,246,246,0,105,105,2021-07-19,,
+13024,Christian,Other race,161,161,0,83,83,2021-07-19,,
+13025,Christian,Black or African-American,175,175,0,79,79,2021-07-19,,
+13026,Christian,Asian,145,145,0,75,75,2021-07-19,,
+13027,Christian,American Indian or Alaska Nati,40,40,0,20,20,2021-07-19,,
+13028,Christian,Native Hawaiian or Other Pacif,14,14,0,1,<10,2021-07-19,,
+13029,Cook,White,1485511,1485511,0,737435,737435,2021-07-19,,
+13030,Cook,Hispanic or Latino,426501,426501,0,204456,204456,2021-07-19,,
+13031,Cook,Black or African-American,315374,315374,0,153041,153041,2021-07-19,,
+13032,Cook,Asian,256788,256788,0,124582,124582,2021-07-19,,
+13033,Cook,Other race,131244,131244,0,62897,62897,2021-07-19,,
+13034,Cook,Unknown,101867,101867,0,47550,47550,2021-07-19,,
+13035,Cook,American Indian or Alaska Nati,11439,11439,0,5539,5539,2021-07-19,,
+13036,Cook,Native Hawaiian or Other Pacif,6548,6548,0,3201,3201,2021-07-19,,
+13037,Cook,Middle Eastern or North Africa,193,193,0,94,94,2021-07-19,,
+13038,Stephenson,White,30551,30551,0,15672,15672,2021-07-19,,
+13039,Stephenson,Black or African-American,2195,2195,0,1108,1108,2021-07-19,,
+13040,Stephenson,Hispanic or Latino,789,789,0,393,393,2021-07-19,,
+13041,Stephenson,Unknown,633,633,0,300,300,2021-07-19,,
+13042,Stephenson,Other race,393,393,0,196,196,2021-07-19,,
+13043,Stephenson,Asian,254,254,0,125,125,2021-07-19,,
+13044,Stephenson,American Indian or Alaska Nati,95,95,0,47,47,2021-07-19,,
+13045,Stephenson,Native Hawaiian or Other Pacif,27,27,0,14,14,2021-07-19,,
+13046,Whiteside,White,38575,38575,0,19734,19734,2021-07-19,,
+13047,Whiteside,Hispanic or Latino,4039,4039,0,2021,2021,2021-07-19,,
+13048,Whiteside,Unknown,1503,1503,0,731,731,2021-07-19,,
+13049,Whiteside,Other race,1089,1089,0,535,535,2021-07-19,,
+13050,Whiteside,Black or African-American,568,568,0,285,285,2021-07-19,,
+13051,Whiteside,Asian,299,299,0,154,154,2021-07-19,,
+13052,Whiteside,American Indian or Alaska Nati,80,80,0,40,40,2021-07-19,,
+13053,Whiteside,Native Hawaiian or Other Pacif,47,47,0,23,23,2021-07-19,,
+13054,Mason,White,10259,10259,0,5249,5249,2021-07-19,,
+13055,Mason,Unknown,226,226,0,130,130,2021-07-19,,
+13056,Mason,Other race,101,101,0,57,57,2021-07-19,,
+13057,Mason,Hispanic or Latino,72,72,0,36,36,2021-07-19,,
+13058,Mason,Black or African-American,43,43,0,23,23,2021-07-19,,
+13059,Mason,Asian,31,31,0,15,15,2021-07-19,,
+13060,Mason,American Indian or Alaska Nati,24,24,0,11,11,2021-07-19,,
+13061,Mason,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
+13062,Wayne,White,8685,8685,0,4404,4404,2021-07-19,,
+13063,Wayne,Unknown,192,192,0,93,93,2021-07-19,,
+13064,Wayne,Hispanic or Latino,123,123,0,59,59,2021-07-19,,
+13065,Wayne,Other race,49,49,0,23,23,2021-07-19,,
+13066,Wayne,Black or African-American,38,38,0,19,19,2021-07-19,,
+13067,Wayne,Asian,45,45,0,18,18,2021-07-19,,
+13068,Wayne,American Indian or Alaska Nati,18,18,0,1,<10,2021-07-19,,
+13069,Wayne,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
+13070,Ogle,White,37291,37291,0,18877,18877,2021-07-19,,
+13071,Ogle,Hispanic or Latino,2834,2834,0,1245,1245,2021-07-19,,
+13072,Ogle,Unknown,2092,2092,0,1003,1003,2021-07-19,,
+13073,Ogle,Other race,662,662,0,341,341,2021-07-19,,
+13074,Ogle,Black or African-American,333,333,0,157,157,2021-07-19,,
+13075,Ogle,Asian,228,228,0,113,113,2021-07-19,,
+13076,Ogle,American Indian or Alaska Nati,58,58,0,34,34,2021-07-19,,
+13077,Ogle,Native Hawaiian or Other Pacif,27,27,0,14,14,2021-07-19,,
+13078,Ogle,Middle Eastern or North Africa,1,<10,0,1,<10,2021-07-19,,
+13079,Lawrence,White,7120,7120,0,3686,3686,2021-07-19,,
+13080,Lawrence,Black or African-American,1133,1133,0,545,545,2021-07-19,,
+13081,Lawrence,Unknown,833,833,0,407,407,2021-07-19,,
+13082,Lawrence,Hispanic or Latino,382,382,0,181,181,2021-07-19,,
+13083,Lawrence,Other race,104,104,0,55,55,2021-07-19,,
+13084,Lawrence,Asian,20,20,0,11,11,2021-07-19,,
+13085,Lawrence,American Indian or Alaska Nati,13,13,0,1,<10,2021-07-19,,
+13086,Lawrence,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
+13087,Madison,White,193671,193671,0,98855,98855,2021-07-19,,
+13088,Madison,Black or African-American,12898,12898,0,6312,6312,2021-07-19,,
+13089,Madison,Unknown,5544,5544,0,2651,2651,2021-07-19,,
+13090,Madison,Hispanic or Latino,5363,5363,0,2635,2635,2021-07-19,,
+13091,Madison,Asian,3267,3267,0,1638,1638,2021-07-19,,
+13092,Madison,Other race,2891,2891,0,1326,1326,2021-07-19,,
+13093,Madison,American Indian or Alaska Nati,596,596,0,301,301,2021-07-19,,
+13094,Madison,Native Hawaiian or Other Pacif,246,246,0,123,123,2021-07-19,,
+13095,Rock Island,White,86068,86068,0,42092,42092,2021-07-19,,
+13096,Rock Island,Hispanic or Latino,8646,8646,0,3947,3947,2021-07-19,,
+13097,Rock Island,Black or African-American,6726,6726,0,3150,3150,2021-07-19,,
+13098,Rock Island,Unknown,7249,7249,0,3073,3073,2021-07-19,,
+13099,Rock Island,Asian,2900,2900,0,1344,1344,2021-07-19,,
+13100,Rock Island,Other race,2775,2775,0,1260,1260,2021-07-19,,
+13101,Rock Island,American Indian or Alaska Nati,297,297,0,138,138,2021-07-19,,
+13102,Rock Island,Native Hawaiian or Other Pacif,124,124,0,58,58,2021-07-19,,
+13103,Montgomery,White,20763,20763,0,10196,10196,2021-07-19,,
+13104,Montgomery,Black or African-American,649,649,0,290,290,2021-07-19,,
+13105,Montgomery,Hispanic or Latino,305,305,0,146,146,2021-07-19,,
+13106,Montgomery,Other race,272,272,0,145,145,2021-07-19,,
+13107,Montgomery,Unknown,299,299,0,140,140,2021-07-19,,
+13108,Montgomery,Asian,136,136,0,70,70,2021-07-19,,
+13109,Montgomery,American Indian or Alaska Nati,47,47,0,23,23,2021-07-19,,
+13110,Montgomery,Native Hawaiian or Other Pacif,10,10,0,1,<10,2021-07-19,,
+13111,Hamilton,White,3568,3568,0,1874,1874,2021-07-19,,
+13112,Hamilton,Unknown,158,158,0,77,77,2021-07-19,,
+13113,Hamilton,Other race,40,40,0,20,20,2021-07-19,,
+13114,Hamilton,Hispanic or Latino,22,22,0,10,10,2021-07-19,,
+13115,Hamilton,Asian,17,17,0,10,10,2021-07-19,,
+13116,Hamilton,Black or African-American,13,13,0,1,<10,2021-07-19,,
+13117,Hamilton,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
+13118,Jefferson,White,20149,20149,0,9928,9928,2021-07-19,,
+13119,Jefferson,Black or African-American,1367,1367,0,647,647,2021-07-19,,
+13120,Jefferson,Unknown,1140,1140,0,545,545,2021-07-19,,
+13121,Jefferson,Other race,592,592,0,289,289,2021-07-19,,
+13122,Jefferson,Hispanic or Latino,626,626,0,282,282,2021-07-19,,
+13123,Jefferson,Asian,334,334,0,162,162,2021-07-19,,
+13124,Jefferson,American Indian or Alaska Nati,45,45,0,22,22,2021-07-19,,
+13125,Jefferson,Native Hawaiian or Other Pacif,18,18,0,1,<10,2021-07-19,,
+13126,Jackson,White,33029,33029,0,17225,17225,2021-07-19,,
+13127,Jackson,Black or African-American,3845,3845,0,2016,2016,2021-07-19,,
+13128,Jackson,Asian,1828,1828,0,925,925,2021-07-19,,
+13129,Jackson,Hispanic or Latino,1646,1646,0,870,870,2021-07-19,,
+13130,Jackson,Unknown,1028,1028,0,486,486,2021-07-19,,
+13131,Jackson,Other race,964,964,0,484,484,2021-07-19,,
+13132,Jackson,American Indian or Alaska Nati,96,96,0,48,48,2021-07-19,,
+13133,Jackson,Native Hawaiian or Other Pacif,56,56,0,29,29,2021-07-19,,
+13134,Lee,White,26454,26454,0,13559,13559,2021-07-19,,
+13135,Lee,Black or African-American,1284,1284,0,623,623,2021-07-19,,
+13136,Lee,Hispanic or Latino,1143,1143,0,569,569,2021-07-19,,
+13137,Lee,Unknown,1134,1134,0,552,552,2021-07-19,,
+13138,Lee,Other race,763,763,0,379,379,2021-07-19,,
+13139,Lee,Asian,205,205,0,105,105,2021-07-19,,
+13140,Lee,American Indian or Alaska Nati,61,61,0,28,28,2021-07-19,,
+13141,Lee,Native Hawaiian or Other Pacif,18,18,0,1,<10,2021-07-19,,
+13142,McLean,White,133872,133872,0,66987,66987,2021-07-19,,
+13143,McLean,Asian,9765,9765,0,4712,4712,2021-07-19,,
+13144,McLean,Black or African-American,9465,9465,0,4581,4581,2021-07-19,,
+13145,McLean,Hispanic or Latino,6438,6438,0,3068,3068,2021-07-19,,
+13146,McLean,Unknown,4313,4313,0,2025,2025,2021-07-19,,
+13147,McLean,Other race,3137,3137,0,1527,1527,2021-07-19,,
+13148,McLean,American Indian or Alaska Nati,415,415,0,197,197,2021-07-19,,
+13149,McLean,Native Hawaiian or Other Pacif,195,195,0,102,102,2021-07-19,,
+13150,Moultrie,White,8227,8227,0,4446,4446,2021-07-19,,
+13151,Moultrie,Unknown,143,143,0,75,75,2021-07-19,,
+13152,Moultrie,Hispanic or Latino,70,70,0,34,34,2021-07-19,,
+13153,Moultrie,Other race,63,63,0,32,32,2021-07-19,,
+13154,Moultrie,Asian,34,34,0,19,19,2021-07-19,,
+13155,Moultrie,Black or African-American,36,36,0,18,18,2021-07-19,,
+13156,Moultrie,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,,
+13157,Moultrie,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
+13158,Kankakee,White,59048,59048,0,30034,30034,2021-07-19,,
+13159,Kankakee,Black or African-American,7975,7975,0,4021,4021,2021-07-19,,
+13160,Kankakee,Hispanic or Latino,6222,6222,0,3166,3166,2021-07-19,,
+13161,Kankakee,Other race,1933,1933,0,930,930,2021-07-19,,
+13162,Kankakee,Unknown,1646,1646,0,789,789,2021-07-19,,
+13163,Kankakee,Asian,1123,1123,0,564,564,2021-07-19,,
+13164,Kankakee,American Indian or Alaska Nati,220,220,0,113,113,2021-07-19,,
+13165,Kankakee,Native Hawaiian or Other Pacif,50,50,0,27,27,2021-07-19,,
+13166,Bureau,White,24847,24847,0,12199,12199,2021-07-19,,
+13167,Bureau,Hispanic or Latino,1595,1595,0,741,741,2021-07-19,,
+13168,Bureau,Unknown,743,743,0,327,327,2021-07-19,,
+13169,Bureau,Other race,483,483,0,242,242,2021-07-19,,
+13170,Bureau,Asian,223,223,0,99,99,2021-07-19,,
+13171,Bureau,Black or African-American,181,181,0,85,85,2021-07-19,,
+13172,Bureau,Native Hawaiian or Other Pacif,27,27,0,12,12,2021-07-19,,
+13173,Bureau,American Indian or Alaska Nati,24,24,0,11,11,2021-07-19,,
+13174,Effingham,White,21900,21900,0,11060,11060,2021-07-19,,
+13175,Effingham,Unknown,524,524,0,251,251,2021-07-19,,
+13176,Effingham,Hispanic or Latino,460,460,0,218,218,2021-07-19,,
+13177,Effingham,Asian,218,218,0,104,104,2021-07-19,,
+13178,Effingham,Other race,182,182,0,84,84,2021-07-19,,
+13179,Effingham,Black or African-American,68,68,0,32,32,2021-07-19,,
+13180,Effingham,Native Hawaiian or Other Pacif,40,40,0,22,22,2021-07-19,,
+13181,Effingham,American Indian or Alaska Nati,14,14,0,1,<10,2021-07-19,,
+13182,Effingham,Middle Eastern or North Africa,1,<10,0,1,<10,2021-07-19,,
+13183,Vermilion,White,37157,37157,0,20053,20053,2021-07-19,,
+13184,Vermilion,Black or African-American,3658,3658,0,1911,1911,2021-07-19,,
+13185,Vermilion,Unknown,1624,1624,0,799,799,2021-07-19,,
+13186,Vermilion,Hispanic or Latino,1352,1352,0,722,722,2021-07-19,,
+13187,Vermilion,Other race,1201,1201,0,647,647,2021-07-19,,
+13188,Vermilion,Asian,512,512,0,252,252,2021-07-19,,
+13189,Vermilion,American Indian or Alaska Nati,70,70,0,37,37,2021-07-19,,
+13190,Vermilion,Native Hawaiian or Other Pacif,30,30,0,15,15,2021-07-19,,
+13191,De Witt,White,11454,11454,0,5829,5829,2021-07-19,,
+13192,De Witt,Hispanic or Latino,201,201,0,99,99,2021-07-19,,
+13193,De Witt,Unknown,110,110,0,54,54,2021-07-19,,
+13194,De Witt,Other race,94,94,0,52,52,2021-07-19,,
+13195,De Witt,Asian,48,48,0,23,23,2021-07-19,,
+13196,De Witt,Black or African-American,39,39,0,17,17,2021-07-19,,
+13197,De Witt,American Indian or Alaska Nati,30,30,0,1,<10,2021-07-19,,
+13198,De Witt,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
+13199,Douglas,White,11591,11591,0,5792,5792,2021-07-19,,
+13200,Douglas,Unknown,961,961,0,469,469,2021-07-19,,
+13201,Douglas,Hispanic or Latino,743,743,0,360,360,2021-07-19,,
+13202,Douglas,Other race,266,266,0,131,131,2021-07-19,,
+13203,Douglas,Asian,90,90,0,47,47,2021-07-19,,
+13204,Douglas,Black or African-American,46,46,0,21,21,2021-07-19,,
+13205,Douglas,American Indian or Alaska Nati,17,17,0,1,<10,2021-07-19,,
+13206,Douglas,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
+13207,Chicago,White,1042777,1042777,0,516391,516391,2021-07-19,,
+13208,Chicago,Hispanic or Latino,692659,692659,0,334994,334994,2021-07-19,,
+13209,Chicago,Black or African-American,555549,555549,0,266326,266326,2021-07-19,,
+13210,Chicago,Asian,221725,221725,0,107590,107590,2021-07-19,,
+13211,Chicago,Unknown,167058,167058,0,78408,78408,2021-07-19,,
+13212,Chicago,Other race,139246,139246,0,66979,66979,2021-07-19,,
+13213,Chicago,American Indian or Alaska Nati,10417,10417,0,4944,4944,2021-07-19,,
+13214,Chicago,Native Hawaiian or Other Pacif,4986,4986,0,2460,2460,2021-07-19,,
+13215,Chicago,Middle Eastern or North Africa,58,58,0,28,28,2021-07-19,,
+13216,Marion,White,20646,20646,0,10465,10465,2021-07-19,,
+13217,Marion,Unknown,997,997,0,518,518,2021-07-19,,
+13218,Marion,Black or African-American,757,757,0,375,375,2021-07-19,,
+13219,Marion,Hispanic or Latino,307,307,0,153,153,2021-07-19,,
+13220,Marion,Other race,210,210,0,113,113,2021-07-19,,
+13221,Marion,Asian,209,209,0,106,106,2021-07-19,,
+13222,Marion,American Indian or Alaska Nati,48,48,0,25,25,2021-07-19,,
+13223,Marion,Native Hawaiian or Other Pacif,12,12,0,1,<10,2021-07-19,,
+13224,Winnebago,White,173952,173952,0,86442,86442,2021-07-19,,
+13225,Winnebago,Unknown,21652,21652,0,10717,10717,2021-07-19,,
+13226,Winnebago,Black or African-American,18880,18880,0,9215,9215,2021-07-19,,
+13227,Winnebago,Hispanic or Latino,15306,15306,0,7143,7143,2021-07-19,,
+13228,Winnebago,Other race,6697,6697,0,3221,3221,2021-07-19,,
+13229,Winnebago,Asian,6429,6429,0,3116,3116,2021-07-19,,
+13230,Winnebago,American Indian or Alaska Nati,606,606,0,285,285,2021-07-19,,
+13231,Winnebago,Native Hawaiian or Other Pacif,346,346,0,168,168,2021-07-19,,
+13232,Grundy,White,37257,37257,0,18309,18309,2021-07-19,,
+13233,Grundy,Hispanic or Latino,3434,3434,0,1592,1592,2021-07-19,,
+13234,Grundy,Unknown,963,963,0,440,440,2021-07-19,,
+13235,Grundy,Other race,868,868,0,427,427,2021-07-19,,
+13236,Grundy,Black or African-American,596,596,0,284,284,2021-07-19,,
+13237,Grundy,Asian,523,523,0,251,251,2021-07-19,,
+13238,Grundy,American Indian or Alaska Nati,81,81,0,39,39,2021-07-19,,
+13239,Grundy,Native Hawaiian or Other Pacif,27,27,0,12,12,2021-07-19,,
+13240,Jo Daviess,White,14505,14505,0,7792,7792,2021-07-19,,
+13241,Jo Daviess,Hispanic or Latino,374,374,0,200,200,2021-07-19,,
+13242,Jo Daviess,Unknown,283,283,0,144,144,2021-07-19,,
+13243,Jo Daviess,Other race,164,164,0,97,97,2021-07-19,,
+13244,Jo Daviess,Asian,87,87,0,47,47,2021-07-19,,
+13245,Jo Daviess,Black or African-American,57,57,0,30,30,2021-07-19,,
+13246,Jo Daviess,American Indian or Alaska Nati,13,13,0,1,<10,2021-07-19,,
+13247,Jo Daviess,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
+13248,Lake,White,464222,464222,0,228528,228528,2021-07-19,,
+13249,Lake,Hispanic or Latino,113194,113194,0,53879,53879,2021-07-19,,
+13250,Lake,Asian,65363,65363,0,31572,31572,2021-07-19,,
+13251,Lake,Other race,32116,32116,0,15223,15223,2021-07-19,,
+13252,Lake,Unknown,28853,28853,0,13426,13426,2021-07-19,,
+13253,Lake,Black or African-American,27945,27945,0,13350,13350,2021-07-19,,
+13254,Lake,American Indian or Alaska Nati,2857,2857,0,1370,1370,2021-07-19,,
+13255,Lake,Native Hawaiian or Other Pacif,1341,1341,0,637,637,2021-07-19,,
+13256,Lake,Middle Eastern or North Africa,11,11,0,1,<10,2021-07-19,,
+13257,Franklin,White,22159,22159,0,11235,11235,2021-07-19,,
+13258,Franklin,Unknown,295,295,0,133,133,2021-07-19,,
+13259,Franklin,Hispanic or Latino,266,266,0,128,128,2021-07-19,,
+13260,Franklin,Other race,204,204,0,100,100,2021-07-19,,
+13261,Franklin,Asian,142,142,0,68,68,2021-07-19,,
+13262,Franklin,Black or African-American,87,87,0,40,40,2021-07-19,,
+13263,Franklin,American Indian or Alaska Nati,15,15,0,1,<10,2021-07-19,,
+13264,Franklin,Native Hawaiian or Other Pacif,14,14,0,1,<10,2021-07-19,,
+13265,Will,White,423961,423961,0,208415,208415,2021-07-19,,
+13266,Will,Hispanic or Latino,96213,96213,0,44884,44884,2021-07-19,,
+13267,Will,Black or African-American,61642,61642,0,29395,29395,2021-07-19,,
+13268,Will,Asian,52942,52942,0,25488,25488,2021-07-19,,
+13269,Will,Unknown,34723,34723,0,16418,16418,2021-07-19,,
+13270,Will,Other race,27348,27348,0,13057,13057,2021-07-19,,
+13271,Will,American Indian or Alaska Nati,2738,2738,0,1316,1316,2021-07-19,,
+13272,Will,Native Hawaiian or Other Pacif,1221,1221,0,595,595,2021-07-19,,
+13273,Will,Middle Eastern or North Africa,10,10,0,1,<10,2021-07-19,,
+13274,DeKalb,White,71137,71137,0,35034,35034,2021-07-19,,
+13275,DeKalb,Hispanic or Latino,8813,8813,0,4091,4091,2021-07-19,,
+13276,DeKalb,Black or African-American,3557,3557,0,1685,1685,2021-07-19,,
+13277,DeKalb,Asian,2717,2717,0,1298,1298,2021-07-19,,
+13278,DeKalb,Unknown,2699,2699,0,1249,1249,2021-07-19,,
+13279,DeKalb,Other race,2118,2118,0,1022,1022,2021-07-19,,
+13280,DeKalb,American Indian or Alaska Nati,293,293,0,138,138,2021-07-19,,
+13281,DeKalb,Native Hawaiian or Other Pacif,92,92,0,42,42,2021-07-19,,
+13282,DeKalb,Middle Eastern or North Africa,1,<10,0,1,<10,2021-07-19,,
+13283,White,White,7354,7354,0,3857,3857,2021-07-19,,
+13284,White,Unknown,480,480,0,237,237,2021-07-19,,
+13285,White,Hispanic or Latino,160,160,0,81,81,2021-07-19,,
+13286,White,Other race,41,41,0,20,20,2021-07-19,,
+13287,White,Asian,38,38,0,20,20,2021-07-19,,
+13288,White,Black or African-American,28,28,0,16,16,2021-07-19,,
+13289,White,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
+13290,White,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,,
+13291,Kane,White,334713,334713,0,166192,166192,2021-07-19,,
+13292,Kane,Hispanic or Latino,119989,119989,0,56325,56325,2021-07-19,,
+13293,Kane,Asian,26253,26253,0,12814,12814,2021-07-19,,
+13294,Kane,Black or African-American,19126,19126,0,9129,9129,2021-07-19,,
+13295,Kane,Other race,18538,18538,0,9042,9042,2021-07-19,,
+13296,Kane,Unknown,14917,14917,0,6963,6963,2021-07-19,,
+13297,Kane,American Indian or Alaska Nati,1545,1545,0,764,764,2021-07-19,,
+13298,Kane,Native Hawaiian or Other Pacif,886,886,0,435,435,2021-07-19,,
+13299,Kane,Middle Eastern or North Africa,14,14,0,1,<10,2021-07-19,,
+13300,Carroll,White,9038,9038,0,4818,4818,2021-07-19,,
+13301,Carroll,Unknown,346,346,0,171,171,2021-07-19,,
+13302,Carroll,Hispanic or Latino,181,181,0,91,91,2021-07-19,,
+13303,Carroll,Other race,146,146,0,72,72,2021-07-19,,
+13304,Carroll,Black or African-American,51,51,0,24,24,2021-07-19,,
+13305,Carroll,Asian,39,39,0,19,19,2021-07-19,,
+13306,Carroll,American Indian or Alaska Nati,23,23,0,11,11,2021-07-19,,
+13307,Carroll,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
+13308,McHenry,White,251018,251018,0,123372,123372,2021-07-19,,
+13309,McHenry,Hispanic or Latino,29068,29068,0,13365,13365,2021-07-19,,
+13310,McHenry,Asian,11162,11162,0,5399,5399,2021-07-19,,
+13311,McHenry,Other race,8122,8122,0,3789,3789,2021-07-19,,
+13312,McHenry,Unknown,7914,7914,0,3663,3663,2021-07-19,,
+13313,McHenry,Black or African-American,3593,3593,0,1718,1718,2021-07-19,,
+13314,McHenry,American Indian or Alaska Nati,1067,1067,0,508,508,2021-07-19,,
+13315,McHenry,Native Hawaiian or Other Pacif,492,492,0,245,245,2021-07-19,,
+13316,McHenry,Middle Eastern or North Africa,1,<10,0,1,<10,2021-07-19,,
+13317,Edgar,White,10376,10376,0,5402,5402,2021-07-19,,
+13318,Edgar,Hispanic or Latino,126,126,0,73,73,2021-07-19,,
+13319,Edgar,Unknown,129,129,0,59,59,2021-07-19,,
+13320,Edgar,Asian,73,73,0,38,38,2021-07-19,,
+13321,Edgar,Other race,47,47,0,21,21,2021-07-19,,
+13322,Edgar,Black or African-American,27,27,0,13,13,2021-07-19,,
+13323,Edgar,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,,
+13324,Edgar,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
+13325,Clark,White,9574,9574,0,4834,4834,2021-07-19,,
+13326,Clark,Unknown,175,175,0,78,78,2021-07-19,,
+13327,Clark,Hispanic or Latino,134,134,0,70,70,2021-07-19,,
+13328,Clark,Other race,47,47,0,22,22,2021-07-19,,
+13329,Clark,Asian,45,45,0,22,22,2021-07-19,,
+13330,Clark,Black or African-American,17,17,0,1,<10,2021-07-19,,
+13331,Clark,Native Hawaiian or Other Pacif,14,14,0,1,<10,2021-07-19,,
+13332,Clark,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,,
+13333,Edwards,White,3070,3070,0,1600,1600,2021-07-19,,
+13334,Edwards,Unknown,81,81,0,44,44,2021-07-19,,
+13335,Edwards,Asian,27,27,0,16,16,2021-07-19,,
+13336,Edwards,Hispanic or Latino,10,10,0,1,<10,2021-07-19,,
+13337,Edwards,Other race,10,10,0,1,<10,2021-07-19,,
+13338,Edwards,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,,
+13339,Edwards,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
+13340,Edwards,Black or African-American,1,<10,0,1,<10,2021-07-19,,
+13341,Boone,White,35450,35450,0,17681,17681,2021-07-19,,
+13342,Boone,Hispanic or Latino,7943,7943,0,3686,3686,2021-07-19,,
+13343,Boone,Unknown,1872,1872,0,884,884,2021-07-19,,
+13344,Boone,Other race,1172,1172,0,574,574,2021-07-19,,
+13345,Boone,Black or African-American,803,803,0,381,381,2021-07-19,,
+13346,Boone,Asian,606,606,0,300,300,2021-07-19,,
+13347,Boone,American Indian or Alaska Nati,185,185,0,86,86,2021-07-19,,
+13348,Boone,Native Hawaiian or Other Pacif,75,75,0,35,35,2021-07-19,,
+13349,Pope,White,1828,1828,0,916,916,2021-07-19,,
+13350,Pope,Unknown,107,107,0,52,52,2021-07-19,,
+13351,Pope,Other race,27,27,0,15,15,2021-07-19,,
+13352,Pope,Black or African-American,14,14,0,1,<10,2021-07-19,,
+13353,Pope,Asian,1,<10,0,1,<10,2021-07-19,,
+13354,Pope,Hispanic or Latino,1,<10,0,1,<10,2021-07-19,,
+13355,Johnson,White,6698,6698,0,3355,3355,2021-07-19,,
+13356,Johnson,Black or African-American,910,910,0,461,461,2021-07-19,,
+13357,Johnson,Hispanic or Latino,364,364,0,178,178,2021-07-19,,
+13358,Johnson,Unknown,170,170,0,83,83,2021-07-19,,
+13359,Johnson,Other race,82,82,0,40,40,2021-07-19,,
+13360,Johnson,Asian,24,24,0,12,12,2021-07-19,,
+13361,Johnson,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,,
+13362,Johnson,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
+13363,Henderson,White,2464,2464,0,1300,1300,2021-07-19,,
+13364,Henderson,Unknown,216,216,0,102,102,2021-07-19,,
+13365,Henderson,Other race,18,18,0,1,<10,2021-07-19,,
+13366,Henderson,Hispanic or Latino,12,12,0,1,<10,2021-07-19,,
+13367,Henderson,Black or African-American,10,10,0,1,<10,2021-07-19,,
+13368,Henderson,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,,
+13369,Henderson,Asian,1,<10,0,1,<10,2021-07-19,,
+13370,Shelby,White,10820,10820,0,6089,6089,2021-07-19,,
+13371,Shelby,Unknown,207,207,0,109,109,2021-07-19,,
+13372,Shelby,Hispanic or Latino,86,86,0,49,49,2021-07-19,,
+13373,Shelby,Other race,66,66,0,36,36,2021-07-19,,
+13374,Shelby,Asian,38,38,0,22,22,2021-07-19,,
+13375,Shelby,Black or African-American,29,29,0,16,16,2021-07-19,,
+13376,Shelby,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,,
+13377,Shelby,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
+13378,Fayette,White,9225,9225,0,4793,4793,2021-07-19,,
+13379,Fayette,Unknown,247,247,0,122,122,2021-07-19,,
+13380,Fayette,Hispanic or Latino,168,168,0,98,98,2021-07-19,,
+13381,Fayette,Other race,123,123,0,69,69,2021-07-19,,
+13382,Fayette,Black or African-American,102,102,0,55,55,2021-07-19,,
+13383,Fayette,Asian,44,44,0,24,24,2021-07-19,,
+13384,Fayette,Native Hawaiian or Other Pacif,10,10,0,1,<10,2021-07-19,,
+13385,Fayette,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,,
+13386,Pulaski,White,1527,1527,0,768,768,2021-07-19,,
+13387,Pulaski,Black or African-American,628,628,0,312,312,2021-07-19,,
+13388,Pulaski,Unknown,175,175,0,110,110,2021-07-19,,
+13389,Pulaski,Other race,48,48,0,23,23,2021-07-19,,
+13390,Pulaski,Hispanic or Latino,32,32,0,12,12,2021-07-19,,
+13391,Pulaski,Asian,15,15,0,1,<10,2021-07-19,,
+13392,Pulaski,American Indian or Alaska Nati,13,13,0,1,<10,2021-07-19,,
+13393,Massac,White,6564,6564,0,3240,3240,2021-07-19,,
+13394,Massac,Unknown,631,631,0,300,300,2021-07-19,,
+13395,Massac,Black or African-American,531,531,0,249,249,2021-07-19,,
+13396,Massac,Other race,88,88,0,41,41,2021-07-19,,
+13397,Massac,Hispanic or Latino,81,81,0,33,33,2021-07-19,,
+13398,Massac,Asian,24,24,0,13,13,2021-07-19,,
+13399,Massac,American Indian or Alaska Nati,11,11,0,1,<10,2021-07-19,,
+13400,Massac,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
+13401,Alexander,White,1056,1056,0,519,519,2021-07-19,,
+13402,Alexander,Black or African-American,625,625,0,305,305,2021-07-19,,
+13403,Alexander,Unknown,125,125,0,60,60,2021-07-19,,
+13404,Alexander,Other race,20,20,0,10,10,2021-07-19,,
+13405,Alexander,Hispanic or Latino,14,14,0,1,<10,2021-07-19,,
+13406,Alexander,American Indian or Alaska Nati,1,<10,0,1,<10,2021-07-19,,
+13407,Alexander,Native Hawaiian or Other Pacif,1,<10,0,1,<10,2021-07-19,,
