@@ -103,5 +103,5 @@ census_county_name,county_name,administered_count,administered_count_roll_avg,pe
 "Pulaski County, IL",Pulaski,2586,7.0,1290,23.613399231191654
 "Henderson County, IL",Henderson,2815,3.0,1469,21.895960649873306
 "Alexander County, IL",Alexander,1920,4.0,936,15.445544554455445
-"Unknown County, IL",Unknown,156784,458.0,78240,0.0
+"Unknown County, IL",Unknown,0,0.0,0,0.0
 "Out Of State County, IL",Out Of State,282816,860.0,128794,0.0
