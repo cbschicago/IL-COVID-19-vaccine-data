@@ -1,5 +1,5 @@
 census_county_name,county_name,administered_count,administered_count_roll_avg,persons_fully_vaccinated,pct_vaccinated_population
-"Illinois County, IL",Illinois,13393429,24965.0,6625415,52.00041911674678
+"Illinois County, IL",Illinois,13393429,24965.0,6498129,51.00139862554822
 "DuPage County, IL",DuPage,1135487,1738.0,563411,60.673882632682485
 "Cook County, IL",Cook,2821971,4970.0,1396254,56.4257249649323
 "Lake County, IL",Lake,760167,1341.0,374710,53.466451303593445
@@ -103,5 +103,5 @@ census_county_name,county_name,administered_count,administered_count_roll_avg,pe
 "Pulaski County, IL",Pulaski,2603,8.0,1310,23.979498444078345
 "Henderson County, IL",Henderson,2823,3.0,1478,22.030108809062455
 "Alexander County, IL",Alexander,1915,4.0,935,15.42904290429043
-"Unknown County, IL",Unknown,140676,301.0,69775,0.0
+"Unknown County, IL",Unknown,281087,594.0,139417,0.0
 "Out Of State County, IL",Out Of State,275642,816.0,127286,0.0
