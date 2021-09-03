@@ -1,14 +1,8 @@
-2021-09-03T09:14:07.527358
+2021-09-03T11:12:14.250208
 
 src/scrapers/get_cdph_citywide_by_day.py
 src/scrapers/get_cdph_zip_code_current.py
 src/scrapers/get_idph_administration_current.py
-request to url https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/getVaccineAdministration?countyName=Cass failed. retrying [1/5]
-Error was ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-request to url https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/getVaccineAdministration?countyName=Calhoun failed. retrying [1/5]
-Error was ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-request to url https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/getVaccineAdministration?countyName=Kendall failed. retrying [1/5]
-Error was ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 src/scrapers/get_idph_cumulative_daily.py
 src/scrapers/get_idph_demographics.py
 src/scrapers/get_indiana_dph_cumulative_daily.py
