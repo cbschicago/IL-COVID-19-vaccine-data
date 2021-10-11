@@ -17,7 +17,7 @@ charts = [
     "qV77i",
     "Hq3Ai",
     "bvbM8",
-    "Cf9Pv",
+    "Z1ofc",
 ]
 
 for chart_id in charts:

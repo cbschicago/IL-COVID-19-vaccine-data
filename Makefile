@@ -32,3 +32,6 @@ graphics: \
 		echo $$SCRIPT >> $$log ; \
 		python $$SCRIPT >> $$log ; \
 	done ;
+
+force-refresh: src/update_graphics.py
+	python $^ > output/log/refresh_log.txt
