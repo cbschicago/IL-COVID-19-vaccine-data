@@ -1,4 +1,5 @@
 census_county_name,county_name,administered_count,administered_count_roll_avg,persons_fully_vaccinated,pct_vaccinated_population
+"Illinois County, IL",Illinois,14994065,27051.0,7150353,56.12046231559648
 "DuPage County, IL",DuPage,1249723,2271.0,607692,65.44251547239952
 "Cook County, IL",Cook,3148711,6063.0,1525867,61.663674141715155
 "Lake County, IL",Lake,851087,1566.0,409962,58.496472763800746
@@ -7,13 +8,19 @@ census_county_name,county_name,administered_count,administered_count_roll_avg,pe
 "McHenry County, IL",McHenry,358699,501.0,175497,56.87429108468095
 "Will County, IL",Will,813563,1351.0,392731,56.72762201903772
 "Kane County, IL",Kane,618381,946.0,302805,56.68212857720473
+"Sangamon County, IL",Sangamon,226632,412.0,110250,56.437741876036604
+"Champaign County, IL",Champaign,239301,473.0,115414,54.963497044998874
 "McLean County, IL",McLean,190662,230.0,94852,54.88231073668619
 "Monroe County, IL",Monroe,37310,69.0,18431,53.67991845056065
 "Lee County, IL",Lee,35029,41.0,17802,52.01764894953686
+"Peoria County, IL",Peoria,191359,270.0,93883,51.97789847249212
 "Boone County, IL",Boone,56643,104.0,27786,51.861806372137295
 "Tazewell County, IL",Tazewell,136977,209.0,68183,51.52575418656671
+"Cass County, IL",Cass,12751,20.0,6283,51.24796084828711
+"Knox County, IL",Knox,51979,67.0,25531,50.947876756066414
 "Madison County, IL",Madison,269060,561.0,134304,50.784047553325436
 "LaSalle County, IL",LaSalle,113281,157.0,55310,50.54372658320388
+"Piatt County, IL",Piatt,16828,21.0,8287,50.54281532080995
 "Menard County, IL",Menard,12448,21.0,6191,50.382486979166664
 "Henry County, IL",Henry,49423,64.0,24582,50.07537176614382
 "Washington County, IL",Washington,13471,22.0,6995,49.982136477313325
@@ -26,10 +33,15 @@ census_county_name,county_name,administered_count,administered_count_roll_avg,pe
 "Woodford County, IL",Woodford,37643,41.0,18825,48.94314016067389
 "St. Clair County, IL",St. Clair,263620,632.0,127710,48.91997594413524
 "Winnebago County, IL",Winnebago,284593,565.0,138384,48.712867104804616
+"Putnam County, IL",Putnam,5670,7.0,2796,48.71080139372822
 "Bureau County, IL",Bureau,32863,40.0,16032,48.59212560240051
+"Morgan County, IL",Morgan,33504,87.0,16417,48.31940193077466
+"Jersey County, IL",Jersey,21464,41.0,10447,47.81892250652263
 "Logan County, IL",Logan,26556,42.0,13804,47.723422644770956
+"Ford County, IL",Ford,13268,29.0,6315,47.61007237635705
 "Macoupin County, IL",Macoupin,44318,90.0,21556,47.571337143865996
 "Mercer County, IL",Mercer,14797,22.0,7305,46.823921543490805
+"Adams County, IL",Adams,58457,137.0,30705,46.74156277115586
 "Whiteside County, IL",Whiteside,51164,46.0,25972,46.690396577140184
 "Union County, IL",Union,16059,29.0,7834,46.51742770619322
 "Mason County, IL",Mason,12264,15.0,6296,46.413564319941024
@@ -44,6 +56,7 @@ census_county_name,county_name,administered_count,administered_count_roll_avg,pe
 "Livingston County, IL",Livingston,31851,42.0,15914,44.50099270154638
 "Williamson County, IL",Williamson,59027,122.0,29764,44.38678119780482
 "Randolph County, IL",Randolph,28035,33.0,14137,44.0322681118794
+"Schuyler County, IL",Schuyler,5990,14.0,3025,43.796148834515705
 "Kankakee County, IL",Kankakee,93979,170.0,47264,42.95790009452483
 "Warren County, IL",Warren,14584,24.0,7267,42.66674495068107
 "McDonough County, IL",McDonough,24586,30.0,12774,42.64396594892339
@@ -69,12 +82,16 @@ census_county_name,county_name,administered_count,administered_count_roll_avg,pe
 "Franklin County, IL",Franklin,29595,53.0,14769,38.161804604532186
 "Vermilion County, IL",Vermilion,54156,73.0,28885,37.60773897872562
 "White County, IL",White,10121,18.0,5138,37.59970728137578
+"Calhoun County, IL",Calhoun,3639,2.0,1803,37.54685547688463
 "Scott County, IL",Scott,3684,5.0,1849,37.535525781567195
 "Jasper County, IL",Jasper,7200,8.0,3590,37.353032983040265
 "Moultrie County, IL",Moultrie,10227,12.0,5490,37.303798328463685
 "Lawrence County, IL",Lawrence,11237,12.0,5625,35.68030447193149
 "Shelby County, IL",Shelby,14057,25.0,7711,35.467549790718
+"Pike County, IL",Pike,10587,12.0,5499,35.22516174492345
+"Greene County, IL",Greene,9259,11.0,4546,34.851272615762035
 "Cumberland County, IL",Cumberland,7222,9.0,3709,34.31717246484086
+"Hancock County, IL",Hancock,11994,16.0,6120,34.29724277067922
 "Wayne County, IL",Wayne,11055,13.0,5552,33.99461180504531
 "Clay County, IL",Clay,8816,8.0,4480,33.80366709424281
 "Massac County, IL",Massac,9628,12.0,4689,33.30255681818181
