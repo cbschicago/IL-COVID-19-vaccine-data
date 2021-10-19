@@ -1,5 +1,5 @@
 census_county_name,county_name,l_h_d_reported_inventory,community_reported_inventory,total_reported_inventory,total_inventory_per_100k,latitude,longitude
-"Illinois County, IL",Illinois,126508,271405,398363,3126.6030823132737,39.839888,-89.510168
+"Illinois County, IL",Illinois,126360,271473,398283,3125.9751920559324,39.839888,-89.510168
 "Pulaski County, IL",Pulaski,976,230,1206,22075.782537067545,37.2512,-89.1325
 "Massac County, IL",Massac,0,2404,2404,17073.863636363636,37.2478,-88.7494
 "Adams County, IL",Adams,9020,1075,10095,15367.40192720464,40.0578,-91.1353
@@ -19,21 +19,21 @@ census_county_name,county_name,l_h_d_reported_inventory,community_reported_inven
 "Pike County, IL",Pike,1217,12,1229,7872.653897892512,39.5662,-90.8294
 "Bond County, IL",Bond,1147,106,1253,7534.576067348165,38.903,-89.4742
 "Clay County, IL",Clay,616,368,984,7424.734022485475,38.7279,-88.5565
-"Champaign County, IL",Champaign,6400,8808,15208,7242.4910587999975,40.2139,-88.2461
 "Perry County, IL",Perry,1388,140,1528,7216.397468593558,38.0612,-89.3227
+"Champaign County, IL",Champaign,6400,8699,15099,7190.582094741004,40.2139,-88.2461
 "Cumberland County, IL",Cumberland,650,125,775,7170.61435973353,39.2654,-88.2072
-"Sangamon County, IL",Sangamon,2398,11324,13722,7024.3872473739175,39.7337,-89.6252
+"Sangamon County, IL",Sangamon,2398,11272,13670,6997.768085672748,39.7337,-89.6252
 "Union County, IL",Union,0,1168,1168,6935.455139243512,37.5087,-89.2847
 "Schuyler County, IL",Schuyler,104,364,468,6775.734761835819,40.1845,-90.6394
 "Macoupin County, IL",Macoupin,2398,550,2948,6505.859245691083,39.2375,-89.9253
 "Effingham County, IL",Effingham,0,2049,2049,5989.826941066417,39.0622,-88.5565
-"Lawrence County, IL",Lawrence,929,0,929,5892.800507453219,38.7158,-87.7763
-"Cook County, IL",Cook,39064,105298,144362,5833.989021616093,42.050784,-87.963759
+"Cook County, IL",Cook,39064,105205,144269,5830.230685080091,42.050784,-87.963759
 "Coles County, IL",Coles,1517,1374,2891,5681.438537879532,39.556,-88.2461
 "Macon County, IL",Macon,1611,3883,5494,5246.77209870884,39.8949,-89.0179
 "Kankakee County, IL",Kankakee,2596,3013,5609,5097.978622845924,41.1791,-87.7763
+"Lawrence County, IL",Lawrence,781,0,781,4954.012052013955,38.7158,-87.7763
 "Warren County, IL",Warren,538,300,838,4920.150305307657,40.8759,-90.6773
-"DuPage County, IL",DuPage,7795,35814,43609,4696.264978370409,41.8244,-88.0901
+"DuPage County, IL",DuPage,7795,35804,43599,4695.188075671799,41.8244,-88.0901
 "St. Clair County, IL",St. Clair,0,11388,11388,4362.232292317062,38.4008,-89.9253
 "Clark County, IL",Clark,472,206,678,4347.268530392408,39.3824,-87.7763
 "Jackson County, IL",Jackson,475,1854,2329,4056.1486615928525,37.7218,-89.3227
@@ -57,7 +57,7 @@ census_county_name,county_name,l_h_d_reported_inventory,community_reported_inven
 "Fayette County, IL",Fayette,562,0,562,2624.2062009712363,39.067,-89.0179
 "Ogle County, IL",Ogle,640,638,1278,2509.671464760521,41.997,-89.3227
 "Williamson County, IL",Williamson,1434,228,1662,2478.5254115962775,37.7183,-88.8647
-"Lake County, IL",Lake,6757,10042,16799,2397.0081274827635,42.3689,-87.8272
+"Lake County, IL",Lake,6757,9970,16727,2386.734623989772,42.3689,-87.8272
 "Winnebago County, IL",Winnebago,0,6507,6507,2290.5438941710286,42.3121,-89.1706
 "Lee County, IL",Lee,300,462,762,2226.5727726967248,41.679,-89.3227
 "Madison County, IL",Madison,3814,1838,5652,2137.177126305958,38.9041,-89.9253
@@ -73,10 +73,10 @@ census_county_name,county_name,l_h_d_reported_inventory,community_reported_inven
 "Jasper County, IL",Jasper,141,0,141,1467.0689834564562,39.0555,-88.0901
 "White County, IL",White,0,200,200,1463.5931211123307,38.0501,-88.2461
 "McLean County, IL",McLean,1846,661,2507,1450.5751382877775,40.5478,-88.8647
+"Kane County, IL",Kane,2528,4733,7261,1359.1880437875316,41.9879,-88.4016
 "Monroe County, IL",Monroe,420,40,460,1339.7407892820738,38.2743,-90.187
 "Livingston County, IL",Livingston,365,100,465,1300.2992086351053,40.8689,-88.5565
 "Moultrie County, IL",Moultrie,190,0,190,1291.0239858666848,39.6021,-88.5952
-"Kane County, IL",Kane,2528,4333,6861,1284.3119637000764,41.9879,-88.4016
 "Richland County, IL",Richland,202,0,202,1281.4819514051892,38.7213,-88.0901
 "DeKalb County, IL",DeKalb,898,436,1334,1280.9310275294547,41.833,-88.7109
 "Scott County, IL",Scott,56,0,56,1136.8250101502233,39.6095,-90.488
@@ -87,7 +87,7 @@ census_county_name,county_name,l_h_d_reported_inventory,community_reported_inven
 "Jo Daviess County, IL",Jo Daviess,200,18,218,1020.3126462604138,42.3149,-90.2245
 "Carroll County, IL",Carroll,105,30,135,943.2643935159307,42.0386,-89.9627
 "Tazewell County, IL",Tazewell,1064,159,1223,924.2186083066321,40.5522,-89.4742
-"Will County, IL",Will,0,6226,6226,899.3081134173997,41.5055,-88.0901
+"Will County, IL",Will,0,6230,6230,899.885889269258,41.5055,-88.0901
 "Washington County, IL",Washington,100,20,120,857.4490889603429,38.3989,-89.3227
 "Edgar County, IL",Edgar,0,144,144,829.4930875576038,39.7131,-87.7763
 "Kendall County, IL",Kendall,983,54,1037,810.6946018840636,41.5507,-88.4404
@@ -97,10 +97,10 @@ census_county_name,county_name,l_h_d_reported_inventory,community_reported_inven
 "Vermilion County, IL",Vermilion,0,235,235,305.96567976460176,40.1225,-87.6976
 "Marshall County, IL",Marshall,20,0,20,173.40038148083926,40.9973,-89.3606
 "Stephenson County, IL",Stephenson,0,60,60,134.0692244095368,42.3145,-89.6252
-"Piatt County, IL",Piatt,0,0,0,0.0,40.02861312,-88.57328
 "Chicago County, IL",Chicago,0,0,0,0.0,41.789896,-87.627734
-"Menard County, IL",Menard,0,0,0,0.0,40.0221,-89.813
+"Piatt County, IL",Piatt,0,0,0,0.0,40.02861312,-88.57328
 "Pope County, IL",Pope,0,0,0,0.0,37.4171,-88.5952
+"Menard County, IL",Menard,0,0,0,0.0,40.0221,-89.813
 "Putnam County, IL",Putnam,0,0,0,0.0,41.2385,-89.2847
 "Stark County, IL",Stark,0,0,0,0.0,41.0796,-89.813
 "Unknown County, IL",Unknown,0,0,0,,0.0,0.0
