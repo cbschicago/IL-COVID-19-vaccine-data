@@ -1,29 +1,11 @@
-2021-10-20T09:14:28.754132
+2021-10-20T11:12:24.434568
 
 src/scrapers/get_cdph_citywide_by_day.py
 src/scrapers/get_cdph_zip_code_current.py
 src/scrapers/get_idph_administration_current.py
+request to url https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/getVaccineAdministration?countyName=Illinois failed. retrying [1/5]
+Error was ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 request to url https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/getVaccineAdministration?countyName=Adams failed. retrying [1/5]
-Error was ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-request to url https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/getVaccineAdministration?countyName=Putnam failed. retrying [1/5]
-Error was ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-request to url https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/getVaccineAdministration?countyName=Jersey failed. retrying [1/5]
-Error was ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-request to url https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/getVaccineAdministration?countyName=Jasper failed. retrying [1/5]
-Error was ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-request to url https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/getVaccineAdministration?countyName=Clay failed. retrying [1/5]
-Error was ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-request to url https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/getVaccineAdministration?countyName=Logan failed. retrying [1/5]
-Error was ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-request to url https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/getVaccineAdministration?countyName=Logan failed. retrying [1/5]
-Error was ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-request to url https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/getVaccineAdministration?countyName=Logan failed. retrying [1/5]
-Error was ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-request to url https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/getVaccineAdministration?countyName=Williamson failed. retrying [1/5]
-Error was ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-request to url https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/getVaccineAdministration?countyName=Monroe failed. retrying [1/5]
-Error was ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-request to url https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/getVaccineAdministration?countyName=Monroe failed. retrying [1/5]
 Error was ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 src/scrapers/get_idph_cumulative_daily.py
 src/scrapers/get_idph_demographics.py
