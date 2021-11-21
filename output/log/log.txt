@@ -1,8 +1,44 @@
-2021-11-21T02:36:30.085207
+2021-11-21T03:15:23.052188
 
 src/scrapers/get_cdph_citywide_by_day.py
 src/scrapers/get_cdph_zip_code_current.py
 src/scrapers/get_idph_administration_current.py
+request to url https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/getVaccineAdministration?countyName=Hancock failed. retrying [1/5]
+Error was ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+request to url https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/getVaccineAdministration?countyName=Hancock failed. retrying [1/5]
+Error was ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+request to url https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/getVaccineAdministration?countyName=Piatt failed. retrying [1/5]
+Error was ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+request to url https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/getVaccineAdministration?countyName=Piatt failed. retrying [1/5]
+Error was ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+request to url https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/getVaccineAdministration?countyName=Crawford failed. retrying [1/5]
+Error was ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+request to url https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/getVaccineAdministration?countyName=Cumberland failed. retrying [1/5]
+Error was ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+request to url https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/getVaccineAdministration?countyName=Gallatin failed. retrying [1/5]
+Error was ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+request to url https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/getVaccineAdministration?countyName=Gallatin failed. retrying [1/5]
+Error was ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+request to url https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/getVaccineAdministration?countyName=Gallatin failed. retrying [1/5]
+Error was ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+request to url https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/getVaccineAdministration?countyName=Richland failed. retrying [1/5]
+Error was ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+request to url https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/getVaccineAdministration?countyName=Richland failed. retrying [1/5]
+Error was ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+request to url https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/getVaccineAdministration?countyName=Henderson failed. retrying [1/5]
+Error was ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+request to url https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/getVaccineAdministration?countyName=Shelby failed. retrying [1/5]
+Error was ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 src/scrapers/get_idph_cumulative_daily.py
 src/scrapers/get_idph_demographics.py
+request to url https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/getVaccineAdministrationDemos?countyname=Edwards failed. retrying [1/5]
+Error was ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+request to url https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/getVaccineAdministrationDemos?countyname=Boone failed. retrying [1/5]
+Error was ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+request to url https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/getVaccineAdministrationDemos?countyname=Johnson failed. retrying [1/5]
+Error was ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+request to url https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/getVaccineAdministrationDemos?countyname=Fayette failed. retrying [1/5]
+Error was ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+request to url https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/getVaccineAdministrationDemos?countyname=Fayette failed. retrying [1/5]
+Error was ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 src/scrapers/get_indiana_dph_cumulative_daily.py
