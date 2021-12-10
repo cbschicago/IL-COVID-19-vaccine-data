@@ -1,8 +1,16 @@
-2021-12-10T21:13:15.665533
+2021-12-10T22:14:50.924237
 
 src/scrapers/get_cdph_citywide_by_day.py
 src/scrapers/get_cdph_zip_code_current.py
 src/scrapers/get_idph_administration_current.py
+request to url https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/getVaccineAdministration?countyName=Cook failed. retrying [1/5]
+Error was ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 src/scrapers/get_idph_cumulative_daily.py
 src/scrapers/get_idph_demographics.py
+request to url https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/getVaccineAdministrationDemos?countyname=Jackson failed. retrying [1/5]
+Error was ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+request to url https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/getVaccineAdministrationDemos?countyname=Lee failed. retrying [1/5]
+Error was ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+request to url https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/getVaccineAdministrationDemos?countyname=Lee failed. retrying [1/5]
+Error was ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 src/scrapers/get_indiana_dph_cumulative_daily.py
