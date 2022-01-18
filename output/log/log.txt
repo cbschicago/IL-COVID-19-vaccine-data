@@ -1,14 +1,8 @@
-2022-01-18T14:15:14.636307
+2022-01-18T16:24:57.273172
 
 src/scrapers/get_cdph_citywide_by_day.py
 src/scrapers/get_cdph_zip_code_current.py
 src/scrapers/get_idph_administration_current.py
-request to url https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/getVaccineAdministration?countyName=Illinois failed. retrying [1/5]
-Error was HTTPSConnectionPool(host='idph.illinois.gov', port=443): Max retries exceeded with url: /DPHPublicInformation/api/covidVaccine/getVaccineAdministration?countyName=Illinois (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1d4ceff190>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
-request to url https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/getVaccineAdministration?countyName=Illinois failed. retrying [1/5]
-Error was HTTPSConnectionPool(host='idph.illinois.gov', port=443): Max retries exceeded with url: /DPHPublicInformation/api/covidVaccine/getVaccineAdministration?countyName=Illinois (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1d4ceff090>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
-request to url https://idph.illinois.gov/DPHPublicInformation/api/covidVaccine/getVaccineAdministration?countyName=Illinois failed. retrying [1/5]
-Error was HTTPSConnectionPool(host='idph.illinois.gov', port=443): Max retries exceeded with url: /DPHPublicInformation/api/covidVaccine/getVaccineAdministration?countyName=Illinois (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1d4ceff050>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
 src/scrapers/get_idph_cumulative_daily.py
 src/scrapers/get_idph_demographics.py
 src/scrapers/get_indiana_dph_cumulative_daily.py
